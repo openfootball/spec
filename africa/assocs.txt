@@ -93,10 +93,7 @@ mad, Fédération Malagasy de Football, mg,    fifa|caf|cosafa  ## Madagascar
 mwi, Football Association of Malawi,    mw,    fifa|caf|cosafa  ## Malawi
 moz, Federação Moçambicana de Futebol,  mz,    fifa|caf|cosafa  ## Mozambique
 nam, Namibia Football Association,      na,    fifa|caf|cosafa  ## Namibia
-
-## NB: sc renamed to yc (sc used for Scottland) -- fix: rename back to orginal!!! - use sco for scotland!!
-sey, Seychelles Football Federation, yc,    fifa|caf|cosafa  ## Seychelles
-
+sey, Seychelles Football Federation,    sc,    fifa|caf|cosafa  ## Seychelles
 rsa, South African Football Association, za,    fifa|caf|cosafa  ## South Africa
 swz, National Football Association of Swaziland,  sz,    fifa|caf|cosafa  ## Swaziland
 zam, Football Association of Zambia,     zm,    fifa|caf|cosafa   ## Zambia

@@ -61,11 +61,12 @@ arm, Football Federation of Armenia,  am, fifa|uefa   ## Armenia
 aze, Azərbaycan Futbol Federasiyaları Assosiasiyası,   az, fifa|uefa  ## Azerbaijan
 
 ###
-# fix: use three-letter country codes e.g. use eng,wal,nir,sco,etc.!!!
-eng, The Football Association,    en, fifa|uefa  ## England
-sco, Scottish Football Association,  sc, fifa|uefa  ## Scotland
-wal, Football Association of Wales,  wa, fifa|uefa  ## Wales
-nir, Irish Football Association,     nd, fifa|uefa   ## Northern Ireland
+# note: use three-letter country codes e.g. use eng,wal,nir,sco,etc.!!!
+
+eng, The Football Association,    eng, fifa|uefa  ## England
+sco, Scottish Football Association,  sco, fifa|uefa  ## Scotland
+wal, Football Association of Wales,  wal, fifa|uefa  ## Wales
+nir, Irish Football Association,     nir, fifa|uefa   ## Northern Ireland
 
 
 fro, Fótbóltssamband Føroya,  fo, fifa|uefa  ## Faroe Islands
