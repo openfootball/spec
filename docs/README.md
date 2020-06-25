@@ -115,7 +115,7 @@ Use blank links as you wish to make the text look pretty, that is, easy-to-read 
 
 ### Single-line comments
 
-You can use `\#` for comments or as an alternative `%` or `--` or `;`. Example:
+You can use `#` for comments. Example:
 
 ```
 
