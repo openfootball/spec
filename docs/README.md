@@ -1,8 +1,22 @@
 # Football.TXT Format Spec (& Tests)
 
-## Intro
+## Intro - Why? Philosophy
 
+Why not use JSON, CSV, XML, YAML, SQL, your <format of choice here>?
 Why invent yet another data format?
+
+Excercise: Try to write by hand the round-by-round match schedule
+for the English Premier League, for example?
+Did you enjoy writing the match schedule in JSON? in CSV? in XML? in SQL? in YAML?
+
+Now retry the exercise using the new Football.TXT mini language designed to make hand-crafting
+as easy as possible. See the difference?
+
+
+> Note: If you auto-generate your datasets and want to focus on
+> easy machine-writing and machine-reading, see the [Football.CSV format »](https://footballcsv.github.io/spec/) :-).
+
+
 The new Football.TXT mini data language for football match schedules using structured text
 offers you the best of both worlds, that is,
 1) looks 'n' feels like free-form plain text - easy-to-read and easy-to-write -
@@ -61,3 +75,55 @@ Group B:
 (36) Mon Jun 23 13:00   Netherlands - Chile       @ São Paulo (UTC-3)
 ...
 ```
+
+
+
+## Definitions
+
+### Round & Matchday Definition   (Optional)
+
+### Group Definition  (Optional)
+
+
+
+## Headers
+
+### Round & Matchday Header
+
+### Group Header
+
+### Date Header
+
+
+## Date Formats
+
+## Score Formats
+
+
+## Goal(s) Line
+
+
+## Stadiums & Grounds 
+
+
+
+## Comments & Blank Lines
+
+### Blank links
+
+Use blank links as you wish to make the text look pretty, that is, easy-to-read and easy-to-write.
+
+### Single-line comments
+
+You can use `\#` for comments or as an alternative `%` or `--` or `;`. Example:
+
+```
+
+```
+
+
+## Language (English, Deutsch, Espanol, etc.)
+
+
+...
+
