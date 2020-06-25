@@ -2,7 +2,7 @@
 
 ## Intro - Why? Philosophy
 
-Why not use JSON, CSV, XML, YAML, SQL, your <format of choice here>?
+Why not use JSON, CSV, XML, YAML, SQL, your ‹format of choice here›?
 Why invent yet another data format?
 
 Excercise: Try to write by hand the round-by-round match schedule
