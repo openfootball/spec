@@ -10,7 +10,7 @@ for the English Premier League, for example?
 Did you enjoy writing the match schedule in JSON? in CSV? in XML? in SQL? in YAML?
 
 Now retry the exercise using the new Football.TXT mini language designed to make hand-crafting
-as easy as possible. See the difference?  Football.TXT Example - [`england/2019-20/1-premierleague.txt`](https://github.com/openfootball/england/blob/master/2019-20/1-premierleague.txt), Football.JSON Example - [`2019-20/en.1.json`](https://github.com/openfootball/football.json/blob/master/2019-20/en.1.json).
+as easy as possible. See the difference?  Example - [`england/2019-20/1-premierleague.txt`](https://github.com/openfootball/england/blob/master/2019-20/1-premierleague.txt) in Football.TXT, [`2019-20/en.1.json`](https://github.com/openfootball/football.json/blob/master/2019-20/en.1.json) in Football.JSON.
 
 
 > Note: If you auto-generate your datasets and want to focus on
