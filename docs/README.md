@@ -3,13 +3,13 @@
 ## Intro
 
 Why invent yet another data format?
-The new Football.TXT mini data language for structured football match schedules
+The new Football.TXT mini data language for football match schedules using structured text
 offers you the best of both worlds, that is,
 1) looks 'n' feels like free-form plain text - easy-to-read and easy-to-write -
 2) but offers a 100-% data accuracy guarantee (when loading into SQL tables, for example).
 
 The Football.TXT mini data language also includes
- support for groups, matchdays, grounds, and much more. Example:
+support for groups, matchdays, grounds, and much more. Example:
 
 
 ```
