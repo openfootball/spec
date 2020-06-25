@@ -1,7 +1,9 @@
-# Football Associations and Governing Bodies
+# Football.TXT Format Spec (& Tests)
 
-Free open public domain football data (football.db)
-for the world's football associations and governing bodies.
+
+see [**`/docs`**](/docs) for the format spec(ification)
+
+see [**`/tests`**](/tests) for the dataset samples and tests
 
 
 
