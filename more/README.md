@@ -3,7 +3,9 @@
 
 ## RSSSF Format
 
-see <>
+_Rec.Sport.Soccer Statistics Foundation (RSSSF)_
+
+see <https://github.com/rsssf>
 
 football match schedule formats in plain "vanilla" text
 
