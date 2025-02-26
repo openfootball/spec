@@ -1,5 +1,35 @@
 # Football.TXT Format Spec (& Tests)
 
+
+## What's News (in 2025)?
+
+###  fbtok & fbtree
+
+Note - you can now try the default/standard parser (& tokenizer) for the
+Football.TXT (match schedule, results, line-ups & more) 
+format as (standalone) command-line tools.
+
+For the tokenizer (lexer) try:
+
+     $ fbtok england/2019-20/1-premierleague.txt
+
+and for the parser - outputing the (abstract) parse tree - try:
+
+     $ fbtree england/2019-20/1-premierleague.txt
+
+
+Tip - to install the tools use:
+
+     $ gem install fbtok     # (incl. fbtree and others)
+
+
+###  Request for Comments
+
+You are welcome to comment on the default/standard Football.TXT format.
+You can find in the /samples directory.
+
+
+
 ## Intro - Why? Philosophy
 
 Why not use JSON, CSV, XML, YAML, SQL, your ‹format of choice here›?
@@ -51,7 +81,7 @@ Match for third place  |  Sat Jul 12
 Final                  |  Sun Jul 13
 
 
-Group A:
+Group A
 
 (1) Thu Jun 12 17:00   Brazil - Croatia       @ Arena de São Paulo, São Paulo (UTC-3)
 (2) Fri Jun 13 13:00   Mexico - Cameroon      @ Estádio das Dunas, Natal (UTC-3)
@@ -63,7 +93,7 @@ Group A:
 (34) Mon Jun 23 17:00   Croatia  - Mexico      @ Recife (UTC-3)
 
 
-Group B:
+Group B
 
 (3) Fri Jun 13 16:00   Spain - Netherlands     @ Arena Fonte Nova, Salvador (UTC-3)
 (4) Fri Jun 13 18:00   Chile - Australia       @ Arena Pantanal, Cuiabá (UTC-4)
@@ -79,6 +109,24 @@ Group B:
 
 
 ## Definitions
+
+
+### Text and Two Space Rule
+
+The "atomic" text unit in Football.TXT is NOT the classic word or identifier BUT
+a text run.  If you want to break text runs use two (or more) spaces.
+
+     ARG  BOL  BRA   =>   TEXT(ARG), TEXT(BOL), TEXT(BRA)
+     ARG BOL BRA     =>   TEXT(ARG BOL BRA)
+
+     Fri  Liverpool  =>   WDAY(Fri), TEXT(Liverpool)     
+     Fri Liverpool   =>   TEXT(Fri Liverpool)
+
+     Matchday 1      =>   TEXT(Matchday 1) 
+     1860 München    =>   TEXT(1860 München)
+     ...
+     
+
 
 ### Round & Matchday Definition   (Optional)
 
@@ -122,8 +170,17 @@ You can use `#` for comments. Example:
 ```
 
 
-## Language (English, Deutsch, Espanol, etc.)
+## Language (English, Deutsch, Español, etc.)
+
+The focus for the Football.TXT format v1 is on English.   
+More formats with conventions used in German (Deutsch)
+or Spanish (Español) are planned for later.
 
 
-...
+For example -  conventions in German (Deutsch) incl.:
+
+-  Score    - use  `2:1 (0:1)` instead of `2-1 (0-1)`
+-  Minutes  - use  `44.` or `(44.)`  instead of `44'`
+-  etc.
+
 
