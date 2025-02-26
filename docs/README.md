@@ -5,7 +5,7 @@
 
 ###  fbtok & fbtree
 
-Note - you can now try the default/standard parser (& tokenizer) for the
+Note - you can try the default/standard parser (& tokenizer) for the
 Football.TXT (match schedule, results, line-ups & more) 
 format as (standalone) command-line tools.
 
@@ -26,7 +26,7 @@ Tip - to install the tools use:
 ###  Request for Comments
 
 You are welcome to comment on the default/standard Football.TXT format.
-You can find in the /samples directory.
+You can find samples in the /samples directory.
 
 
 
@@ -43,8 +43,9 @@ Now retry the exercise using the new Football.TXT mini language designed to make
 as easy as possible. See the difference?  Example - [`england/2019-20/1-premierleague.txt`](https://github.com/openfootball/england/blob/master/2019-20/1-premierleague.txt) in Football.TXT, [`2019-20/en.1.json`](https://github.com/openfootball/football.json/blob/master/2019-20/en.1.json) in Football.JSON.
 
 
-> Note: If you auto-generate your datasets and want to focus on
-> easy machine-writing and machine-reading, see the [Football.CSV format »](https://footballcsv.github.io/spec/) :-).
+Note: If you auto-generate your datasets and want to focus on
+easy machine-writing and machine-reading, 
+see the [Football.CSV format »](https://footballcsv.github.io/spec/) :-).
 
 
 The new Football.TXT mini data language for football match schedules using structured text
@@ -54,6 +55,7 @@ offers you the best of both worlds, that is,
 
 The Football.TXT mini data language also includes
 support for groups, matchdays, grounds, and much more. Example:
+
 
 
 ```
