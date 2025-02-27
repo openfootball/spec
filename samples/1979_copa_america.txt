@@ -1,16 +1,5 @@
 = Copa América 1979
 
-# https://www.rsssf.org/tables/79safull.html
-#
-#  what's different? format changes required for parsing
-#    -     change scores from 0:0 to 0-0
-#    -     add geo marker (@) upfront; 
-#           change 1.8. - San Cristóbal, Pueblo Nuevo  to  
-#                  1.8. @ San Cristóbal, Pueblo Nuevo 
-#    -     change "untagged" minutes to "tagged" from 70 to 70'
-#    -     make sure line-ups break on comma (,) or dash (-) 
-
-
 Group 1  |  CHI  COL  VEN
 Group 2  |  ARG  BOL  BRA
 Group 3  |  ECU  PAR  URU
@@ -19,11 +8,7 @@ Group 3  |  ECU  PAR  URU
 
 Group 1
 
-1.8. @ San Cristóbal, Pueblo Nuevo 
-
-VEN - COL  0-0 
-
-# (18,000) Luis Barrancos BOL 
+Aug 1   VEN v COL  0-0           @ San Cristóbal, Pueblo Nuevo 
 
 VEN: Vega - Contreras (Acosta), Castro, Vidal, Campos - Sánchez, Páez, Mendoza - Castillo,
      Febles (Peña), Hernández
@@ -31,390 +16,51 @@ COL: Zape - Bolaño, Escobar, Reyes, Castro - Valverde (Chaparro), Otero, Iguar�
      Agudelo (Valderrama), Díaz
 
 
-8.8. @ San Cristóbal, Pueblo Nuevo 
-
-VEN - CHI  1-1 (0-0)
-
-# (14,000) César Pagano PER 
+Aug 8    VEN v CHI  1-1 (0-0)      @ San Cristóbal, Pueblo Nuevo 
+           Carvajal 70';  Peredo 81'
 
 VEN: Vega - Contreras, Castro, Vidal, Campos - Mendoza, Páez, Sánchez - Peña (Santana),
      Carvajal, Hernández (Castillo)
 CHI: Osbén - González, Valenzuela, Soto, Escobar - Rivas (Quiroz), Dubó, Neira - Yáñez,
      Peredo, Véliz
 
-1-0 Carvajal 70', 1-1 Peredo 81'
 
-
-15.8. @ Bogotá, El Campín 
-
-COL - CHI  1-0 (1-0)
-
-# (45,000) Romualdo Arppi Filho BRA 
+Aug 15    COL v CHI  1-0 (1-0)     @ Bogotá, El Campín 
+             Díaz 21'
 
 COL: Zape - Bolaño, Reyes, Escobar, Castro - Otero, Muñoz Castro (Chaparro), Valverde -
      Ortiz, Agudelo (Iguarán), Díaz 
 CHI: Osbén - Quintano, Soto, Valenzuela, González - Escobar, Bonvallet, Rivas - Quiroz,
      Estay (Peredo), Neira 
 
-1-0 Díaz 21'
 
 
-22.8. @ Bogotá, El Campín 
-
-COL - VEN  4-0 (1-0)
-
-# (30,000) Carlos Espósito ARG 
+Aug 22    COL v VEN  4-0 (1-0)     @ Bogotá, El Campín
+           Iguarán 17' Valverde 53' Chaparro 59' Morón 86'
 
 COL: Zape - Bolaño, Escobar, Reyes, Castro - Valverde, Chaparro, Muñoz Castro - Ortiz,
      Iguarán, Díaz (Morón) 
 VEN: Vega - Aguirre, Castro, Acosta, Campos - Vidal, Mendoza, Sánchez - Páez (Añor), 
      Peña (Febles), Carvajal
 
-1-0 Iguarán 17', 2-0 Valverde 53', 3-0 Chaparro 59', 4-0 Morón 86'
 
 
-29.8.  @ Santiago, Nacional 
-
-CHI - VEN  7-0 (2-0)
-
-#  (70,000) Enrique Labó PER 
+Aug 29     CHI v VEN  7-0 (2-0)    @ Santiago, Nacional
+             Peredo 3', 59' Rivas 38', 54' Véliz 76' Soto 80' Yáñez 84'
 
 CHI: Osbén - Galindo, Valenzuela, Soto, Escobar - Rivas, Rojas (Neira), Yáñez - Peredo,
      Caszely, Véliz 
 VEN: Vega - Castellanos, Castro, Acosta, Campos - Santana, Sánchez, Páez - Mendoza,
      Castillo (Cadenas), Carvajal (Febles)
 
-1-0 Peredo 3', 2-0 Rivas 38', 3-0 Rivas 54', 4-0 Peredo 59', 5-0 Véliz 76', 
-6-0 Soto 80', 7-0 Yáñez 84'
-
 Sent off: Páez
 
 
-5.9. @ Santiago, Nacional 
-
-CHI - COL  2-0 (1-0)
-
-#  (85,000) Wilfredo Cáceres PAR 
+Sep 5     CHI v COL  2-0 (1-0)   @ Santiago, Nacional
+              Caszely 14' Peredo 58'
 
 CHI: Osbén - Galindo, Valenzuela, Soto, Escobar - Rivas, Rojas (Neira), Yáñez (Bonvallet) -
      Peredo, Caszely, Véliz 
 COL: Zape - Castro, Escobar, Reyes, Bolaño - Herrera, Chaparro, Valverde - Díaz (Morón),
      Iguarán, Ortiz
-
-1-0 Caszely 14', 2-0 Peredo 58'
-
-#  1. CHI^         4  5  2 1 1    10-2
-#  2. COL          4  5  2 1 1     5-2
-#  3. VEN          4  2  0 2 2     1-12
-
-
-
-Group 2
-
-18.7. @ La Paz, Hernando Siles 
-
-BOL - ARG  2-1 (1-1) 
-
-# (40,000) Octavio Sierra COL 
-
-BOL: Jiménez - Fierro, Espinosa, Vaca, Del Llano - Angulo, Romero, Aragonés - Borja,
-     Reynaldo (Mezza), Aguilar 
-ARG: Vidallé - Saporiti, Van Tuyne, Passarella, Bordón - Gáspari, Larraquy, López -
-     Castro, Fortunato (Gaitán 59'), Díaz (Coscia 46')
-
-0-1 López 5', 1-1 Reynaldo 29', 2-1 Reynaldo 66'
-
-
-26.7. @ La Paz, Hernando Siles 
-
-BOL - BRA  2-1 (1-1) 
-
-# (40,000) Orlando Sánchez COL 
-
-BOL: Jiménez - Vargas, Espinosa, Vaca, Del Llano - Romero (Paniagua), Aragonés,
-     Angulo - Borja, Reynaldo, Aguilar 
-BRA: Leão - Junior, Oscar, Amaral, Pedrinho - Batista, Carpeggiani, Nilton Santos - Renato (Zenon),
-     Roberto Dinamita, Zé Sergio (Juan) 
-
-0-1 Roberto Dinamita 30' (p), 1-1 Aragonés 36' (p), 2-1 Aragonés 63'
-
-
-2.8. @ Río de Janeiro, Maracaná 
-
-BRA - ARG  2-1 (1-1) 
-
-# (130,000) Edison Pérez PER 
-
-BRA: Leão - Toninho, Amaral, Edinho, Pedrinho - Carpeggiani, Zenon (Batista), Tita -
-     Palinha (Juan), Zico, Zé Sergio 
-ARG: Vidallé - Barbas, Van Tuyne, Passarella, Bordón - Gáspari, Larraquy, 
-     Gaitán (López 46') - Coscia, Maradona, Díaz (Castro 62')
-
-1-0 Zico 2', 1-1 Coscia 29', 2-1 Tita 54'
-
-
-8.8. @ Buenos Aires, José Amalfitani 
-
-ARG - BOL  3-0 (2-0) 
-
-# (30,000) Sergio Vásquez CHI 
-
-ARG: Vidallé - Saporiti, Van Tuyne, Passarella, Bordón - Gáspari, Larraquy (Barbas 46'),
-     Maradona - Coscia, Fortunato, Díaz 
-BOL: Hoyos - Vargas, Vaca, Espinosa, Del Llano - Angulo, Borja, Romero - 
-     Reynaldo (Mezza), Aragonés, Aguilar 
-
-1-0 Passarella 1', 2-0 Gáspari 15', 3-0 Maradona 65'
-
-
-16.8. @ São Paulo, Morumbi 
-
-BRA - BOL  2-0 (0-0) 
-
-# (50,000) José Vergara VEN 
-
-BRA: Leão - Toninho, Amaral, Edinho, Junior - Batista, Zenon (Palinha), 
-     Nilton Batata (Tita) - Zico, Sócrates, Zé Sergio 
-BOL: Jiménez - Vargas, Espinosa, Vaca (Delfín), Del Llano - González, Romero,
-     Aragonés - Borja, Reynaldo, Aguilar 
-
-1-0 Tita 46', 2-0 Zico 90'
-
-
-23.8. @ Buenos Aires, Monumental
-
-ARG - BRA  2-2 (1-1) 
-
-# (68,000) Roque Cerullo URU 
-
-ARG: Vidallé - Ocaño, Van Tuyne, Passarella, Bordón - Gáspari, Gallego, Bochini - 
-     Cosci (Valencia 59'), Fortunato (Castro 79'), Díaz 
-BRA: Leão - Toninho, Amaral, Edinho, Junior - Batista, Carpeggiani (Falcão 65'), Tita -
-     Zico, Sócrates, Zé Sergio 
-
-## 0-1 Sócrates 17' h, 1-1 Passarella 38' f, 1-2 Sócrates 65' p, 2-2 Díaz 71' 
-## -- what is the meaning of h or f - check later?
-##
-## Sent off: Gallego / Zico
-##   use ; as separator instead of /
-##    allow/support /  - why? why not?
-
-0-1 Sócrates 17', 1-1 Passarella 38', 1-2 Sócrates 65' (p), 2-2 Díaz 71' 
-
-Sent off: Gallego; Zico
-
-
-#  1. BRA^         4  5  2 1 1     7-5
-#  2. BOL          4  4  2 0 2     4-7
-#  3. ARG          4  3  1 1 2     7-6
-
-
-
-
-Group 3 
-
-29.8.  @  Quito, Atahualpa 
-
-ECU - PAR 1-2 (0-1)
-
-# (45,000) Carlos Espósito ARG 
-
-ECU: Rodríguez - Perlaza (Granda), Pérez, Paes, Klinger - Villafuerte (Alarcón), C.Ron,
-     Torres Garcés - Tenorio, V.Ron, Mantilla
-PAR: Fernández - Solalinde, Paredes, Cibils, Torales - Torres (Colmán), Kiese (Florentín),
-     Talavera - Isasi, E.Villalba, Aquino 
-
-0-1 Talavera 22', 1-1 Torres Garcés 64' (p), 1-2 Solalinde 77'
-
-
-5.9.  @ Quito, Atahualpa 
-
-ECU - URU 2-1 (2-0) 
-
-# (30,000) Romualdo Arppi Filho BRA 
-
-ECU: Rodríguez - Perlaza, Pérez, Paes, Klinger - Granda, C.Ron, Torres Garcés - 
-     Tenorio (Villafuerte), Alarcón (V.Ron), Madruñero 
-URU: Rodríguez - Moreira, De León, Marcenaro, Agresta - Zoryez, Castillo, Unanue (Maneiro) -
-     Saralegui, Victorino, Alonso 
-
-1-0 Tenorio 6', 2-0 Alarcón 9', 2-1 Victorino 79' (p) 
-# Torres Garcés missed a penalty
-
-Sent off: Castillo 65'
-
-
-13.9.  @ Asunción, Defensores del Chaco 
-
-PAR - ECU 2-0 (1-0)
-
-# (25,000) Abel Gnecco ARG 
-
-PAR: Fernández - Arce, Ovelar, Cibils, Torales - Osorio, Florentín, Romero - 
-     Fleitas (Escobar), Meza (Sandoval), E.Morel 
-ECU: Rodríguez - Perlaza, Paes, Pérez, Klinger - Granda, C.Ron, Torres Garcés - Alarcón,
-     Tenorio (V.Ron), Madruñero (Mantilla)
-
-1-0 E.Morel 27', 2-0 Osorio 48'
-
-
-16.9.  @ Montevideo, Centenario 
-
-URU - ECU 2-1 (1-0)
-
-# (25,000) Oscar Scolfaro BRA 
-
-URU: Rodríguez - Moreira, De León, Marcenaro, Agresta - Zoryez, Saralegui (Alonso), Paz -
-     Bica (Unanue), Victorino, Maneiro 
-ECU: Rodríguez - Perlaza, Paes, Figueroa, Klinger - Granda, C.Ron, Torres Garcés (Alarcón) -
-     Tenorio, V.Ron, Mantilla 
-
-1-0 Bica 4', 2-0 Victorino 57' (p), 2-1 Klinger 77'
-
-Sent off: Maneiro 78'; Granda 57', C.Ron 81'
-
-
-20.9.  @ Asunción, Defensores del Chaco 
-
-PAR - URU 0-0 
-
-# (25,000) Sergio Vásquez CHI 
-
-PAR: Fernández - Arce, Ovelar, Cibils, Torales - Torres, Osorio, Talavera - Isasi, 
-     Acosta (Florentín), E.Morel 
-URU: Rodríguez - Diogo, Cáceres, De León, Agresta - González, Milar (Unanue), De la Peña -
-     Bica, Victorino, Paz
-
-Sent off: Ovelar 35'
-
-
-26.9.  @ Montevideo, Centenario 
-
-URU - PAR 2-2 (0-1)
-
-# (18,000) Edison Pérez PER 
-
-URU: Rodríguez - Diogo, Cáceres, De León, Agresta - González, Milar, Alonso (Vargas) - Bica,
-     De la Peña, Paz 
-PAR: Báez - Espínola, Cibils, J.M.Villalba, Torales - Vera, Florentín, Pesoa (Romero) -
-     Acosta, M.Morel, E.Morel 
-
-0-1 E.Morel 34', 1-1 Milar 54' (p), 2-1 Paz 83', 2-2 E.Morel 88'
-
-
-#  1. PAR^         4  6  2 2 0     6-3
-#  2. URU          4  4  1 2 1     5-5
-#  3. ECU          4  2  1 0 3     4-7
-# 
-#  NOTE: PER as champions got a bye to semifinals.
-
-
-
-Semifinals
-
-17.10.  @ Lima, Nacional 
-
-PER - CHI 1-2 (0-1)
-
-# (50,000) Romualdo Arppi Filho BRA
-
-PER: Acasuzo - Duarte, Olaechea, Chumpitaz, Díaz - Velásquez, Leguía, Cueto - Mosquera,
-     La Rosa, Ravello (Labarthe 59')
-CHI: Osbén - Galindo, Valenzuela, Figueroa, Escobar - Rivas, Dubó, Soto, Rojas -
-     Caszely (Bonvallet 81'), Yáñez 
-
-0-1 Caszely 36', 1-1 Mosquera 71', 1-2 Caszely 76'
-
-
-24.10.  @ Santiago, Nacional 
-
-CHI - PER 0-0 
-
-# (75,000) Juan Daniel Cardellino URU 
-
-CHI: Osbén - Galindo, Valenzuela, Figueroa, Escobar - Rivas, Dubó (Bonvallet 63'), Rojas -
-     Yáñez, Caszely, Véliz (Soto 46') 
-PER: Acasuzo - Navarro, Olaechea, Chumpitaz, Díaz - Velásquez, Leguía (Gorriti 68'), 
-     Cueto (Rojas 8') - Mosquera, La Rosa, Ravello 
-
-Sent off: Figueroa 40'; Rojas 33'
-
-
-24.10. @ Asunción, Defensores del Chaco 
-
-PAR - BRA 2-1 (2-0) 
-
-# (50,000) Ramón Barreto URU
-
-PAR: Fernández - Espínola, Cibils, Sosa, Torales - Torres (Romero), Florentín, Talavera -
-     Isasi, M.Morel (Pesoa), E.Morel 
-BRA: Leão - Toninho, Amaral, Edinho, Pedrinho - Chicão, Falcão, Tarciso - 
-     Jair Gonçalvez (Palinha), Sócrates, Éder (Zé Sergio) 
-
-1-0 E.Morel 16', 2-0 Talavera 35', 2-1 Palinha 79'
-
-Sent off: Zico
-
-
-31.10.  @ Río de Janeiro, Maracaná 
-
-BRA - PAR 2-2 (1-1) 
-
-# (80,000) Carlos Espósito ARG 
-
-BRA: Leão - Toninho, Amaral, Edinho, Marco Antonio - Carpeggiani (Pintinho 62'), Falcão,
-     Tita (Zezé 60') - Palinha, Sócrates, Zé Sergio 
-PAR: Fernández - Espínola, Paredes, Sosa (Cibils 89'), Torales - Florentín, Kiese, 
-     Talavera (Romero 57') - Isasi, M.Morel, E.Morel 
-
-1-0 Falcão 29', 1-1 M.Morel 31', 2-1 Sócrates 61' (p), 2-2 Romero 68'
-
-
-
-Finals
-
-28.11. @ Asunción, Defensores del Chaco 
-
-PAR - CHI 3-0 (2-0) 
-
-# (40,000) Luis Gregorio Da Rosa URU 
-
-PAR: Fernández - Espínola, Paredes (Cibils 79'), Sosa, Torales - Torres (Florentín 62'),
-     Kiese, Romero - Isasi, M.Morel, E.Morel 
-CHI: Osbén - Galindo, Valenzuela, Quintano, Escobar - Rivas, Soto, Bonvallet (Estay 46') -
-     Rojas, Caszely, Fabbiani 
-
-## 1-0 Romero 12 h, 2:0 M.Morel 36 h, 3:0 Romero 85 f
-1-0 Romero 12', 2-0 M.Morel 36', 3-0 Romero 85'
-
-
-5.12.  @ Santiago, Nacional 
-
-CHI - PAR 1-0 (1-0) 
-
-# (55,000) Ramón Barreto URU 
-
-CHI: Osbén - Galindo, Valenzuela, Figueroa, Escobar - Rivas, Bonvallet, Rojas (Neira 85') -
-     Caszely, Fabbiani (Estay 56'), Véliz 
-PAR: Fernández - Solalinde, Paredes, Sosa, Torales - Romero, Kiese (Florentín 46'), 
-     Talavera (Cabañas 80') - Isasi, M.Morel, E.Morel 
-
-1-0 Rivas 10'
-
-Sent off: Bonvallet 17';  E.Morel 17'
-
-
-11.12.  @ Buenos Aires, José Amalfitani 
-
-PAR - CHI    0-0   
-## 0-0 (0-0, 0-0, 0-0)   -  third is a.e.t? - what is fourth score for second half of a.e.t?
-
-# (6,000) Arnaldo César Coelho BRA 
-
-PAR: Fernández - Espínola, Paredes, Sosa, Torales - Florentín, Kiese, Romero - 
-     Pérez (Cibils 85'), M.Morel, Aquino (Torres 61') 
-CHI: Osbén - Galindo, Figueroa, Valenzuela, Escobar - Rivas, Dubó (Estay 90'), Rojas -
-     Caszely, Fabbiani (Yáñez 61'), Véliz 
-
-# NOTE: PAR champion for goal difference (3:1).
 
