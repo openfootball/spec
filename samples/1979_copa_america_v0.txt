@@ -23,7 +23,7 @@ Group 1
 
 VEN - COL  0-0 
 
-# (18,000) Luis Barrancos BOL 
+# ref: Luis Barrancos (BOL);  att: 18,000  
 
 VEN: Vega - Contreras (Acosta), Castro, Vidal, Campos - Sánchez, Páez, Mendoza - Castillo,
      Febles (Peña), Hernández
@@ -35,7 +35,7 @@ COL: Zape - Bolaño, Escobar, Reyes, Castro - Valverde (Chaparro), Otero, Iguar�
 
 VEN - CHI  1-1 (0-0)
 
-# (14,000) César Pagano PER 
+# ref: César Pagano (PER); att: 14,000  
 
 VEN: Vega - Contreras, Castro, Vidal, Campos - Mendoza, Páez, Sánchez - Peña (Santana),
      Carvajal, Hernández (Castillo)
