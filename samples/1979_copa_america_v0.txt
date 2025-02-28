@@ -23,7 +23,7 @@ Group 1
 
 VEN - COL  0-0 
 
-# ref: Luis Barrancos (BOL);  att: 18,000  
+ref: Luis Barrancos (BOL)    ## ;  att: 18,000  
 
 VEN: Vega - Contreras (Acosta), Castro, Vidal, Campos - Sánchez, Páez, Mendoza - Castillo,
      Febles (Peña), Hernández
@@ -35,7 +35,7 @@ COL: Zape - Bolaño, Escobar, Reyes, Castro - Valverde (Chaparro), Otero, Iguar�
 
 VEN - CHI  1-1 (0-0)
 
-# ref: César Pagano (PER); att: 14,000  
+ref: César Pagano (PER)    ## ; att: 14,000  
 
 VEN: Vega - Contreras, Castro, Vidal, Campos - Mendoza, Páez, Sánchez - Peña (Santana),
      Carvajal, Hernández (Castillo)
@@ -49,7 +49,8 @@ CHI: Osbén - González, Valenzuela, Soto, Escobar - Rivas (Quiroz), Dubó, Neir
 
 COL - CHI  1-0 (1-0)
 
-# (45,000) Romualdo Arppi Filho BRA 
+# (45,000) 
+ref: Romualdo Arppi Filho (BRA) 
 
 COL: Zape - Bolaño, Reyes, Escobar, Castro - Otero, Muñoz Castro (Chaparro), Valverde -
      Ortiz, Agudelo (Iguarán), Díaz 
@@ -63,7 +64,8 @@ CHI: Osbén - Quintano, Soto, Valenzuela, González - Escobar, Bonvallet, Rivas 
 
 COL - VEN  4-0 (1-0)
 
-# (30,000) Carlos Espósito ARG 
+# (30,000) 
+ref: Carlos Espósito (ARG) 
 
 COL: Zape - Bolaño, Escobar, Reyes, Castro - Valverde, Chaparro, Muñoz Castro - Ortiz,
      Iguarán, Díaz (Morón) 
@@ -77,7 +79,8 @@ VEN: Vega - Aguirre, Castro, Acosta, Campos - Vidal, Mendoza, Sánchez - Páez (
 
 CHI - VEN  7-0 (2-0)
 
-#  (70,000) Enrique Labó PER 
+#  (70,000) 
+ref: Enrique Labó (PER) 
 
 CHI: Osbén - Galindo, Valenzuela, Soto, Escobar - Rivas, Rojas (Neira), Yáñez - Peredo,
      Caszely, Véliz 
@@ -90,11 +93,11 @@ VEN: Vega - Castellanos, Castro, Acosta, Campos - Santana, Sánchez, Páez - Men
 Sent off: Páez
 
 
-5.9. @ Santiago, Nacional 
+5.9. @ Santiago, Nacional    #  (85,000) 
 
 CHI - COL  2-0 (1-0)
 
-#  (85,000) Wilfredo Cáceres PAR 
+ref: Wilfredo Cáceres PAR 
 
 CHI: Osbén - Galindo, Valenzuela, Soto, Escobar - Rivas, Rojas (Neira), Yáñez (Bonvallet) -
      Peredo, Caszely, Véliz 
@@ -111,11 +114,11 @@ COL: Zape - Castro, Escobar, Reyes, Bolaño - Herrera, Chaparro, Valverde - Día
 
 Group 2
 
-18.7. @ La Paz, Hernando Siles 
+18.7. @ La Paz, Hernando Siles   # (40,000)
 
 BOL - ARG  2-1 (1-1) 
-
-# (40,000) Octavio Sierra COL 
+ 
+ref: Octavio Sierra (COL) 
 
 BOL: Jiménez - Fierro, Espinosa, Vaca, Del Llano - Angulo, Romero, Aragonés - Borja,
      Reynaldo (Mezza), Aguilar 
@@ -125,11 +128,11 @@ ARG: Vidallé - Saporiti, Van Tuyne, Passarella, Bordón - Gáspari, Larraquy, L
 0-1 López 5', 1-1 Reynaldo 29', 2-1 Reynaldo 66'
 
 
-26.7. @ La Paz, Hernando Siles 
+26.7. @ La Paz, Hernando Siles   # (40,000) 
 
 BOL - BRA  2-1 (1-1) 
 
-# (40,000) Orlando Sánchez COL 
+ref: Orlando Sánchez (COL) 
 
 BOL: Jiménez - Vargas, Espinosa, Vaca, Del Llano - Romero (Paniagua), Aragonés,
      Angulo - Borja, Reynaldo, Aguilar 
@@ -139,11 +142,11 @@ BRA: Leão - Junior, Oscar, Amaral, Pedrinho - Batista, Carpeggiani, Nilton Sant
 0-1 Roberto Dinamita 30' (p), 1-1 Aragonés 36' (p), 2-1 Aragonés 63'
 
 
-2.8. @ Río de Janeiro, Maracaná 
+2.8. @ Río de Janeiro, Maracaná    # (130,000)
 
 BRA - ARG  2-1 (1-1) 
-
-# (130,000) Edison Pérez PER 
+ 
+ref: Edison Pérez (PER) 
 
 BRA: Leão - Toninho, Amaral, Edinho, Pedrinho - Carpeggiani, Zenon (Batista), Tita -
      Palinha (Juan), Zico, Zé Sergio 
@@ -153,11 +156,11 @@ ARG: Vidallé - Barbas, Van Tuyne, Passarella, Bordón - Gáspari, Larraquy,
 1-0 Zico 2', 1-1 Coscia 29', 2-1 Tita 54'
 
 
-8.8. @ Buenos Aires, José Amalfitani 
+8.8. @ Buenos Aires, José Amalfitani   # (30,000)
 
 ARG - BOL  3-0 (2-0) 
 
-# (30,000) Sergio Vásquez CHI 
+ref: Sergio Vásquez (CHI) 
 
 ARG: Vidallé - Saporiti, Van Tuyne, Passarella, Bordón - Gáspari, Larraquy (Barbas 46'),
      Maradona - Coscia, Fortunato, Díaz 
@@ -167,11 +170,11 @@ BOL: Hoyos - Vargas, Vaca, Espinosa, Del Llano - Angulo, Borja, Romero -
 1-0 Passarella 1', 2-0 Gáspari 15', 3-0 Maradona 65'
 
 
-16.8. @ São Paulo, Morumbi 
+16.8. @ São Paulo, Morumbi   # (50,000) 
 
 BRA - BOL  2-0 (0-0) 
 
-# (50,000) José Vergara VEN 
+ref: José Vergara (VEN) 
 
 BRA: Leão - Toninho, Amaral, Edinho, Junior - Batista, Zenon (Palinha), 
      Nilton Batata (Tita) - Zico, Sócrates, Zé Sergio 
@@ -181,11 +184,12 @@ BOL: Jiménez - Vargas, Espinosa, Vaca (Delfín), Del Llano - González, Romero,
 1-0 Tita 46', 2-0 Zico 90'
 
 
-23.8. @ Buenos Aires, Monumental
+23.8. @ Buenos Aires, Monumental   # (68,000)
 
 ARG - BRA  2-2 (1-1) 
 
-# (68,000) Roque Cerullo URU 
+
+ref: Roque Cerullo (URU) 
 
 ARG: Vidallé - Ocaño, Van Tuyne, Passarella, Bordón - Gáspari, Gallego, Bochini - 
      Cosci (Valencia 59'), Fortunato (Castro 79'), Díaz 
@@ -213,11 +217,11 @@ Sent off: Gallego; Zico
 
 Group 3 
 
-29.8.  @  Quito, Atahualpa 
+29.8.  @  Quito, Atahualpa   # (45,000)
 
 ECU - PAR 1-2 (0-1)
-
-# (45,000) Carlos Espósito ARG 
+ 
+ref: Carlos Espósito (ARG) 
 
 ECU: Rodríguez - Perlaza (Granda), Pérez, Paes, Klinger - Villafuerte (Alarcón), C.Ron,
      Torres Garcés - Tenorio, V.Ron, Mantilla
@@ -227,11 +231,11 @@ PAR: Fernández - Solalinde, Paredes, Cibils, Torales - Torres (Colmán), Kiese 
 0-1 Talavera 22', 1-1 Torres Garcés 64' (p), 1-2 Solalinde 77'
 
 
-5.9.  @ Quito, Atahualpa 
+5.9.  @ Quito, Atahualpa   # (30,000)  
 
 ECU - URU 2-1 (2-0) 
 
-# (30,000) Romualdo Arppi Filho BRA 
+ref: Romualdo Arppi Filho (BRA) 
 
 ECU: Rodríguez - Perlaza, Pérez, Paes, Klinger - Granda, C.Ron, Torres Garcés - 
      Tenorio (Villafuerte), Alarcón (V.Ron), Madruñero 
@@ -244,11 +248,11 @@ URU: Rodríguez - Moreira, De León, Marcenaro, Agresta - Zoryez, Castillo, Unan
 Sent off: Castillo 65'
 
 
-13.9.  @ Asunción, Defensores del Chaco 
+13.9.  @ Asunción, Defensores del Chaco   # (25,000) 
 
 PAR - ECU 2-0 (1-0)
 
-# (25,000) Abel Gnecco ARG 
+ref: Abel Gnecco (ARG) 
 
 PAR: Fernández - Arce, Ovelar, Cibils, Torales - Osorio, Florentín, Romero - 
      Fleitas (Escobar), Meza (Sandoval), E.Morel 
@@ -258,11 +262,11 @@ ECU: Rodríguez - Perlaza, Paes, Pérez, Klinger - Granda, C.Ron, Torres Garcés
 1-0 E.Morel 27', 2-0 Osorio 48'
 
 
-16.9.  @ Montevideo, Centenario 
+16.9.  @ Montevideo, Centenario   # (25,000)
 
 URU - ECU 2-1 (1-0)
-
-# (25,000) Oscar Scolfaro BRA 
+ 
+ref: Oscar Scolfaro (BRA) 
 
 URU: Rodríguez - Moreira, De León, Marcenaro, Agresta - Zoryez, Saralegui (Alonso), Paz -
      Bica (Unanue), Victorino, Maneiro 
@@ -274,11 +278,11 @@ ECU: Rodríguez - Perlaza, Paes, Figueroa, Klinger - Granda, C.Ron, Torres Garc�
 Sent off: Maneiro 78'; Granda 57', C.Ron 81'
 
 
-20.9.  @ Asunción, Defensores del Chaco 
+20.9.  @ Asunción, Defensores del Chaco   # (25,000)
 
 PAR - URU 0-0 
-
-# (25,000) Sergio Vásquez CHI 
+ 
+ref: Sergio Vásquez (CHI) 
 
 PAR: Fernández - Arce, Ovelar, Cibils, Torales - Torres, Osorio, Talavera - Isasi, 
      Acosta (Florentín), E.Morel 
@@ -288,11 +292,11 @@ URU: Rodríguez - Diogo, Cáceres, De León, Agresta - González, Milar (Unanue)
 Sent off: Ovelar 35'
 
 
-26.9.  @ Montevideo, Centenario 
+26.9.  @ Montevideo, Centenario   # (18,000)
 
-URU - PAR 2-2 (0-1)
+URU - PAR 2-2 (0-1) 
 
-# (18,000) Edison Pérez PER 
+ref: Edison Pérez (PER) 
 
 URU: Rodríguez - Diogo, Cáceres, De León, Agresta - González, Milar, Alonso (Vargas) - Bica,
      De la Peña, Paz 
@@ -312,11 +316,11 @@ PAR: Báez - Espínola, Cibils, J.M.Villalba, Torales - Vera, Florentín, Pesoa 
 
 Semifinals
 
-17.10.  @ Lima, Nacional 
+17.10.  @ Lima, Nacional   # (50,000) 
 
 PER - CHI 1-2 (0-1)
 
-# (50,000) Romualdo Arppi Filho BRA
+ref: Romualdo Arppi Filho (BRA)
 
 PER: Acasuzo - Duarte, Olaechea, Chumpitaz, Díaz - Velásquez, Leguía, Cueto - Mosquera,
      La Rosa, Ravello (Labarthe 59')
@@ -326,11 +330,11 @@ CHI: Osbén - Galindo, Valenzuela, Figueroa, Escobar - Rivas, Dubó, Soto, Rojas
 0-1 Caszely 36', 1-1 Mosquera 71', 1-2 Caszely 76'
 
 
-24.10.  @ Santiago, Nacional 
+24.10.  @ Santiago, Nacional  # (75,000) 
 
 CHI - PER 0-0 
 
-# (75,000) Juan Daniel Cardellino URU 
+ref: Juan Daniel Cardellino (URU) 
 
 CHI: Osbén - Galindo, Valenzuela, Figueroa, Escobar - Rivas, Dubó (Bonvallet 63'), Rojas -
      Yáñez, Caszely, Véliz (Soto 46') 
@@ -340,11 +344,11 @@ PER: Acasuzo - Navarro, Olaechea, Chumpitaz, Díaz - Velásquez, Leguía (Gorrit
 Sent off: Figueroa 40'; Rojas 33'
 
 
-24.10. @ Asunción, Defensores del Chaco 
+24.10. @ Asunción, Defensores del Chaco  # (50,000) 
 
 PAR - BRA 2-1 (2-0) 
 
-# (50,000) Ramón Barreto URU
+ref: Ramón Barreto (URU)
 
 PAR: Fernández - Espínola, Cibils, Sosa, Torales - Torres (Romero), Florentín, Talavera -
      Isasi, M.Morel (Pesoa), E.Morel 
@@ -356,11 +360,11 @@ BRA: Leão - Toninho, Amaral, Edinho, Pedrinho - Chicão, Falcão, Tarciso -
 Sent off: Zico
 
 
-31.10.  @ Río de Janeiro, Maracaná 
+31.10.  @ Río de Janeiro, Maracaná   # (80,000) 
 
 BRA - PAR 2-2 (1-1) 
 
-# (80,000) Carlos Espósito ARG 
+ref: Carlos Espósito (ARG) 
 
 BRA: Leão - Toninho, Amaral, Edinho, Marco Antonio - Carpeggiani (Pintinho 62'), Falcão,
      Tita (Zezé 60') - Palinha, Sócrates, Zé Sergio 
@@ -373,11 +377,11 @@ PAR: Fernández - Espínola, Paredes, Sosa (Cibils 89'), Torales - Florentín, K
 
 Finals
 
-28.11. @ Asunción, Defensores del Chaco 
+28.11. @ Asunción, Defensores del Chaco   # (40,000) 
 
 PAR - CHI 3-0 (2-0) 
 
-# (40,000) Luis Gregorio Da Rosa URU 
+ref: Luis Gregorio Da Rosa (URU) 
 
 PAR: Fernández - Espínola, Paredes (Cibils 79'), Sosa, Torales - Torres (Florentín 62'),
      Kiese, Romero - Isasi, M.Morel, E.Morel 
@@ -388,11 +392,11 @@ CHI: Osbén - Galindo, Valenzuela, Quintano, Escobar - Rivas, Soto, Bonvallet (E
 1-0 Romero 12', 2-0 M.Morel 36', 3-0 Romero 85'
 
 
-5.12.  @ Santiago, Nacional 
+5.12.  @ Santiago, Nacional   # (55,000) 
 
 CHI - PAR 1-0 (1-0) 
 
-# (55,000) Ramón Barreto URU 
+ref: Ramón Barreto (URU) 
 
 CHI: Osbén - Galindo, Valenzuela, Figueroa, Escobar - Rivas, Bonvallet, Rojas (Neira 85') -
      Caszely, Fabbiani (Estay 56'), Véliz 
@@ -404,12 +408,13 @@ PAR: Fernández - Solalinde, Paredes, Sosa, Torales - Romero, Kiese (Florentín 
 Sent off: Bonvallet 17';  E.Morel 17'
 
 
-11.12.  @ Buenos Aires, José Amalfitani 
+11.12.  @ Buenos Aires, José Amalfitani   # (6,000) 
 
 PAR - CHI    0-0   
 ## 0-0 (0-0, 0-0, 0-0)   -  third is a.e.t? - what is fourth score for second half of a.e.t?
 
-# (6,000) Arnaldo César Coelho BRA 
+
+ref: Arnaldo César Coelho (BRA) 
 
 PAR: Fernández - Espínola, Paredes, Sosa, Torales - Florentín, Kiese, Romero - 
      Pérez (Cibils 85'), M.Morel, Aquino (Torres 61') 

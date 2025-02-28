@@ -50,4 +50,5 @@ Penalty shootout: 0-0 Zinho (held), 0-1 Dudamel;
 
 Referee: Aquino (Paraguay)
 Red cards: Mosquera, Evair
-Attendance: 32,000
+
+## Attendance: 32,000
