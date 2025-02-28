@@ -9,14 +9,14 @@
 Group A
 
 # 11/06/2021, Roma, Stadio Olimpico, 12916
-# ITALY               3 (3 Merih Demiral 53' OG, 17 Ciro Immobile 66', 10 Lorenzo Insigne 79')
+# ITALY               3 (Merih Demiral 53' OG, Ciro Immobile 66', Lorenzo Insigne 79')
 # TURKEY              0
 
-Jun/11  ITALY v TURKEY   3-0   @ Roma, Stadio Olimpico  (att: 12916) 
+Jun 11  ITALY v TURKEY   3-0   @ Roma, Stadio Olimpico  (att: 12916) 
   Merih Demiral 53' (og) Ciro Immobile 66' Lorenzo Insigne 79'
             
 Italy:              Gianluigi Donnarumma - Alessandro Florenzi (Giovanni Di Lorenzo 46'),
-                   Leonardo Bonucci, Giorgio Chiellini [c], Leonardo Spinazzola -
+                   Leonardo Bonucci, Giorgio Chiellini, Leonardo Spinazzola -
                     Nicolò Barella, Jorge Frello Filho 'Jorginho', 
                     Manuel Locatelli (Bryan Cristante 74') - 
                     Domenico Berardi (Federico Bernardeschi 85'),
@@ -26,11 +26,14 @@ Italy:              Gianluigi Donnarumma - Alessandro Florenzi (Giovanni Di Lore
 Turkey:             Uğurcan Çakır - Mehmet Zeki Çelik, Merih Demiral, Çağlar Söyüncü,
                     Umut Meraş - Okay Yokuşlu (İrfan Can Kahveci 65') - 
                     Kenan Karaman (Halil Dervişoğlu 76'), Yusuf Yazıcı (Cengiz Ünder 46'), 
-                    Ozan Tufan (Kaan Ayhan 64'), Hakan Çalhanoğlu - Burak Yılmaz [c];
+                    Ozan Tufan (Kaan Ayhan 64'), Hakan Çalhanoğlu - Burak Yılmaz;
                     Coach: Şenol Güneş
 Referee:            Danny Makkelie (Netherlands)
 
-Cards:              -; Çağlar Söyüncü [Y 88'],  Halil Dervişoğlu [Y 90']
+# Cards:              -; Çağlar Söyüncü [Y 88'],  Halil Dervişoğlu [Y 90']
+
+Yellow Cards:      Çağlar Söyüncü 88',  Halil Dervişoğlu 90'
+
 ##  use Yellow Cards ??
 ##  use  -; for NONE - why? why not?
 

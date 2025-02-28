@@ -32,7 +32,7 @@ Final - Second Leg
 Jun 21 2000   Palmeiras    0-0  Boca Juniors   @ São Paulo, BRA  (att: 75000) 
    [2-2 on aggregate; 2-4 on penalties]
 
-Referee: Epifanio González PAR 
+Referee: Epifanio González (PAR) 
 
 PALMEIRAS: Marcos - Rogéiro, Argel, Roque Júnior, Junior - César Sampaio [c], Galeano, Alex - 
            Marcelo Ramos (Faustino Asprilla 35'), Pena (Basilio 61'), Euller;
@@ -47,9 +47,9 @@ Yellow cards: Sampaio 54', Argel 77';  Barros Schelotto 65',  Bermúdez 76'
 
 ###
 ## todo/fix - check up on penalties / penalty shootouts format!!!!
-Penalties: 
-PALMEIRAS: Alex, Asprilla (held), Roque Júnior (held), Rogério. 
-BOCA JUNIORS: Barros Schelotto, Riquelme, Palermo, Bermúdez 
+#   Penalties: 
+#   PALMEIRAS: Alex, Asprilla (held), Roque Júnior (held), Rogério. 
+#   BOCA JUNIORS: Barros Schelotto, Riquelme, Palermo, Bermúdez 
 
 
 # 2-4 on penalties 
