@@ -172,6 +172,117 @@ You can use `#` for comments. Example:
 ```
 
 
+### Prop(erty) lines
+
+Property lines start with a team name followed by double colon (`:`)
+for lineups or known property keywords / names (e.g. Penalties, Goals, Referee, etc.)
+followd by double colon (`:`) for all other props.
+
+#### Lineup
+
+Examples:
+
+```
+Yugoslavia: Soskic, Durkovic, Jusufi, Zanetic, Zebec, Perusic, Knez,
+            Jerkovic, Galic, Sekularac, Kostic
+France: Lamia, Wendling, Rodzik, Marcel, Herbin, Ferrier, Heutte, Müller, 
+        Wiesnieski, Stievenard, Vincent
+
+Italy:              Gianluigi Donnarumma - Alessandro Florenzi (Giovanni Di Lorenzo),
+                    Leonardo Bonucci, Giorgio Chiellini, Leonardo Spinazzola -
+                    Nicolò Barella, Jorge Frello Filho, Manuel Locatelli (Bryan Cristante) - 
+                    Domenico Berardi (Federico Bernardeschi), Ciro Immobile (Andrea Belotti), 
+                    Lorenzo Insigne (Federico Chiesa); Coach: Roberto Mancini
+Turkey:             Uğurcan Çakır - Mehmet Zeki Çelik, Merih Demiral, Çağlar Söyüncü,
+                    Umut Meraş - Okay Yokuşlu (İrfan Can Kahveci) - 
+                    Kenan Karaman (Halil Dervişoğlu), Yusuf Yazıcı (Cengiz Ünder), 
+                    Ozan Tufan (Kaan Ayhan), Hakan Çalhanoğlu - Burak Yılmaz;
+                    Coach: Şenol Güneş
+
+Switzerland:        Yann Sommer -  Nico Elvedi, Manuel Akanji, 
+                    Ricardo Rodríguez (Admir Mehmedi 87') - Silvan Widmer (Kevin Mbabu 73'), 
+                    Remo Freuler, Granit Xhaka, Steven Zuber (Christian Fassnacht 79') -
+                    Breel Embolo (Ruben Vargas 79'), Xherdan Shaqiri (Mario Gavranović 73'), 
+                    Haris Seferović (Fabian Schär 97'); Coach: Vladimir Petković 
+France:             Hugo Lloris - Benjamin Pavard, Raphaël Varane, 
+                    Clément Lenglet (Kingsley Coman 46' (Marcus Thuram 111')), 
+                    Presnel Kimpembe, Adrien Rabiot -
+                    Paul Pogba, N'Golo Kanté, Antoine Griezmann (Moussa Sissoko 88') -
+                    Karim Benzema (Olivier Giroud 94'), Kylian Mbappé;
+                    Coach: Didier Deschamps
+
+Palmeiras: Marcos - Francisco Javier Arce (Evair 57'), Júnior Baiano,
+           Roque Júnior, Rogério, César Sampaio, Alex (75' Euller), Zinho,
+           Oséas, Paulo Nunes; trainer: Luiz Felipe Scolari
+Deportivo Cali: Rafael Dudamel - John Wilmer Pérez (Herman Gaviria 84'), 
+                Andrés Mosquera, Mario Yepez, Gerardo Bedoya, Martín Zapata,
+                Alexander Viveros, Arley Betancourt, Mayer Candelo (Freddy Hurtado 62'), 
+                Geovanny Córdoba (Manuel Valencia 81'), 
+                Victor Bonilla; trainer: José Hernández
+```
+
+
+
+#### Penalties / Penalty Shootout
+
+Examples:
+
+```
+Penalties:       1-0  Mario Gavranović, 1-1 Paul Pogba, 2-1  Fabian Schär, 2-2 Olivier Giroud,
+                 3-2  Manuel Akanji, 3-3 Marcus Thuram, 4-3 Ruben Vargas,
+                  4-4  Presnel Kimpembe, 5-4 Admir Mehmedi,  Kylian Mbappé (save)
+
+Penalty shootout: 0-0 Zinho (held), 0-1 Dudamel; 
+                  1-1 Júnior Baiano, 1-2 Gaviria;
+                  2-2 Roque Júnior, 2-3 Yepes; 
+                  3-3 Rogério, 3-3 Bedoya (post);
+                  4-3 Euller, 4-3 Zapata (wide) 
+```
+
+#### Goals
+
+Examples:
+
+```
+Goals:  Arruabarrena 22' Arruabarrena 61'; Pena 43' Euller 63' 
+
+Goals:  Galic 11' Zanetic 55' Knez 75' Jerkovic 77', 78'; 
+          Vincent 12'  Heutte 43', 62' Wiesnieski 52'
+```
+
+
+#### Yellow Card; Red Cards / Sent Off
+
+Examples:
+
+```
+Yellow Cards:      Çağlar Söyüncü 88',  Halil Dervişoğlu 90'
+
+Yellow Cards:     Nico Elvedi 32',  Ricardo Rodríguez 62', Granit Xhaka 76',  Manuel Akanji 108';
+                  Raphaël Varane 30',  Kingsley Coman 88', Benjamin Pavard 91'
+
+Yellow cards: Sampaio 54', Argel 77';  Barros Schelotto 65',  Bermúdez 76' 
+
+Red cards: Mosquera, Evair
+
+Sent off: Páez
+```
+
+#### Referee / Ref
+
+Examples:
+
+```
+Referee:            Danny Makkelie (Netherlands)
+
+Referee:            Fernando Rapallini (Argentina)
+
+Referee: Aquino (Paraguay)
+
+ref: Jionni (Italy)   
+```
+
+
 ## Language (English, Deutsch, Español, etc.)
 
 The focus for the Football.TXT format v1 is on English.   

@@ -76,9 +76,9 @@ Referee:            Fernando Rapallini (Argentina)
 Yellow Cards:     Nico Elvedi 32',  Ricardo Rodríguez 62', Granit Xhaka 76',  Manuel Akanji 108';
                   Raphaël Varane 30',  Kingsley Coman 88', Benjamin Pavard 91'
 
-# Penalties:          1-0  Mario Gavranović, 1-1 Paul Pogba, 2-1  Fabian Schär, 2-2 Olivier Giroud,
-#                    3-2  Manuel Akanji, 3-3 Marcus Thuram, 4-3 Ruben Vargas,
-#                    4-4  Presnel Kimpembe, 5-4 Admir Mehmedi, 5-4 Kylian Mbappé (save)
+Penalties:       1-0  Mario Gavranović, 1-1 Paul Pogba, 2-1  Fabian Schär, 2-2 Olivier Giroud,
+                 3-2  Manuel Akanji, 3-3 Marcus Thuram, 4-3 Ruben Vargas,
+                  4-4  Presnel Kimpembe, 5-4 Admir Mehmedi,  Kylian Mbappé (save)
 
 # Note - Hugo Lloris saved a penalty from Ricardo Rodríguez at 55'.
 
