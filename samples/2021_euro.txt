@@ -63,11 +63,9 @@ Switzerland:        Yann Sommer -  Nico Elvedi, Manuel Akanji,
                     Breel Embolo (Ruben Vargas 79'), Xherdan Shaqiri (Mario Gavranović 73'), 
                     Haris Seferović (Fabian Schär 97'); Coach: Vladimir Petković 
 
-### todo/check for nested sub !!!
-##    e.g. Clément Lenglet (Kingsley Coman 46' (Marcus Thuram 111'))
 
 France:             Hugo Lloris - Benjamin Pavard, Raphaël Varane, 
-                    #  Clément Lenglet (Kingsley Coman 46' (Marcus Thuram 111')), 
+                    Clément Lenglet (Kingsley Coman 46' (Marcus Thuram 111')), 
                     Presnel Kimpembe, Adrien Rabiot -
                     Paul Pogba, N'Golo Kanté, Antoine Griezmann (Moussa Sissoko 88') -
                     Karim Benzema (Olivier Giroud 94'), Kylian Mbappé;
