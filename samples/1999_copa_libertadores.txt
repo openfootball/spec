@@ -1,6 +1,6 @@
 = Copa Libertadores de América 1999
 
-see https://www.rsssf.org/sacups/copa99.html
+# see https://www.rsssf.org/sacups/copa99.html
 
 
 # Final      Jun 2 & 16

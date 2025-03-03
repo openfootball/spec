@@ -9,7 +9,7 @@ SEMIFINALS
 July 6 @ Marseille, Stade Vélodrome
 Soviet Union     3-0 Czechoslovakia
     V.Ivanov 34', 56' Ponedelnik 65'
-  ref: Jionni (Italy)    ## ; att: 28,000
+  ref: Jionni (Italy); att: 28_000
 Soviet Union: Yashin, Tchekeli, Maslenkin, Kroutikov, Voinov, Netto,
               Metreveli, V.Ivanov, Ponedelnik, Bubukin, Meskhi
 Czechoslovakia: Schroiff, Safránek, Novák, Buberník, Popluhár, Masopust,
@@ -20,7 +20,7 @@ July 6 @ Paris, Parc des Princes
 Yugoslavia       5-4 France
   Galic 11' Zanetic 55' Knez 75' Jerkovic 77', 78'; 
   Vincent 12'  Heutte 43', 62' Wiesnieski 52'
-    ref: Grandain (Belgium)  ## ; att: 27,000
+    ref: Grandain (Belgium); att: 27_000
 Yugoslavia: Soskic, Durkovic, Jusufi, Zanetic, Zebec, Perusic, Knez,
             Jerkovic, Galic, Sekularac, Kostic
 France: Lamia, Wendling, Rodzik, Marcel, Herbin, Ferrier, Heutte, Müller, 
@@ -32,7 +32,7 @@ MATCH FOR THIRD PLACE
 July 9  @ Marseille, Stade Vélodrome
 Czechoslovakia   2-0 France
    Bubník 58' Pavlovic 88'
-     ref: Jionni (Italy)   ## ; att: 9,400
+     ref: Jionni (Italy); att: 9_400
 Czechoslovakia: Schroiff, Safránek, Novák, Masopust, Popluhár, Buberník,  
                 Pavlovic, Vojta, Molnár, Bubník, Dolínski
 France: Taillandier, Rodzik, Chorda, Marcel, Jonquin, Siatka, Heutte, Douis, 
@@ -41,9 +41,9 @@ France: Taillandier, Rodzik, Chorda, Marcel, Jonquin, Siatka, Heutte, Douis,
 FINAL
 
 July 10   @ Paris, Parc des Princes
-Soviet Union     2-1 Yugoslavia      [aet]
+Soviet Union     2-1 Yugoslavia      ## [aet]
   Metreveli 49' Ponedelnik 114'; Galic 41'
-    ref: Ellis (England)     ## ; att: 18,000
+    ref: Ellis (England);   att: 18_000
 Soviet Union: Yashin, Tchekeli, Maslenkin, Kroutikov, Voinov, Netto,
               Metreveli, V.Ivanov, Ponedelnik, Bubukin, Meskhi
 Yugoslavia: Vidinic, Durkovic, Jusufi, Zanetic, Miladinovic, Perusic,

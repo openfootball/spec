@@ -41,73 +41,88 @@ Turkey            2-0 Romania
     Küçükandonyadis 13' 54'
 
 
-#############
-# continue format update here
-__END__
 
 23.09.1959 @ Kobenhavn, Parken
 Denmark           2-2 Czechoslovakia
-  [18 Pedersen, 20 Hansen; 30 Kacani,43 Dolinsky]
+   Pedersen 18' Hansen 20'; Kacani 30' Dolinsky 43'
+
 18.10.1959 @ Brno, Mestský
 Czechoslovakia    5-1 Denmark
-  [38 56 Bubernik, 49 87 Scherer, 63 Dolinsky; 35 Kramer]
+   Bubernik 38' 56' Scherer 49' 87' Dolinsky 63'; Kramer 35'
 
 01.10.1958 @ Paris, Parc des Princes
 France            7-1 Greece
-  [23 Kopa, 25 85 Fontaine, 29 68 Cisowski, 61 87 Vincent; 48 Ifandis]
+   Kopa 23' Fontaine 25' 85' Cisowski 29' 68' Vincent 61' 87'; Ifandis 48'
+
 03.12.1958 @ Athinai, OAKA-Maroussi
 Greece            1-1 France
-  [85og (Marche); 71 Bruey]
+   Marche 85' (og); Bruey 71'
+
 
 20.05.1959 @ Oslo, Ullevĺl
 Norway            0-1 Austria
-  [32 Hof]
+   Hof 32'
+
 23.09.1959 @ Wien, Prater
 Austria           5-2 Norway
-  [2 21 Nemec, 25pen 75 Hof, 59 Skerlan; 55 ? Řdegaard]
+    Nemec 2' 21' Hof 25' (pen) 75' Skerlan 59'; Řdegaard 55'  ## ??
+
 
 21.06.1959  @ Ost-Berlin, Walter-Ulbricht
 East Germany      0-2 Portugal
-  [12 Da Fonseca, 67 Coluna]
+     Da Fonseca 12' Coluna 67'
+
 28.06.1959  @ Porto, As Antas
 Portugal          3-2 East Germany
-  [45 62 Coluna, 68 Cavém; 47 Vogt, 72 Kohle]
+    Coluna 45' 62' Cavém 68'; Vogt 47' Kohle 72'
 
 31.05.1959  @ Beograd, FK Partizan
 Yugoslavia        2-0 Bulgaria
-  [Galic, Tasic]
+    Gali ??' Tasic ??'      ## or use Goals:  Gali, Tasic
+
 25.10.1959  @ Sofia, Vassil Levski
 Bulgaria          1-1 Yugoslavia
-  [50 Diev; 9 Mujic]
+   Diev 50'; Mujic 9'
+
+
 
 QUARTERFINALS
 
 29.05.1960  @ Moskva
-Soviet Union            w/o Spain
+## Soviet Union            w/o Spain
+##  todo/fix - how to handle w/o ???
+##   use [w/o Spain] or such?
+
+
 09.06.1960 @ Madrid
-Spain                   o/w Soviet Union
+## Spain                   o/w Soviet Union
+##  todo/fix - how to handle o/w (w/o) ???
 # Spain withdrew. Soviet Union had a walkover.  The entire tie
 #  apparently was awarded a 3-0 win to the Soviet Union.
 
+
 22.05.1960 @ Bucuresti, 23 August
 Romania           0-2 Czechoslovakia
-  [9 Masopust, 45 Bubník]
+     Masopust 9' Bubník 45'
+
 29.05.1960 @ Bratislava, Tehelné Pole
 Czechoslovakia    3-0 Romania
-  [1 15 Buberník, 18 Bubnik]
+     Buberník 1' 15'  Bubnik 18'
 
 13.12.1959 @ Paris, Olympique de Colombes
 France            5-2 Austria
-  [7 18 70 Fontaine, 38 82 Vincent; 40 Horak, 65 Pichler]
+    Fontaine 7' 18' 70'  Vincent 38' 82'; Horak 40' Pichler 65'
+
 27.03.1960 @ Wien, Prater
 Austria           2-4 France
-  [26 Nemec, 64 Probst; 46 Marcel, 59 Rahis, 77 Heutte, 83pen Kopa]
+   Nemec 26' Probst 64';  Marcel 46' Rahis 59' Heutte 77' Kopa 83' (pen)
 
 08.05.1960  @ Oeiras/Lisboa, Nacional Do Jamor 
 Portugal          2-1 Yugoslavia
-  [30 Santana, 70 Matateu; 89 Kostic]
+    Santana 30' Matateu 70'; Kostic 89'
+
 22.05.1960  @ Beograd, FK Partizan
 Yugoslavia        5-1 Portugal
-  [8 Sekularac, 44 Cebinac, 50 88 Kostic, 79 Galic; 29 Cavém]
+   Sekularac 8' Cebinac 44' Kostic 50' 88' Galic 79'; Cavém 29'
 
 
