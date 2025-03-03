@@ -41,7 +41,7 @@ France: Taillandier, Rodzik, Chorda, Marcel, Jonquin, Siatka, Heutte, Douis,
 FINAL
 
 July 10   @ Paris, Parc des Princes
-Soviet Union     2-1 Yugoslavia      ## [aet]
+Soviet Union     2-1 Yugoslavia      [aet]
   Metreveli 49' Ponedelnik 114'; Galic 41'
     ref: Ellis (England);   att: 18_000
 Soviet Union: Yashin, Tchekeli, Maslenkin, Kroutikov, Voinov, Netto,

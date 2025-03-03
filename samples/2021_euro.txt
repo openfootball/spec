@@ -49,10 +49,10 @@ Yellow Cards:      Çağlar Söyüncü 88',  Halil Dervişoğlu 90'
 # Switzerland won 5-4 on penalties, after extra time.
 
 Jun 28  @ Arena Naţională, Bucureşti, Romania   ## (att: 22642)
-  SWITZERLAND v  FRANCE       3-3
+  SWITZERLAND v  FRANCE       3-3    [aet; Switzerland won 5-4 on penalties]
      Haris Seferović 15', 81'  Mario Gavranović 90';
      Karim Benzema 57', 59'  Paul Pogba 75'
- # [aet; Switzerland won 5-4 on penalties]
+ 
 
   SWITZERLAND v  FRANCE     5-4 pen 3-3 aet
 
