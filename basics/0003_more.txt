@@ -1,0 +1,49 @@
+= More Names
+
+
+
+
+###  add zones / conferences / ... or such - why? why not?
+###    or handle like groups - why? why not?
+
+Western Region
+Eastern Region
+
+Western Conference
+Eastern Conference  
+
+Northern Zone 
+Western Zone A 
+Western Zone B 
+Central Zone 
+Central & Eastern Zone 
+Southern Zone 
+
+
+
+#####################
+### check groups
+
+Group   ## note - (plain) Group gets mapped/matched as round!!!
+League  ##   same as league
+###
+###  for stage   use Group Stage  / League Phase or Stage or such - why? why not?
+
+
+
+Group 1
+Group 2
+Group A
+Group B
+Group J
+Group K
+Group L
+Group A1 
+Group A2 
+Group B1 
+Group B2
+Group C1 
+Group C2
+Group HEX   ## special group ("hexagonal")
+
+

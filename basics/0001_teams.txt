@@ -1,0 +1,37 @@
+= Team Names 
+
+## check-up on team names
+##   try   $ fbtok basics/0001_teams.txt
+
+
+################
+### with numbers
+
+## -- São Tomé & Príncipe
+Militar 6 Setembro     # Desportivo Militar 6 De Setembro
+1º de Maio             # Desportivo 1º de Maio
+
+
+
+
+######################
+### with special chars  (e.g. &/ etc.)
+
+# -- England
+Brighton & Hove Albion
+
+# -- World Countries
+St. Kitts & Nevis
+Bosnia & Herzegovina
+Antigua & Barbuda
+Turks & Caicos
+St. Vincent & Grenadines
+Trinidad & Tabago
+
+
+# -- Denmark
+Bodø/Glimt
+
+
+
+

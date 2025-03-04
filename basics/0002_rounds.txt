@@ -1,0 +1,70 @@
+= Round Names 
+
+## check-up on round names
+##   try   $ fbtok basics/0002_rounds.txt
+
+
+
+
+
+
+3rd Round       ## e.g. FA Cup
+4th Round
+4th Round Replays
+5th Round
+
+
+First Round
+Second Round
+Third Round     ## e.g. EFL Cup
+Fourth Round
+
+
+
+Round of 16
+Quarter Finals
+Quarter-final
+Semi-Finals
+Semi-final
+Final
+
+
+#########
+###  add support for 2 of 2 or such ???
+Quarter-final, Leg 1 of 2
+Quarter-final, Leg 2 of 2
+
+Semi-Final, Leg 1 of 2
+Semi-Final, Leg 2 of 2
+
+Round of 16, Leg 1 of 2     ## e.g. Europa League
+Round of 16, Leg 2 of 2 
+
+
+First qualifying round, Leg 2 of 2  
+Second qualifying round, Leg 2 of 2 
+Third qualifying round, Leg 1 of 2   ## e.g. UEFA Champions League
+Third qualifying round, Leg 2 of 2
+
+Play-off, Leg 1 of 2
+Play-off, Leg 2 of 2
+
+
+
+###
+##  todo/fix -  add check for "inline" stages / phases too e.g.
+##    league phase/stage,  group stage
+##
+##  note - allow (match) "simple"  Group or League (without stage) as round header
+
+
+Group stage, Matchday 1 of 6       ## e.g. Europa League 
+Group stage, Matchday 2 of 6
+Group stage, Matchday 3 of 6
+Group stage, Matchday 4 of 6
+Group stage, Matchday 5 of 6
+Group stage, Matchday 6 of 6
+
+Matchday 1 of 8     ## e.g. Europa League, League stage
+Matchday 2 of 8
+Matchday 8 of 8

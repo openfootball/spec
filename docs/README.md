@@ -35,11 +35,11 @@ You can find samples in the /samples directory.
 Why not use JSON, CSV, XML, YAML, SQL, your ‹format of choice here›?
 Why invent yet another data format?
 
-Excercise: Try to write by hand the round-by-round match schedule
+Excercise: Try to write by hand the round-by-round match schedule (with results)
 for the English Premier League, for example?
-Did you enjoy writing the match schedule in JSON? in CSV? in XML? in SQL? in YAML?
+Do you enjoy writing the match schedule in JSON? in CSV? in XML? in SQL? in YAML?
 
-Now retry the exercise using the new Football.TXT mini language designed to make hand-crafting
+Now retry the exercise using the new Football.TXT format / data language designed to make hand-crafting
 as easy as possible. See the difference?  Example - [`england/2019-20/1-premierleague.txt`](https://github.com/openfootball/england/blob/master/2019-20/1-premierleague.txt) in Football.TXT, [`2019-20/en.1.json`](https://github.com/openfootball/football.json/blob/master/2019-20/en.1.json) in Football.JSON.
 
 
@@ -48,12 +48,12 @@ easy machine-writing and machine-reading,
 see the [Football.CSV format »](https://footballcsv.github.io/spec/) :-).
 
 
-The new Football.TXT mini data language for football match schedules using structured text
+The new Football.TXT format / data language for football match schedules (results, lineups & more) using structured text
 offers you the best of both worlds, that is,
 1) looks 'n' feels like free-form plain text - easy-to-read and easy-to-write -
 2) but offers a 100-% data accuracy guarantee (when loading into SQL tables, for example).
 
-The Football.TXT mini data language also includes
+The Football.TXT format / data language also includes
 support for groups, matchdays, grounds, and much more. Example:
 
 
@@ -74,7 +74,7 @@ Group H  |  Belgium      Algeria              Russia         South Korea
 Matchday 1  |  Thu Jun 12
 Matchday 2  |  Fri Jun 13
 Matchday 3  |  Sat Jun 14
-...
+# ...
 
 Round of 16            |  Sat Jun 28 - Tue Jul 1
 Quarter-finals         |  Fri Jul 4  - Sat Jul 5
@@ -118,23 +118,95 @@ Group B
 The "atomic" text unit in Football.TXT is NOT the classic word or identifier BUT
 a text run.  If you want to break text runs use two (or more) spaces.
 
-     ARG  BOL  BRA   =>   TEXT(ARG), TEXT(BOL), TEXT(BRA)
-     ARG BOL BRA     =>   TEXT(ARG BOL BRA)
+```
+ARG  BOL  BRA   =>   TEXT(ARG), TEXT(BOL), TEXT(BRA)
+ARG BOL BRA     =>   TEXT(ARG BOL BRA)
 
-     Fri  Liverpool  =>   WDAY(Fri), TEXT(Liverpool)     
-     Fri Liverpool   =>   TEXT(Fri Liverpool)
+Fri  Liverpool  =>   WDAY(Fri), TEXT(Liverpool)     
+Fri Liverpool   =>   TEXT(Fri Liverpool)
 
-     Matchday 1      =>   TEXT(Matchday 1) 
-     1860 München    =>   TEXT(1860 München)
-     ...
-     
+Matchday 1      =>   TEXT(Matchday 1) 
+1860 München    =>   TEXT(1860 München)
+...
+```     
+
+
+### Match Results & Fixtures
+
+For match fixtures (without results) you MUST separate two team names by `-` or `v`. 
+Examples:
+
+```
+Brazil   - Mexico
+Cameroon - Croatia
+
+Cameroon v Brazil 
+Croatia  v Mexico
+```
+
+For match results (i) you can separate two team names by `-` or `v`  (same as fixtures) followed by the score (e.g. `0-0`) or separate two team names by the score.
+Examples:
+
+```
+Atlético Mineiro v River Plate    3-0
+Botafogo         v Peñarol        5-0
+
+Atlético Mineiro - River Plate    3-0
+Botafogo         - Peñarol        5-0
+
+River Plate   0-0  Atlético Mineiro
+Peñarol       3-1  Botafogo 
+```
+
+For the after extra-time (aet) score or penalties formats, see the score format (options).
 
 
 ### Round & Matchday Definition   (Optional)
 
+```
+<ROUND>   |  <DATE>            OR
+<ROUND>   |  <DATE_PERIOD>
+```
+
+Note - `<ROUND>` is a text run (`<TEXT>`) that MUST match the round matching formula that
+incl. Matchday 1, Matchday 2, Round 1, Round 2, Final, and many more.
+
+Examples:
+
+```
+Matchday 1  |  Thu Jun 12
+Matchday 2  |  Fri Jun 13
+Matchday 3  |  Sat Jun 14
+...
+
+Round of 16            |  Sat Jun 28 - Tue Jul 1
+Quarter-finals         |  Fri Jul 4  - Sat Jul 5
+Semi-finals            |  Tue Jul 8  - Wed Jul 9
+Match for third place  |  Sat Jul 12
+Final                  |  Sun Jul 13
+```
+
+What's the point?  If a match has no round header (in scope) than tools can use
+the round & match definitions to find a match by date lookup. 
+
+
+
 ### Group Definition  (Optional)
 
+```
+<GROUP>   |  <TEAM>  <TEAM> ...
+```
 
+Note - `<GROUP>`is a text run (`<TEXT>`) that MUST match the group matching formula that 
+incl. Group 1, Group 2, Group A, Group B, Group A1, Group A2, Group B1, Group B2, etc.
+
+Examples:
+
+```
+Group A  |  Brazil       Croatia              Mexico         Cameroon
+Group B  |  Spain        Netherlands          Chile          Australia
+...
+```
 
 ## Headers
 
@@ -150,11 +222,33 @@ a text run.  If you want to break text runs use two (or more) spaces.
 ## Score Formats
 
 
-## Goal(s) Line
+## (Inline) Goal(s) Line
+
+
+
 
 
 ## Stadiums & Grounds 
 
+Use `@` to start with adding "geo" names - that is, stadiums & grounds 
+and / or cities (plus optional timezone), countries and more.
+Examples:
+
+```
+  @ Stadio Olimpico, Roma
+  @ Arena Naţională, Bucureşti, Romania
+  @ Bucuresti, 23 August
+  @ Wien, Prater
+  @ Buenos Aires
+  @ Brasília (UTC-3)
+  @ Arena Fonte Nova, Salvador (UTC-3)
+  @ Arena Pantanal, Cuiabá (UTC-4)
+  @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
+  ...
+```
+
+Note - Geo names have their own (lexer) mode and, thus, you can (even) use dates
+(e.g. `23 August`) or more. 
 
 
 ## Comments & Blank Lines
@@ -168,17 +262,17 @@ Use blank links as you wish to make the text look pretty, that is, easy-to-read 
 You can use `#` for comments. Example:
 
 ```
-
+# Note - Hugo Lloris saved a penalty from Ricardo Rodríguez at 55'.
 ```
 
 
-### Prop(erty) lines
+## Prop(erty) lines
 
 Property lines start with a team name followed by double colon (`:`)
 for lineups or known property keywords / names (e.g. Penalties, Goals, Referee, etc.)
 followd by double colon (`:`) for all other props.
 
-#### Lineup
+### Lineup
 
 Examples:
 
@@ -221,9 +315,12 @@ Deportivo Cali: Rafael Dudamel - John Wilmer Pérez (Herman Gaviria 84'),
                 Victor Bonilla; trainer: José Hernández
 ```
 
+Note - you can use multiple lines for the lineup; to continue the lineup 
+the line MUST end with `,;-`, that is, comma (`,`), semicolon (`;`) or dash (`-`).
 
 
-#### Penalties / Penalty Shootout
+
+### Penalties / Penalty Shootout
 
 Examples:
 
@@ -239,7 +336,12 @@ Penalty shootout: 0-0 Zinho (held), 0-1 Dudamel;
                   4-3 Euller, 4-3 Zapata (wide) 
 ```
 
-#### Goals
+Note - you can use multiple lines for the penalties; to continue the penalties 
+the line MUST end with `,;`, that is, comma (`,`) or semicolon (`;`).
+
+
+
+### Goals
 
 Examples:
 
@@ -251,7 +353,7 @@ Goals:  Galic 11' Zanetic 55' Knez 75' Jerkovic 77', 78';
 ```
 
 
-#### Yellow Card; Red Cards / Sent Off
+### Yellow Card; Red Cards / Sent Off
 
 Examples:
 
@@ -268,7 +370,7 @@ Red cards: Mosquera, Evair
 Sent off: Páez
 ```
 
-#### Referee / Ref
+### Referee / Ref
 
 Examples:
 
@@ -281,6 +383,21 @@ Referee: Aquino (Paraguay)
 
 ref: Jionni (Italy)   
 ```
+
+### Attendance / Att / Attn
+
+Examples:
+
+```
+Attendance:  44000
+
+att:  23_000
+```
+
+Note - You CANNOT use commas in number e.g. `45,000` use underscore e.g. `45_000`
+
+
+
 
 
 ## Language (English, Deutsch, Español, etc.)
@@ -297,3 +414,10 @@ For example -  conventions in German (Deutsch) incl.:
 -  etc.
 
 
+
+
+
+## Questions? Comments?
+
+Yes, you can. More than welcome.
+See [Help & Support »](https://github.com/openfootball/help)
