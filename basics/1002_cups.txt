@@ -1,0 +1,53 @@
+#############
+#  cups format (stage/round + zone) samples
+
+
+## Match 1/2/3 - like leg but a series beyond two legs!!!
+##   note - Match 1/2/3 internally handled as LEG
+##   note - Eastern Conference/Western Conference handled as ZONE 
+
+= United States MLS Cup 2024
+
+Eastern Conference, Round One - Match 1    
+Eastern Conference, Round One - Match 2
+Eastern Conference, Round One - Match 3
+Western Conference, Round One - Match 1
+Western Conference, Round One - Match 2
+Western Conference, Round One - Match 3
+
+Eastern Conference, Semi-Finals
+Western Conference, Semi-Finals
+
+Eastern Conference, Final
+Western Conference, Final
+
+Final
+
+
+= CHAN 2024 Qualifying
+
+Northern Zone
+Western Zone A, First Round
+Western Zone A, Second Round
+Western Zone B, First Round 
+Western Zone B, Second Round 
+Central Zone 
+Central & Eastern Zone, First Round 
+Central & Eastern Zone, Second Round 
+Southern Zone, First Round 
+Southern Zone, Second Round 
+
+
+
+= 2024-25 Champions League Two   # Asia
+== West Region  ##   use in stage (heading) for group??
+== East Region
+
+## or ??
+West Region, Matchday 1    
+West Region, Matchday 2
+West Region, Matchday 3
+West Region, Matchday 4
+
+East Region, Matchday 1
+## ..

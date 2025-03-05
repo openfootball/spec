@@ -5,6 +5,8 @@
 
 
 
+Preliminary Round
+Preliminary Qualifier
 
 
 
@@ -19,13 +21,16 @@ Second Round
 Third Round     ## e.g. EFL Cup
 Fourth Round
 
+Wildcard Round
 
+Play-Ins
 
 Round of 16
 Quarter Finals
 Quarter-final
 Semi-Finals
 Semi-final
+Third Place Play-Off
 Final
 
 
@@ -39,6 +44,14 @@ Semi-Final, Leg 2 of 2
 
 Round of 16, Leg 1 of 2     ## e.g. Europa League
 Round of 16, Leg 2 of 2 
+
+
+Semi-Finals - 1st Leg 
+Semi-Finals - 2nd Leg 
+
+Final - 1st Leg 
+Final - 2nd Leg 
+
 
 
 First qualifying round, Leg 2 of 2  
@@ -58,12 +71,20 @@ Play-off, Leg 2 of 2
 ##  note - allow (match) "simple"  Group or League (without stage) as round header
 
 
+Group, Matchday 1 of 6       ## e.g. Europa League 
+Group, Matchday 2 of 6
+Group, Matchday 3 of 6
+Group, Matchday 4 of 6
+Group, Matchday 5 of 6
+Group, Matchday 6 of 6
+
 Group stage, Matchday 1 of 6       ## e.g. Europa League 
 Group stage, Matchday 2 of 6
 Group stage, Matchday 3 of 6
 Group stage, Matchday 4 of 6
 Group stage, Matchday 5 of 6
 Group stage, Matchday 6 of 6
+
 
 Matchday 1 of 8     ## e.g. Europa League, League stage
 Matchday 2 of 8

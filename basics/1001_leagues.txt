@@ -1,0 +1,73 @@
+#######################
+#  league format  (stage/round) samples
+
+
+###
+###  use Apertura in a stage (heading)
+
+= Puerto Rico 2024
+== Apertura           # or  Aperura, Regular Season
+== Apertura, Finals   # or  Final Stage
+Semi-Finals
+Final
+
+= Guatemala 2024
+== Apertura 
+== Apertura, Finals 
+Quarter-Finals
+Semi-Finals
+Final
+
+
+= Nicaragua 2024
+== Apertura
+== Apertura, Finals   # or Final Stage
+Play-Offs
+Semi-Finals
+Final
+
+
+= Mexico 2024
+== Apertura 
+== Apertura, Finals 
+Play-Ins
+Play-Off 
+Quarter-Finals - 1st Leg 
+Quarter-Finals - 2nd Leg 
+Semi-Finals - 1st Leg  
+Semi-Finals - 2nd Leg 
+Final - 1st Leg 
+Final - 2nd Leg 
+
+
+= Venezuela 2024
+== Clausura
+== Clausura, Finals
+Semi-Finals    # or Semi-Final Group    # note - incl. Group A, Group B
+Final
+Final Absoluta    #  check - what is meaning of Final Absoluta ???
+
+= Colombia 2024 
+== Finalizacion
+== Finalizacion, Finals  
+Semi-Finals    # or Semi-Final Group ??  incl. Group A, Group B
+Final
+
+
+
+= Tajikistan
+== Regular Season
+== Promotion-Relegation Play-Off    ## only use Promotion-Relgation?
+
+
+= United States MLS 
+== Regular Season 
+Eastern Conference
+Western Conference
+== Play-Offs   ## or use Finals ???
+Wildcard Round   
+
+
+
+
+

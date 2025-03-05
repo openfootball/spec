@@ -1,10 +1,13 @@
-= More Names
+= More Names   
 
 
 
 
 ###  add zones / conferences / ... or such - why? why not?
 ###    or handle like groups - why? why not?
+##
+##    note - for now zones get handled like rounds
+##    if you want "hard" split-ups use the zone in stage (heading) 
 
 Western Region
 Eastern Region
@@ -27,7 +30,10 @@ Southern Zone
 Group   ## note - (plain) Group gets mapped/matched as round!!!
 League  ##   same as league
 ###
-###  for stage   use Group Stage  / League Phase or Stage or such - why? why not?
+###  for ("inline") stage (possibly in the future)   
+##       use Group Stage  / League Phase or Stage or such - why? why not?
+###  note - for now for stage ALWAYS use heading 2 e.g.
+###     == Group    or == Group Stage  or == League   or == League Phase   or such
 
 
 
