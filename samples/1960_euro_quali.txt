@@ -20,7 +20,7 @@ Soviet Union      3-1 Hungary
     (Ilyin 4' Metreveli 20' Ivanov 32'; Göröcs 84')
 27.09.1959 @ Budapest, Nép
 Hungary           0-1 Soviet Union
-    (-; Voinov 58')
+    (Voinov 58')
 
 
 
@@ -60,7 +60,7 @@ Greece            1-1 France
 
 20.05.1959 @ Oslo, Ullevĺl
 Norway            0-1 Austria
-   (-; Hof 32')
+   (Hof 32')
 
 23.09.1959 @ Wien, Prater
 Austria           5-2 Norway
@@ -69,7 +69,7 @@ Austria           5-2 Norway
 
 21.06.1959  @ Ost-Berlin, Walter-Ulbricht
 East Germany      0-2 Portugal
-     (-; Da Fonseca 12' Coluna 67')
+     (Da Fonseca 12' Coluna 67')
 
 28.06.1959  @ Porto, As Antas
 Portugal          3-2 East Germany
@@ -102,7 +102,7 @@ Bulgaria          1-1 Yugoslavia
 
 22.05.1960 @ Bucuresti, 23 August
 Romania           0-2 Czechoslovakia
-     (-; Masopust 9' Bubník 45')
+     (Masopust 9' Bubník 45')
 
 29.05.1960 @ Bratislava, Tehelné Pole
 Czechoslovakia    3-0 Romania
