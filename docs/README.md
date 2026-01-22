@@ -26,7 +26,9 @@ Tip - to install the tools use:
 ###  Request for Comments
 
 You are welcome to comment on the default/standard Football.TXT format.
-You can find samples in the /samples directory.
+You can find samples for the Football.TXT format, level 1 in the `/samples` directory
+and for level 2 in the `/samples-l2` directory.
+
 
 
 
@@ -48,7 +50,7 @@ easy machine-writing and machine-reading,
 see the [Football.CSV format »](https://footballcsv.github.io/spec/) :-).
 
 
-The new Football.TXT format / data language for football match schedules (results, lineups & more) using structured text
+The new Football.TXT format / data language for football match schedules (results, line-ups & more) using structured text
 offers you the best of both worlds, that is,
 1) looks 'n' feels like free-form plain text - easy-to-read and easy-to-write -
 2) but offers a 100-% data accuracy guarantee (when loading into SQL tables, for example).
@@ -83,52 +85,70 @@ Match for third place  |  Sat Jul 12
 Final                  |  Sun Jul 13
 
 
-Group A
+» Group A
 
-(1) Thu Jun 12 17:00   Brazil - Croatia       @ Arena de São Paulo, São Paulo (UTC-3)
-(2) Fri Jun 13 13:00   Mexico - Cameroon      @ Estádio das Dunas, Natal (UTC-3)
+Thu Jun 12 
+  17:00   Brazil - Croatia       @ Arena de São Paulo, São Paulo (UTC-3)
+Fri Jun 13 
+  13:00   Mexico - Cameroon      @ Estádio das Dunas, Natal (UTC-3)
 
-(17) Tue Jun 17 16:00   Brazil - Mexico        @ Estádio Castelão, Fortaleza (UTC-3)
-(18) Wed Jun 18 18:00   Cameroon - Croatia     @ Arena Amazônia, Manaus (UTC-4)
+Tue Jun 17 
+   16:00   Brazil - Mexico        @ Estádio Castelão, Fortaleza (UTC-3)
+Wed Jun 18 
+   18:00   Cameroon - Croatia     @ Arena Amazônia, Manaus (UTC-4)
 
-(33) Mon Jun 23 17:00   Cameroon - Brazil      @ Brasília (UTC-3)
-(34) Mon Jun 23 17:00   Croatia  - Mexico      @ Recife (UTC-3)
+Mon Jun 23 
+   17:00   Cameroon - Brazil      @ Brasília (UTC-3)
+   17:00   Croatia  - Mexico      @ Recife (UTC-3)
 
 
-Group B
+» Group B
 
-(3) Fri Jun 13 16:00   Spain - Netherlands     @ Arena Fonte Nova, Salvador (UTC-3)
-(4) Fri Jun 13 18:00   Chile - Australia       @ Arena Pantanal, Cuiabá (UTC-4)
+Fri Jun 13 
+   16:00   Spain - Netherlands     @ Arena Fonte Nova, Salvador (UTC-3)
+   18:00   Chile - Australia       @ Arena Pantanal, Cuiabá (UTC-4)
 
-(19) Wed Jun 18 16:00   Spain - Chile             @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
-(20) Wed Jun 18 13:00   Australia - Netherlands   @ Estádio Beira-Rio, Porto Alegre (UTC-3)
+Wed Jun 18 
+   13:00   Australia - Netherlands   @ Estádio Beira-Rio, Porto Alegre (UTC-3)
+   16:00   Spain - Chile             @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
 
-(35) Mon Jun 23 13:00   Australia - Spain         @ Curitiba (UTC-3)
-(36) Mon Jun 23 13:00   Netherlands - Chile       @ São Paulo (UTC-3)
+Mon Jun 23 
+   13:00   Australia - Spain         @ Curitiba (UTC-3)
+   13:00   Netherlands - Chile       @ São Paulo (UTC-3)
 ...
 ```
 
 
 
-## Definitions
+## What's News (in 2026)?
+
+Note - starting in 2026 the Football.TXT format 
+is now split-up into levels. 
+
+Level 1 supports and includes match schedules with goal scorer lines
+ BUT no team line-ups, sent-offs props and more.
+
+Level 2 supports all of Level 1 plus team line-ups, sent-offs props and more.
 
 
-### Text and Two Space Rule
+## Football.TXT Format Level 1
 
-The "atomic" text unit in Football.TXT is NOT the classic word or identifier BUT
-a text run.  If you want to break text runs use two (or more) spaces.
+Sample:
 
 ```
-ARG  BOL  BRA   =>   TEXT(ARG), TEXT(BOL), TEXT(BRA)
-ARG BOL BRA     =>   TEXT(ARG BOL BRA)
+» Quarter-finals - 1st Leg
 
-Fri  Liverpool  =>   WDAY(Fri), TEXT(Liverpool)     
-Fri Liverpool   =>   TEXT(Fri Liverpool)
-
-Matchday 1      =>   TEXT(Matchday 1) 
-1860 München    =>   TEXT(1860 München)
-...
-```     
+Tue Apr/1
+  20.45   FC Barcelona        v Atlético Madrid    1-1  @ Camp Nou, Barcelona
+            (Neymar 71'; Diego 56')
+  20.45   Manchester United   v Bayern München     1-1  @ Old Trafford, Manchester
+            (Vidić 58'; Schweinsteiger 67')
+Wed Apr/2
+  20.45   Real Madrid         v Borussia Dortmund  3-0  @ Santiago Bernabéu, Madrid
+            (Bale 3' Isco 27' Ronaldo 57')
+  20.45   Paris Saint-Germain v Chelsea FC         3-1  @ Parc des Princes, Paris
+            (Lavezzi 4' Luiz 61'og Pastore 90+3'; Hazard 27'pen)
+```
 
 
 ### Match Results & Fixtures
@@ -144,7 +164,7 @@ Cameroon v Brazil
 Croatia  v Mexico
 ```
 
-For match results (i) you can separate two team names by `-` or `v`  (same as fixtures) followed by the score (e.g. `0-0`) or separate two team names by the score.
+For match results (i) you can separate two team names by `-` or `v`  (same as fixtures) followed by the score (e.g. `0-0`) or separate team names by the score.
 Examples:
 
 ```
@@ -158,10 +178,178 @@ River Plate   0-0  Atlético Mineiro
 Peñarol       3-1  Botafogo 
 ```
 
-For the after extra-time (aet) score or penalties formats, see the score format (options).
+For the after extra-time (aet) score or penalties formats, see the score format section.
 
 
-### Round & Matchday Definition   (Optional)
+
+### Aside - Text and Two Space Rule
+
+Note - The "atomic" text unit in Football.TXT is NOT the classic word or identifier BUT
+a text run.  If you want to break text runs use two (or more) spaces.
+
+```
+ARG  BOL  BRA   =>   [:TEXT,"ARG"], [:TEXT,"BOL"], [:TEXT,"BRA"]
+ARG BOL BRA     =>   [:TEXT,"ARG BOL BRA"]
+
+Fri  Liverpool  =>   [:TEXT,"Fri"], [:TEXT,"Liverpool"]     
+Fri Liverpool   =>   [:TEXT,"Fri Liverpool"]
+
+Matchday 1      =>   [:TEXT,"Matchday 1"] 
+1860 München    =>   [:TEXT,"1860 München"]
+...
+```     
+
+
+
+### Round Lines (Outlines)
+
+Round lines (outlines) MUST start with `»` or `>>` e.g.
+
+```
+» Quarter-finals - 1st Leg
+» Group A
+» Match for third place
+...
+```
+
+
+#### Tip - How To Add Stages
+
+To add stages in your match schedules and round lines (outlines) use:
+
+```
+» Matchday 1                  # no stage (assumes regular season)
+» Matchday 2
+...  
+» Championship, Matchday 1    # Championship stage
+» Championship, Matchday 2
+...
+» Europe, Matchday 1          # Europe stage
+» Europe, Matchday 2
+...
+
+# -or-
+
+» League, Matchday 1         # League stage
+» League, Matchday 2
+...
+» Playoffs, Matchday 1       # Playoffs stage
+» Playoffs, Matchday 2
+...
+» Finals, Round of 16        # Finals stage
+» Finals, Quarterfinals
+» Finals, Semifinals
+» Finals, Final
+
+```
+
+
+## Stadiums & Grounds 
+
+Use `@` to start with adding "geo" names - that is, stadiums & grounds 
+and / or cities (plus optional timezone), countries and more.
+Examples:
+
+```
+  @ Stadio Olimpico, Roma
+  @ Arena Naţională, Bucureşti, Romania
+  @ Bucuresti, 23 August
+  @ Wien, Prater
+  @ Buenos Aires
+  @ Brasília (UTC-3)
+  @ Arena Fonte Nova, Salvador (UTC-3)
+  @ Arena Pantanal, Cuiabá (UTC-4)
+  @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
+  ...
+```
+
+Note - Geo names have their own (lexer) mode and, thus, you can (even) use dates
+(e.g. `23 August`) or more. 
+
+
+### Comments & Blank Lines
+
+#### Blank links
+
+Use blank links as you wish to make the text look pretty, that is, easy-to-read and easy-to-write.
+
+#### Single-line comments 
+
+You can use `#` for comments. Example:
+
+```
+# Note - Hugo Lloris saved a penalty from Ricardo Rodríguez at 55'.
+```
+
+
+
+### Date (Header) Line
+
+
+#### Date Formats
+
+
+
+### Score Formats
+
+#### Basic (Final Result Only) Score Format
+
+#### Score Formats for Half-Time, After-Extra-Time, Penalty-Shootout, & More 
+
+
+
+
+### Goal (Scorer) Line
+
+Goal (scorer) lines MUST be enclosed with `()` and, thus, start with `(` e.g.
+
+```
+(Neymar 71'; Diego 56')
+(Lavezzi 4' Luiz 61'og Pastore 90+3'; Hazard 27'pen)
+...
+```
+
+
+
+
+
+---
+
+## Football.TXT Format Level 2  
+
+The Football.TXT Format Level 2 supports all of Level 1
+plus adds:
+
+- Definitions
+  - Groups 
+  - Rounds (& Matchdays)
+- Match Properties
+  - Team Line-ups (incl. Trainer, Substitutions, etc.)
+  - Yellow Cards, Red Cards, Sent-off
+  - Penalty Shootouts
+  - Referees 
+  - (Stadium) Attendence
+
+
+### Group Definition  
+
+```
+<GROUP>   |  <TEAM>  <TEAM> ...
+```
+
+Note - `<GROUP>`is a text run (`<TEXT>`) that MUST match the group matching formula that 
+incl. Group 1, Group 2, Group A, Group B, Group A1, Group A2, Group B1, Group B2, etc.
+
+Examples:
+
+```
+Group A  |  Brazil       Croatia              Mexico         Cameroon
+Group B  |  Spain        Netherlands          Chile          Australia
+...
+```
+
+
+### Round (& Matchday Definition)  
 
 ```
 <ROUND>   |  <DATE>            OR
@@ -190,89 +378,13 @@ What's the point?  If a match has no round header (in scope) than tools can use
 the round & match definitions to find a match by date lookup. 
 
 
-
-### Group Definition  (Optional)
-
-```
-<GROUP>   |  <TEAM>  <TEAM> ...
-```
-
-Note - `<GROUP>`is a text run (`<TEXT>`) that MUST match the group matching formula that 
-incl. Group 1, Group 2, Group A, Group B, Group A1, Group A2, Group B1, Group B2, etc.
-
-Examples:
-
-```
-Group A  |  Brazil       Croatia              Mexico         Cameroon
-Group B  |  Spain        Netherlands          Chile          Australia
-...
-```
-
-## Headers
-
-### Round & Matchday Header
-
-### Group Header
-
-### Date Header
-
-
-## Date Formats
-
-## Score Formats
-
-
-## (Inline) Goal(s) Line
-
-
-
-
-
-## Stadiums & Grounds 
-
-Use `@` to start with adding "geo" names - that is, stadiums & grounds 
-and / or cities (plus optional timezone), countries and more.
-Examples:
-
-```
-  @ Stadio Olimpico, Roma
-  @ Arena Naţională, Bucureşti, Romania
-  @ Bucuresti, 23 August
-  @ Wien, Prater
-  @ Buenos Aires
-  @ Brasília (UTC-3)
-  @ Arena Fonte Nova, Salvador (UTC-3)
-  @ Arena Pantanal, Cuiabá (UTC-4)
-  @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
-  ...
-```
-
-Note - Geo names have their own (lexer) mode and, thus, you can (even) use dates
-(e.g. `23 August`) or more. 
-
-
-## Comments & Blank Lines
-
-### Blank links
-
-Use blank links as you wish to make the text look pretty, that is, easy-to-read and easy-to-write.
-
-### Single-line comments
-
-You can use `#` for comments. Example:
-
-```
-# Note - Hugo Lloris saved a penalty from Ricardo Rodríguez at 55'.
-```
-
-
-## Prop(erty) lines
+### Prop(erty) Lines
 
 Property lines start with a team name followed by double colon (`:`)
 for lineups or known property keywords / names (e.g. Penalties, Goals, Referee, etc.)
 followd by double colon (`:`) for all other props.
 
-### Lineup
+#### Lineup
 
 Examples:
 
@@ -320,7 +432,7 @@ the line MUST end with `,;-`, that is, comma (`,`), semicolon (`;`) or dash (`-`
 
 
 
-### Penalties / Penalty Shootout
+#### Penalties / Penalty Shootout
 
 Examples:
 
@@ -341,19 +453,7 @@ the line MUST end with `,;`, that is, comma (`,`) or semicolon (`;`).
 
 
 
-### Goals
-
-Examples:
-
-```
-Goals:  Arruabarrena 22' Arruabarrena 61'; Pena 43' Euller 63' 
-
-Goals:  Galic 11' Zanetic 55' Knez 75' Jerkovic 77', 78'; 
-          Vincent 12'  Heutte 43', 62' Wiesnieski 52'
-```
-
-
-### Yellow Card; Red Cards / Sent Off
+#### Yellow Card; Red Cards / Sent Off
 
 Examples:
 
@@ -370,7 +470,7 @@ Red cards: Mosquera, Evair
 Sent off: Páez
 ```
 
-### Referee / Ref
+#### Referee / Ref
 
 Examples:
 
@@ -400,9 +500,13 @@ Note - You CANNOT use commas in number e.g. `45,000` use underscore e.g. `45_000
 
 
 
+
+---
+
+
 ## Language (English, Deutsch, Español, etc.)
 
-The focus for the Football.TXT format v1 is on English.   
+Note - The focus for the Football.TXT format v1 is on English.   
 More formats with conventions used in German (Deutsch)
 or Spanish (Español) are planned for later.
 

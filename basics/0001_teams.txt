@@ -10,12 +10,20 @@
 ## -- São Tomé & Príncipe
 Militar 6 Setembro     # Desportivo Militar 6 De Setembro
 1º de Maio             # Desportivo 1º de Maio
-
-
-
-
+Achilles'29 II
+UDI'19/Beter Bed
+UDI '19/Beter Bed
+Naval 1° de Maio
+1° de Maio
+Austria 2
+Dnpro-1
+Grenoble Foot 38
+U21 Matzlatan
+U17 Matzlatan
+  
+ 
 ######################
-### with special chars  (e.g. &/ etc.)
+### with special chars  (e.g. &/' etc.)
 
 # -- England
 Brighton & Hove Albion
@@ -32,6 +40,18 @@ Trinidad & Tabago
 # -- Denmark
 Bodø/Glimt
 
+Cote'd Ivoir
+ASC Monts d'Or Chasselay
 
 
 
+
+###
+# special case starting with 's (!)
+'s Gravenwezel-Schilde
+
+
+### special case - check V and V.  - note: v reserved for versus match divider!
+##      note - v and vs only reserved in lower case!!!
+V. Köln    
+V Köln
