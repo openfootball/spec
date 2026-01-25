@@ -21,18 +21,18 @@
 
 ▪ Group A
 
-14-6-24 @ München      Germany            5–1 Scotland   
+14.6.24 @ München      Germany            5–1 Scotland   
                          (Wirtz 10, Musiala 19, Havertz 45+1pen, Fullkrug 68, 
                           Can 90+3; Rudiger 87og)
-15-6-24 @ Köln         Hungary            1–3 Switzerland   
+15.6.24 @ Köln         Hungary            1–3 Switzerland   
                          (Varga 66; Duah 12, Aebischer 45, Embolo 90+3)
-19-6-24 @ Stuttgart       Germany            2–0 Hungary    
+19.6.24 @ Stuttgart       Germany            2–0 Hungary    
                          (Musiala 22, Gundogan 67)
-19-6-24 @ Köln         Scotland           1–1 Switzerland   
+19.6.24 @ Köln         Scotland           1–1 Switzerland   
                          (McTominay 13; Shaqiri 26)
-23-6-24 @ Frankfurt    Switzerland        1–1 Germany   
+23.6.24 @ Frankfurt    Switzerland        1–1 Germany   
                          (Ndoye 28; Fullkrug 90+2)
-23-6-24 @ Stuttgart    Scotland           0–1 Hungary   
+23.6.24 @ Stuttgart    Scotland           0–1 Hungary   
                          (Csoboth 90+10)
 
 # 1.GERMANY             3  2  1  0   8- 2   7 
@@ -43,17 +43,17 @@
 
 ▪ Group B
 
-15-6-24 @ Berlin       Spain              3–0 Croatia    
+15.6.24 @ Berlin       Spain              3–0 Croatia    
                          (Morata 29, Fabian Ruiz 32, Dani Carvajal 45+2)
-15-6-24 @ Dortmund     Italy              2–1 Albania   
+15.6.24 @ Dortmund     Italy              2–1 Albania   
                          (Bastoni 11, Barella 16; Bajrami 1)
-19-6-24 @ Hamburg      Croatia            2–2 Albania   
+19.6.24 @ Hamburg      Croatia            2–2 Albania   
                          (Kramaric 74, Gjasula 76og; Laci 11, Gjasula 90+5)
-20-6-24 @ Gelsenkirchen  Spain              1–0 Italy   
+20.6.24 @ Gelsenkirchen  Spain              1–0 Italy   
                          (Calafiori 55og)
-24-6-24 @ Düsseldorf   Albania            0–1 Spain   
+24.6.24 @ Düsseldorf   Albania            0–1 Spain   
                          (Ferran Torres 13)
-24-6-24 @ Leipzig      Croatia            1–1 Italy    
+24.6.24 @ Leipzig      Croatia            1–1 Italy    
                          (Modric 55; Zaccagni 90+8)
 
 # 1.SPAIN               3  3  0  0   5- 0   9 
@@ -64,16 +64,16 @@
 
 ▪ Group C
 
-16-6-24 @ Stuttgart    Slovenia           1–1 Denmark     
+16.6.24 @ Stuttgart    Slovenia           1–1 Denmark     
                          (Janza 77; Eriksen 17)
-16-6-24 @ Gelsenkirchen  Serbia             0–1 England    
+16.6.24 @ Gelsenkirchen  Serbia             0–1 England    
                          (Bellingham 13)
-20-6-24 @ München      Slovenia           1–1 Serbia    
+20.6.24 @ München      Slovenia           1–1 Serbia    
                          (Karnicnik 69; Jovic 90+5)
-20-6-24 @ Frankfurt    Denmark            1–1 England    
+20.6.24 @ Frankfurt    Denmark            1–1 England    
                          (Hjulmand 34; Kane 18)
-25-6-24 @ Köln         England            0–0 Slovenia    
-25-6-24 @ München      Denmark            0–0 Serbia      
+25.6.24 @ Köln         England            0–0 Slovenia    
+25.6.24 @ München      Denmark            0–0 Serbia      
 
 # 1.ENGLAND             3  1  2  0   2- 1   5
 # 2.DENMARK             3  0  3  0   2- 2   3
@@ -83,16 +83,16 @@
 
 ▪ Group D
 
-16-6-24 @ Hamburg       Poland             1–2 Netherlands     
+16.6.24 @ Hamburg       Poland             1–2 Netherlands     
                          (Buksa 16; Gakpo 29, Weghorst 83)
-17-6-24 @ Düsseldorf    Austria            0–1 France    
+17.6.24 @ Düsseldorf    Austria            0–1 France    
                          (Wober 38og)
-21-6-24 @ Berlin        Poland             1–3 Austria   
+21.6.24 @ Berlin        Poland             1–3 Austria   
                          (Piatek 30; Trauner 9, Baumgartner 66, Arnautovic 78pen)
-21-6-24 @ Leipzig       Netherlands        0–0 France    
-25-6-24 @ Berlin        Netherlands        2–3 Austria   
+21.6.24 @ Leipzig       Netherlands        0–0 France    
+25.6.24 @ Berlin        Netherlands        2–3 Austria   
                          (Gakpo 47, Depay 75; Malen 6og, Schmid 59, Sabitzer 80)
-25-6-24 @ Dortmund      France             1–1 Poland   
+25.6.24 @ Dortmund      France             1–1 Poland   
                          (Mbappé 56pen; Lewandowski 79pen)
 
 # 1.AUSTRIA             3  2  0  1   6- 4   6
@@ -103,17 +103,17 @@
 
 ▪ Group E
 
-17-6-24 @ München        Romania            3–0 Ukraine
+17.6.24 @ München        Romania            3–0 Ukraine
                           (Stanciu 29, R. Marin 53, Dragus 57)
-17-6-24 @ Frankfurt      Belgium            0–1 Slovakia
+17.6.24 @ Frankfurt      Belgium            0–1 Slovakia
                           (Schranz 7)
-21-6-24 @ Düsseldorf     Slovakia           1–2 Ukraine
+21.6.24 @ Düsseldorf     Slovakia           1–2 Ukraine
                           (Schranz 17; Shaparenko 54, Yaremchuk 80)
-22-6-24 @ Köln           Belgium            2–0 Romania
+22.6.24 @ Köln           Belgium            2–0 Romania
                           (Tielemans 2, De Bruyne 80)
-26-6-24 @ Frankfurt      Slovakia           1–1 Romania
+26.6.24 @ Frankfurt      Slovakia           1–1 Romania
                           (Duda 24; R. Marin 37pen)
-26-6-24 @ Stuttgart      Ukraine            0–0 Belgium
+26.6.24 @ Stuttgart      Ukraine            0–0 Belgium
 
 # 1.ROMANIA             3  1  1  1   4- 3   4 
 # 2.BELGIUM             3  1  1  1   2- 1   4
@@ -123,17 +123,17 @@
 
 ▪ Group F
 
-18-6-24 @ Dortmund       Turkey             3–1 Georgia
+18.6.24 @ Dortmund       Turkey             3–1 Georgia
                           (Muldur 25, Guler 65, Akturkoglu 90+7; Mikautadze 32)
-18-6-24 @ Leipzig        Portugal           2–1 Czech Republic
+18.6.24 @ Leipzig        Portugal           2–1 Czech Republic
                           (Hranac 69og, Conceicao 90+2; Provod 62)
-22-6-24 @ Hamburg        Georgia            1–1 Czech Republic
+22.6.24 @ Hamburg        Georgia            1–1 Czech Republic
                           (Mikautadze 45+4pen; Schick 59)
-22-6-24 @ Dortmund       Turkey             0–3 Portugal
+22.6.24 @ Dortmund       Turkey             0–3 Portugal
                           (B. Silva 21, Akaydin 28og, Fernandes 56)
-26-6-24 @ Gelsenkirchen  Georgia            2–0 Portugal
+26.6.24 @ Gelsenkirchen  Georgia            2–0 Portugal
                           (Kvaratskhelia 2, Mikautadze 57pen)
-26-6-24 @ Hamburg        Czech Republic     1–2 Turkey
+26.6.24 @ Hamburg        Czech Republic     1–2 Turkey
                           (Soucek 66; Calhanoglu 51, Tosun 90+4)
 
 # 1.PORTUGAL            3  2  0  1   5- 3   6
@@ -143,40 +143,40 @@
 
 
 ▪ 1/8 Finals
-29-6-24 @ Berlin         Switzerland        2–0 Italy
+29.6.24 @ Berlin         Switzerland        2–0 Italy
                           (Freuler 37, Vargas 46)
-29-6-24 @ Dortmund       Germany            2–0 Denmark
+29.6.24 @ Dortmund       Germany            2–0 Denmark
                           (Havertz 53pen, Musiala 68)
-30-6-24 @ Gelsenkirchen  England            2–1 Slovakia           [aet]
+30.6.24 @ Gelsenkirchen  England            2–1 Slovakia           [aet]
                           (Bellingham 90+5, Kane 91; Schranz 25)
-30-6-24 @ Köln           Spain              4–1 Georgia
+30.6.24 @ Köln           Spain              4–1 Georgia
                           (Rodri 39, Fabian Ruiz 51, Williams 75, Dani Olmo 83; 
                            Le Normand 18og)
- 1-7-24 @ Düsseldorf     France             1–0 Belgium
+ 1.7.24 @ Düsseldorf     France             1–0 Belgium
                           (Vertonghen 85og)
- 1-7-24 @ Frankfurt      Portugal           0–0 Slovenia           [aet, 3-0 pen]
- 2-7-24 @ München        Romania            0–3 Netherlands
+ 1.7.24 @ Frankfurt      Portugal           0–0 Slovenia           [aet, 3-0 pen]
+ 2.7.24 @ München        Romania            0–3 Netherlands
                           (Gakpo 20, Malen 83, 90+3)
- 2-7-24 @ Leipzig        Austria            1–2 Turkey
+ 2.7.24 @ Leipzig        Austria            1–2 Turkey
                           (Gregoritsch 66; Demiral 1, 59)
 
 ▪ Quarterfinals
- 5-7-24 @ Stuttgart      Spain              2–1 Germany            [aet]
+ 5.7.24 @ Stuttgart      Spain              2–1 Germany            [aet]
                            (Dani Olmo 51, Merino 119; Wirtz 89)
- 5-7-24 @ Hamburg        Portugal           0–0 France             [aet, 3-5 pen]
- 6-7-24 @ Düsseldorf     England            1–1 Switzerland        [aet, 5-3 pen]
+ 5.7.24 @ Hamburg        Portugal           0–0 France             [aet, 3-5 pen]
+ 6.7.24 @ Düsseldorf     England            1–1 Switzerland        [aet, 5-3 pen]
                            (Saka 80; Embolo 75)
- 6-7-24 @ Berlin         Netherlands        2–1 Turkey
+ 6.7.24 @ Berlin         Netherlands        2–1 Turkey
                            (De Vrij 70, Muldur 76og; Akaydin 35)
 
 ▪ Semifinals
- 9-7-24 @ München        Spain              2–1 France
+ 9.7.24 @ München        Spain              2–1 France
                           (Yamal 21, Dani Olmo 25; Kolo Muani 9)
-10-7-24 @ Dortmund       Netherlands        1–2 England
+10.7.24 @ Dortmund       Netherlands        1–2 England
                           (Simons 7; Kane 18pen, Watkins 90)
 
 ▪ Final
-14-7-24 @ Berlin         Spain              2–1 England
+14.7.24 @ Berlin         Spain              2–1 England
                           (Williams 47, Oyarzabal 86; Palmer 73)
 
 

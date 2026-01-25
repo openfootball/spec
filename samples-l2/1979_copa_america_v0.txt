@@ -17,7 +17,7 @@ Group 3  |  ECU  PAR  URU
 
 
 
-Group 1
+▪ Group 1
 
 1.8. @ San Cristóbal, Pueblo Nuevo 
 
@@ -112,7 +112,7 @@ COL: Zape - Castro, Escobar, Reyes, Bolaño - Herrera, Chaparro, Valverde - Día
 
 
 
-Group 2
+▪ Group 2
 
 18.7. @ La Paz, Hernando Siles   # (40,000)
 
@@ -215,7 +215,7 @@ Sent off: Gallego; Zico
 
 
 
-Group 3 
+▪ Group 3 
 
 29.8.  @  Quito, Atahualpa   # (45,000)
 
@@ -314,7 +314,7 @@ PAR: Báez - Espínola, Cibils, J.M.Villalba, Torales - Vera, Florentín, Pesoa 
 
 
 
-Semifinals
+▪ Semifinals
 
 17.10.  @ Lima, Nacional   # (50,000) 
 
@@ -375,7 +375,7 @@ PAR: Fernández - Espínola, Paredes, Sosa (Cibils 89'), Torales - Florentín, K
 
 
 
-Finals
+▪ Finals
 
 28.11. @ Asunción, Defensores del Chaco   # (40,000) 
 

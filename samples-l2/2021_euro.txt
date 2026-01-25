@@ -6,7 +6,7 @@
 # see https://www.rsssf.org/tables/2021e-det.html 
 
 
-Group A
+▪ Group A
 
 # 11/06/2021, Roma, Stadio Olimpico, 12916
 # ITALY               3 (Merih Demiral 53' OG, Ciro Immobile 66', Lorenzo Insigne 79')
@@ -14,7 +14,7 @@ Group A
 
 Jun 11 @ Stadio Olimpico, Roma     ## (att: 12916)  
   ITALY v TURKEY   3-0    
-    Merih Demiral 53' (og) Ciro Immobile 66' Lorenzo Insigne 79'
+    (Merih Demiral 53' (og) Ciro Immobile 66' Lorenzo Insigne 79')
             
 
 ##  Jorge Frello Filho 'Jorginho'
@@ -50,8 +50,8 @@ Yellow Cards:      Çağlar Söyüncü 88',  Halil Dervişoğlu 90'
 
 Jun 28  @ Arena Naţională, Bucureşti, Romania   ## (att: 22642)
   SWITZERLAND v  FRANCE       3-3    [aet; Switzerland won 5-4 on penalties]
-     Haris Seferović 15', 81'  Mario Gavranović 90';
-     Karim Benzema 57', 59'  Paul Pogba 75'
+     (Haris Seferović 15', 81'  Mario Gavranović 90';
+      Karim Benzema 57', 59'  Paul Pogba 75')
  
 
   SWITZERLAND v  FRANCE     5-4 pen 3-3 aet
@@ -125,7 +125,7 @@ Cards:              Ukraine: 7 Andrii Yarmolenko [Y 79'], 26 Artem Dovbyk [Y 120
                             24 Marcus Danielson [R 99'].
 
 
-Quarter-finals
+▪ Quarter-finals
 
 02/07/2021, Sankt-Peterburg (Russia), Gazprom Arena (Stadion Sankt-Peterburg), 24764
 SPAIN               1 (18 Jordi Alba 8')

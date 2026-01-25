@@ -6,7 +6,7 @@ Group 3  |  ECU  PAR  URU
 
 
 
-Group 1
+▪ Group 1
 
 Aug 1   VEN v COL  0-0           @ San Cristóbal, Pueblo Nuevo 
 
@@ -17,7 +17,7 @@ COL: Zape - Bolaño, Escobar, Reyes, Castro - Valverde (Chaparro), Otero, Iguar�
 
 
 Aug 8    VEN v CHI  1-1 (0-0)      @ San Cristóbal, Pueblo Nuevo 
-           Carvajal 70';  Peredo 81'
+           (Carvajal 70';  Peredo 81')
 
 VEN: Vega - Contreras, Castro, Vidal, Campos - Mendoza, Páez, Sánchez - Peña (Santana),
      Carvajal, Hernández (Castillo)
@@ -26,7 +26,7 @@ CHI: Osbén - González, Valenzuela, Soto, Escobar - Rivas (Quiroz), Dubó, Neir
 
 
 Aug 15    COL v CHI  1-0 (1-0)     @ Bogotá, El Campín 
-             Díaz 21'
+             (Díaz 21')
 
 COL: Zape - Bolaño, Reyes, Escobar, Castro - Otero, Muñoz Castro (Chaparro), Valverde -
      Ortiz, Agudelo (Iguarán), Díaz 
@@ -36,7 +36,7 @@ CHI: Osbén - Quintano, Soto, Valenzuela, González - Escobar, Bonvallet, Rivas 
 
 
 Aug 22    COL v VEN  4-0 (1-0)     @ Bogotá, El Campín
-           Iguarán 17' Valverde 53' Chaparro 59' Morón 86'
+           (Iguarán 17' Valverde 53' Chaparro 59' Morón 86')
 
 COL: Zape - Bolaño, Escobar, Reyes, Castro - Valverde, Chaparro, Muñoz Castro - Ortiz,
      Iguarán, Díaz (Morón) 
@@ -46,7 +46,7 @@ VEN: Vega - Aguirre, Castro, Acosta, Campos - Vidal, Mendoza, Sánchez - Páez (
 
 
 Aug 29     CHI v VEN  7-0 (2-0)    @ Santiago, Nacional
-             Peredo 3', 59' Rivas 38', 54' Véliz 76' Soto 80' Yáñez 84'
+             (Peredo 3', 59' Rivas 38', 54' Véliz 76' Soto 80' Yáñez 84')
 
 CHI: Osbén - Galindo, Valenzuela, Soto, Escobar - Rivas, Rojas (Neira), Yáñez - Peredo,
      Caszely, Véliz 
@@ -57,7 +57,7 @@ Sent off: Páez
 
 
 Sep 5     CHI v COL  2-0 (1-0)   @ Santiago, Nacional
-              Caszely 14' Peredo 58'
+              (Caszely 14' Peredo 58')
 
 CHI: Osbén - Galindo, Valenzuela, Soto, Escobar - Rivas, Rojas (Neira), Yáñez (Bonvallet) -
      Peredo, Caszely, Véliz 

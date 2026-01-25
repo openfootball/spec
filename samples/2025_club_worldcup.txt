@@ -40,16 +40,16 @@
 
 ▪ Group A
 
-14-6-25 @ Miami Gardens     Al-Ahly           0-0 Inter Miami            
+14.6.25 @ Miami Gardens     Al-Ahly           0-0 Inter Miami            
 
-15-6-25 @ East Rutherford   Palmeiras         0-0 Porto         
-19-6-25 @ East Rutherford   Palmeiras         2-0 Al-Ahly       
+15.6.25 @ East Rutherford   Palmeiras         0-0 Porto         
+19.6.25 @ East Rutherford   Palmeiras         2-0 Al-Ahly       
                               (Abou Ali 49og, Lopez 59)
-19-6-25 @ Atlanta           Inter Miami       2-1 Porto         
+19.6.25 @ Atlanta           Inter Miami       2-1 Porto         
                               (Segovia 47, Messi 54; Aghehowa 8pen)
-23-6-25 @ Miami Gardens     Inter Miami       2-2 Palmeiras     
+23.6.25 @ Miami Gardens     Inter Miami       2-2 Palmeiras     
                               (Allende 16, Suarez 65; Paulinho 80, Mauricio 87)
-23-6-25 @ East Rutherford   Porto             4-4 Al-Ahly       
+23.6.25 @ East Rutherford   Porto             4-4 Al-Ahly       
                               (Mora 23, William Gomes 50, Aghehowa 53, Pepe 89; 
                                Abou Ali 15, 45+2pen, 51, Ben Romdhane 64)
 
@@ -61,17 +61,17 @@
 
 ▪ Group B
 
-15-6-25 @ Pasadena   Paris Saint-Germain 4-0 Atlético Madrid  
+15.6.25 @ Pasadena   Paris Saint-Germain 4-0 Atlético Madrid  
                           (Fabian Ruiz 19, Vitinha 45+1, Mayulu 87, Lee Kang-in 90+7pen)
-15-6-25 @ Seattle    Botafogo          2-1 Seattle Sounders FC  
+15.6.25 @ Seattle    Botafogo          2-1 Seattle Sounders FC  
                           (Jair Cunha 28, Igor Jesus 44; C. Roldan 75)
-19-6-25 @ Seattle    Seattle Sounders  1-3 Atlético Madrid  
+19.6.25 @ Seattle    Seattle Sounders  1-3 Atlético Madrid  
                           (Rusnak 50; Barrios 11, 55, Witsel 47)
-19-6-25 @ Pasadena   Paris Saint-Germain 0-1 Botafogo  
+19.6.25 @ Pasadena   Paris Saint-Germain 0-1 Botafogo  
                           (Igor Jesus 36)
-23-6-25 @ Seattle    Seattle Sounders  0-2 Paris Saint-Germain  
+23.6.25 @ Seattle    Seattle Sounders  0-2 Paris Saint-Germain  
                           (Kvaratskhelia 35, Hakimi 66)
-23-6-25 @ Pasadena   Atlético Madrid   1-0  Botafogo  
+23.6.25 @ Pasadena   Atlético Madrid   1-0  Botafogo  
                           (Griezmann 87)
 
 # 1.Paris Saint-Germain 3  2  0  1   6- 1   6  Qualified
@@ -82,19 +82,19 @@
 
 ▪ Group C
 
-15-6-25 @ Cincinnati     Bayern München   10-0 Auckland City  
+15.6.25 @ Cincinnati     Bayern München   10-0 Auckland City  
                           (Coman 6, 21, Boey 18, Olise 20, 45+3, Muller 45, 89,
                            Musiala 67, 73pen, 84)
-16-6-25 @ Miami Gardens  Boca Juniors      2-2 Benfica  
+16.6.25 @ Miami Gardens  Boca Juniors      2-2 Benfica  
                           (Otamendi 21og, Battaglia 27; Di María 45+3pen, Otamendi 84)
-20-6-25 @ Orlando II     Benfica           6-0 Auckland City  
+20.6.25 @ Orlando II     Benfica           6-0 Auckland City  
                           (Di Maria 45+8pen, 90+8pen, Pavlidis 53, Sanches 63,
                            Barreiro 76, 78)
-20-6-25 @ Miami Gardens  Bayern München    2-1 Boca Juniors  
+20.6.25 @ Miami Gardens  Bayern München    2-1 Boca Juniors  
                           (Kane 18, Olise 84; Merentiel 66)
-24-6-25 @ Nashville      Auckland City     1-1 Boca Juniors  
+24.6.25 @ Nashville      Auckland City     1-1 Boca Juniors  
                           (Gray 52; Garrow 26og)
-24-6-25 @ Charlotte      Benfica           1-0 Bayern München  
+24.6.25 @ Charlotte      Benfica           1-0 Bayern München  
                           (Schjelderup 13)
 
 # 1.Benfica             3  2  1  0   9- 2   7  Qualified
@@ -105,17 +105,17 @@
 
 ▪ Group D
 
-16-6-25 @ Atlanta         Chelsea           2-0 Los Angeles FC  
+16.6.25 @ Atlanta         Chelsea           2-0 Los Angeles FC  
                            (Neto 34, Fernandez 79)
-16-6-25 @ Philadelphia    Flamengo          2-0 Espérance Tunis  
+16.6.25 @ Philadelphia    Flamengo          2-0 Espérance Tunis  
                            (De Arrascaeta 17, L. Araujo 70)
-20-6-25 @ Philadelphia    Flamengo          3-1 Chelsea  
+20.6.25 @ Philadelphia    Flamengo          3-1 Chelsea  
                            (Bruno Henrique 62, Danilo 65, Wallace Yan 83; Neto 13)
-20-6-25 @ Nahsville       Los Angeles FC    0-1 Espérance Tunis  
+20.6.25 @ Nahsville       Los Angeles FC    0-1 Espérance Tunis  
                            (Belaili 70)
-24-6-25 @ Orlando I       Los Angeles FC    1-1 Flamengo  
+24.6.25 @ Orlando I       Los Angeles FC    1-1 Flamengo  
                            (Bouanga 84; Wallace Yan 86)
-24-6-25 @ Philadelphia    Espérance Tunis   0-3 Chelsea  
+24.6.25 @ Philadelphia    Espérance Tunis   0-3 Chelsea  
                            (Adarabioyo 45+3, Delap 45+5, George 90+7)
 
 # 1.Flamengo            3  2  1  0   6- 2   7  Qualified
@@ -126,16 +126,16 @@
 
 ▪ Group E
 
-17-6-25 @ Seattle    River Plate       3-1 Urawa Red Diamonds  
+17.6.25 @ Seattle    River Plate       3-1 Urawa Red Diamonds  
                           (Colidio 12, Driussi 48, Meza 73; Matsuo 58pen)
-17-6-25 @ Pasadena    Monterrey         1-1 Internazionale  
+17.6.25 @ Pasadena    Monterrey         1-1 Internazionale  
                           (Ramos 25; Lautaro Martinez 42)
-21-6-25 @ Seattle     Internazionale    2-1 Urawa Red Diamonds  
+21.6.25 @ Seattle     Internazionale    2-1 Urawa Red Diamonds  
                           (Lautaro Martinez 78, Carboni 90+2; Watanabe 11)
-21-6-25 @ Pasadena    River Plate       0-0 Monterrey  
-25-6-25 @ Seattle     Internazionale    2-0 River Plate  
+21.6.25 @ Pasadena    River Plate       0-0 Monterrey  
+25.6.25 @ Seattle     Internazionale    2-0 River Plate  
                           (F. Esposito 72, Bastoni 90+3)
-25-6-25 @ Pasadena    Urawa Red Diamonds   0-4 Monterrey   
+25.6.25 @ Pasadena    Urawa Red Diamonds   0-4 Monterrey   
                           (Deossa 30, Berterame 34, 90+7, Corona 39)
 
 # 1.Internazionale      3  2  1  0   5- 2   7  Qualified
@@ -146,18 +146,18 @@
 
 ▪ Group F
 
-17-6-25 @ East Rutherford     Fluminense        0-0 Borussia Dortmund   
-17-6-25 @ Orlando II          Ulsan HD          0-1 Mamelodi Sundowns   
+17.6.25 @ East Rutherford     Fluminense        0-0 Borussia Dortmund   
+17.6.25 @ Orlando II          Ulsan HD          0-1 Mamelodi Sundowns   
                                (Rayners 36)
-21-6-25 @ Cincinnati          Mamelodi Sundowns 3-4 Borussia Dortmund   
+21.6.25 @ Cincinnati          Mamelodi Sundowns 3-4 Borussia Dortmund   
                                (Ribeiro 11, Rayners 62, Mothiba 90; Nmecha 16, Guirassy 34,
                                 Bellingham 45, Mudau 59og)
-21-6-25 @ East Rutherford     Fluminense        4-2 Ulsan HD   
+21.6.25 @ East Rutherford     Fluminense        4-2 Ulsan HD   
                                (Arias 27, Nonato 66, Freytes 83, Keno 90+2; Lee Jin-hyun 37,
                                 Um Won-sang 45+3)
-25-6-25 @ Cincinnati          Borussia Dortmund 1-0 Ulsan HD   
+25.6.25 @ Cincinnati          Borussia Dortmund 1-0 Ulsan HD   
                                (Svensson 36)
-25-6-25 @ Miami Gardens       Mamelodi Sundowns 0-0 Fluminense   
+25.6.25 @ Miami Gardens       Mamelodi Sundowns 0-0 Fluminense   
 
 # 1.Borussia Dortmund   3  2  1  0   5- 3   7  Qualified
 # 2.Fluminense          3  1  2  0   4- 2   5  Qualified
@@ -167,19 +167,19 @@
 
 ▪ Group G
 
-18-6-25 @ Philadelphia     Manchester City   2-0 Wydad AC Casablanca  
+18.6.25 @ Philadelphia     Manchester City   2-0 Wydad AC Casablanca  
                              (Foden 2, Doku 42)
-18-6-25 @ Washington D.C.  Al-Ain            0-5 Juventus     
+18.6.25 @ Washington D.C.  Al-Ain            0-5 Juventus     
                              (Kolo Muani 11, 45+4, Conceicao 21, 58, Yildiz 31)
-22-6-25 @ Philadelphia    Juventus          4-1 Wydad AC Casablanca   
+22.6.25 @ Philadelphia    Juventus          4-1 Wydad AC Casablanca   
                             (Boutouil 6og, Yildiz 16, 69, Vlahovic 90+4pen; Lorch 25)
-22-6-25 @ Atlanta     Manchester City   6-0 Al-Ain   
+22.6.25 @ Atlanta     Manchester City   6-0 Al-Ain   
                           (Gundogan 8, 73, Echeverri 27, Haaland 45+5pen, Bobb 84,
                            Cherki 89)
-26-6-25 @ Orlando I    Manchester City   5-2 Juventus   
+26.6.25 @ Orlando I    Manchester City   5-2 Juventus   
                           (Doku 9, Kalulu 26og, Haaland 52, Foden 69, Savinho 75;
                            Koopmeiners 11, Vlahovic 84)
-26-6-25 @ Washington D.C.    Wydad AC Casablanca  1-2 Al-Ain   
+26.6.25 @ Washington D.C.    Wydad AC Casablanca  1-2 Al-Ain   
                                (Mailula 4; Laba 45+1pen, Kaku 50)
 
 # 1.Manchester City     3  3  0  0  13- 2   9  Qualified
@@ -190,16 +190,16 @@
 
 ▪ Group H
 
-18-6-25 @ Miami Gardens    Real Madrid       1-1 Al-Hilal   
+18.6.25 @ Miami Gardens    Real Madrid       1-1 Al-Hilal   
                           (G. Garcia 34; Neves 41pen)
-18-6-25 @ Cincinnati    Pachuca           1-2 Red Bull Salzburg   
+18.6.25 @ Cincinnati    Pachuca           1-2 Red Bull Salzburg   
                           (Gonzalez 56; Gloukh 42, Onisiwo 76)
-22-6-25 @ Charlotte    Real Madrid       3-1 Pachuca   
+22.6.25 @ Charlotte    Real Madrid       3-1 Pachuca   
                           (Bellingham 35, Guler 43, Valverde 70; Montiel 80)
-22-6-25 @ Washington D.C.    Red Bull Salzburg 0-0 Al-Hilal   
-26-6-25 @ Nashville    Al-Hilal          2-0 Pachuca   
+22.6.25 @ Washington D.C.    Red Bull Salzburg 0-0 Al-Hilal   
+26.6.25 @ Nashville    Al-Hilal          2-0 Pachuca   
                           (S. Al-Dawsari 22, Marcos Leonardo 90+5)
-26-6-25 @ Philadelphia    Red Bull Salzburg 0-3 Real Madrid   
+26.6.25 @ Philadelphia    Red Bull Salzburg 0-3 Real Madrid   
                           (Vinicius 40, Valverde 45+3, G. Garcia 84)
 
 # 1.Real Madrid         3  2  1  0   7- 2   7  Qualified
@@ -209,43 +209,43 @@
 
 
 ▪ 1/8 Finals
-28-6-25 @ Philadelphia    Palmeiras         1-0 Botafogo   [aet]                       
+28.6.25 @ Philadelphia    Palmeiras         1-0 Botafogo   [aet]                       
                           (Paulinho 100)
-28-6-25 @ Charlotte    Benfica           1-4 Chelsea   [aet]   
+28.6.25 @ Charlotte    Benfica           1-4 Chelsea   [aet]   
                           (Di Maria 90+5pen; James 64, Nkunku 108, Neto 114,
                            Dewsbury-Hall 117)
-29-6-25 @ Atlanta    Paris Saint-Germain 4-0 Inter Miami   
+29.6.25 @ Atlanta    Paris Saint-Germain 4-0 Inter Miami   
                           (Neves 6, 39, Aviles 44og, Hakimi 45+3)
-29-6-25 @ Miami Gardens    Flamengo          2-4 Bayern München   
+29.6.25 @ Miami Gardens    Flamengo          2-4 Bayern München   
                           (Gerson 33, Jorginho 55pen; Pulgar 6og, Kane 9, 73,
                            Goretzka 41)
-30-6-25 @ Charlotte    Internazionale    0-2 Fluminense   
+30.6.25 @ Charlotte    Internazionale    0-2 Fluminense   
                           (Cano 3, Hercules 90+3)
-30-6-25 @ Orlando I    Manchester City   3-4 Al-Hilal   [aet]   
+30.6.25 @ Orlando I    Manchester City   3-4 Al-Hilal   [aet]   
                           (Silva 9, Haaland 55, Foden 104; Marcos Leonardo 46, 112,
                            Malcom 52, Koulibaly 94)
- 1-7-25 @ Miami Gardens    Real Madrid       1-0 Juventus   
+ 1.7.25 @ Miami Gardens    Real Madrid       1-0 Juventus   
                           (G. Garcia 54)
- 1-7-25 @ Atlanta    Borussia Dortmund 2-1 Monterrey   
+ 1.7.25 @ Atlanta    Borussia Dortmund 2-1 Monterrey   
                           (Guirassy 14, 24; Berterame 48)
 
 ▪ Quarterfinals
- 4-7-25 @ Orlando I    Fluminense        2-1 Al-Hilal    
+ 4.7.25 @ Orlando I    Fluminense        2-1 Al-Hilal    
                           (Martinelli 40, Hercules 70; Marcos Leonardo 51)
- 4-7-25 @ Philadelphia    Palmeiras         1-2 Chelsea     
+ 4.7.25 @ Philadelphia    Palmeiras         1-2 Chelsea     
                           (Estevao 53; Palmer 16, Weverton 83og)
- 5-7-25 @ Atlanta    Paris Saint-Germain 2-0 Bayern München   
+ 5.7.25 @ Atlanta    Paris Saint-Germain 2-0 Bayern München   
                           (Doué 78, Dembelé 90+6)
- 5-7-25 @ East Rutherford    Real Madrid       3-2 Borussia Dortmund   
+ 5.7.25 @ East Rutherford    Real Madrid       3-2 Borussia Dortmund   
                           (G. Garcia 10, F. Garcia 20, Mbappé 90+4; Beier 90+3,
                            Guirassy 90+8pen)
 
 ▪ Semifinals
- 8-7-25 @ East Rutherford    Fluminense        0-2 Chelsea   
+ 8.7.25 @ East Rutherford    Fluminense        0-2 Chelsea   
                           (Joao Pedro 18, 56)
- 9-7-25 @ East Rutherford     Paris Saint-Germain 4-0 Real Madrid   
+ 9.7.25 @ East Rutherford     Paris Saint-Germain 4-0 Real Madrid   
                           (Fabian Ruiz 6, 24, Dembelé 9, Ramos 87)
 
 ▪ Final
-13-7-25 @ East Rutherford    Paris Saint-Germain 0-3 Chelsea   
+13.7.25 @ East Rutherford    Paris Saint-Germain 0-3 Chelsea   
                               (Palmer 22, 30, Joao Pedro 43)
