@@ -5,7 +5,7 @@
 # note - (slightly) reformatted (and edited) to fit the football.txt format
 
 
-» Round 1 
+▪ Round 1 
 Aug 2
   GAK              2-3 Salzburg         
 Aug 3
@@ -16,7 +16,7 @@ Aug 4
   Rapid            1-0 Sturm            
   BW Linz          1-0 Austria W        
 
-» Round 2
+▪ Round 2
 Aug 10
   LASK             1-2 Altach           
   Wattens          0-0 GAK              
@@ -26,7 +26,7 @@ Aug 11
   Sturm            2-0 Hartberg         
   Austria K        1-1 Rapid            
 
-» Round 3
+▪ Round 3
 Aug 17
   GAK              2-2 BW Linz          
   Austria K        0-2 Sturm            
@@ -36,7 +36,7 @@ Aug 18
   Altach           2-0 Wolfsberg        
   Hartberg         1-1 Austria W        
 
-» Round 4
+▪ Round 4
 Aug 24
   Wattens          0-1 Austria K        
   Sturm            2-1 Altach           
@@ -47,7 +47,7 @@ Aug 25
 Dec 4 
   Salzburg         4-0 Hartberg         
 
-» Round 5
+▪ Round 5
 Aug 31
   Austria K        3-1 BW Linz          
   Hartberg         1-1 GAK              
@@ -57,7 +57,7 @@ Sep 1
   Rapid            3-2 Salzburg         
   Altach           1-1 Austria W        
 
-» Round 6
+▪ Round 6
 Sep 14
   Wolfsberg        1-1 Rapid            
   BW Linz          1-0 LASK             
@@ -70,7 +70,7 @@ Sep 26
 Dec 14 
   Salzburg         3-0 Austria K        
 
-» Round 7
+▪ Round 7
 Sep 21
   Altach           0-1 BW Linz          
   LASK             4-2 GAK              
@@ -80,7 +80,7 @@ Sep 22
   Wattens          0-0 Salzburg         
   Rapid            2-1 Austria W        
 
-» Round 8
+▪ Round 8
 Sep 28
   BW Linz          1-2 Sturm            
   Rapid            1-1 LASK             
@@ -90,7 +90,7 @@ Sep 29
   Hartberg         2-0 Altach           
   GAK              0-1 Austria K        
 
-» Round 9
+▪ Round 9
 Oct 5
   Wolfsberg        2-3 Hartberg         
   Wattens          1-1 BW Linz          
@@ -100,7 +100,7 @@ Oct 6
   LASK             4-0 Austria K        
   Sturm            5-0 Salzburg         
 
-» Round 10
+▪ Round 10
 Oct 19 
   BW Linz          0-1 Wolfsberg        
   Salzburg         2-1 Altach           
@@ -110,7 +110,7 @@ Oct 20
   Wattens          1-2 LASK             
   Rapid            2-1 Hartberg         
 
-» Round 11
+▪ Round 11
 Oct 26
   Altach           2-2 Austria K        
   Hartberg         2-1 BW Linz          
@@ -120,7 +120,7 @@ Oct 27
   Wolfsberg        0-0 Salzburg         
   LASK             1-2 Sturm            
 
-» Round 12
+▪ Round 12
 Nov 2
   LASK             1-1 Hartberg         
   Sturm            1-1 Rapid            
@@ -130,7 +130,7 @@ Nov 3
   Austria K        2-1 Wolfsberg        
   Austria W        2-1 BW Linz          
 
-» Round 13
+▪ Round 13
 Nov 9
   GAK              2-1 Wattens          
   Hartberg         1-2 Sturm            
@@ -140,7 +140,7 @@ Nov 10
   BW Linz          2-0 Salzburg         
   Rapid            2-0 Austria K        
 
-» Round 14
+▪ Round 14
 Nov 23
   Sturm            7-0 Austria K        
   Salzburg         1-2 LASK             
@@ -150,7 +150,7 @@ Nov 24
   Wolfsberg        2-0 Altach           
   Austria W        1-0 Hartberg         
 
-» Round 15
+▪ Round 15
 Nov 30
   Altach           1-1 Sturm            
   Hartberg         1-1 Salzburg         
@@ -160,7 +160,7 @@ Dec 1
   Rapid            0-1 BW Linz          
   LASK             1-3 Austria W        
 
-» Round 16 
+▪ Round 16 
 Dec 7
   Salzburg         2-2 Rapid            
   Wolfsberg        2-1 LASK             
@@ -170,7 +170,7 @@ Dec 8
   GAK              0-3 Hartberg         
   Austria W        3-0 Altach           
 
-» Round 17
+▪ Round 17
 Feb 7
   Sturm            2-2 Austria W        
 Feb 8 
@@ -181,7 +181,7 @@ Feb 9
   Wattens          0-0 Hartberg         
   LASK             0-0 BW Linz          
 
-» Round 18
+▪ Round 18
 Feb 15
   BW Linz          1-3 Altach           
   Salzburg         1-1 Wattens          
@@ -191,7 +191,7 @@ Feb 16
   Hartberg         1-1 Austria K        
   Austria W        2-1 Rapid            
 
-» Round 19
+▪ Round 19
 Feb 22
   Austria W        0-1 Salzburg         
   Wattens          3-3 Wolfsberg        
@@ -201,7 +201,7 @@ Feb 23
   Sturm            2-1 BW Linz          
   LASK             2-1 Rapid            
 
-» Round 20
+▪ Round 20
 Feb 1
   GAK              1-2 Austria W        
   Hartberg         0-3 Wolfsberg        
@@ -211,7 +211,7 @@ Feb 2
   Austria K        1-2 LASK             
   Salzburg         3-1 Sturm            
 
-» Round 21 
+▪ Round 21 
 Mar 9
   LASK             2-1 Wattens          
   Austria W        2-0 Austria K        
@@ -220,7 +220,7 @@ Mar 9
   Altach           1-1 Salzburg         
   Hartberg         2-1 Rapid            
 
-» Round 22 
+▪ Round 22 
 Mar 16
   Rapid            3-0 GAK              
   Wattens          0-2 Austria W        
@@ -252,64 +252,64 @@ Mar 16
 #
 # Championship Playoff
 
-» Championship, Round 23 
+▪ Championship, Round 23 
 Mar 30
   BW Linz          0-2 Austria W        
   Wolfsberg        1-1 Sturm            
   Rapid            0-2 Salzburg         
 
-» Championship, Round 24
+▪ Championship, Round 24
 Apr 4
   Sturm            2-0 Rapid            
 Apr 6
   Salzburg         2-1 BW Linz          
   Austria W        0-0 Wolfsberg        
 
-» Championship, Round 25
+▪ Championship, Round 25
 Apr 11
   BW Linz          1-2 Wolfsberg        
 Apr 13
   Salzburg         1-2 Sturm            
   Rapid            2-0 Austria W        
 
-» Championship, Round 26 
+▪ Championship, Round 26 
 Apr 20
   Sturm            2-0 BW Linz          
   Wolfsberg        5-1 Rapid            
   Austria W        1-3 Salzburg         
 
-» Championship, Round 27 
+▪ Championship, Round 27 
 Apr 23
   Salzburg         1-1 Wolfsberg        
   BW Linz          2-1 Rapid            
   Austria W        2-1 Sturm            
 
-» Championship, Round 28 
+▪ Championship, Round 28 
 Apr 27
   Wolfsberg        2-1 Salzburg         
   Rapid            0-0 BW Linz          
   Sturm            0-1 Austria W        
 
-» Championship, Round 29 
+▪ Championship, Round 29 
 May 4
   BW Linz          0-1 Sturm            
   Rapid            0-1 Wolfsberg        
   Salzburg         2-0 Austria W        
 
-» Championship, Round 30
+▪ Championship, Round 30
 May 9
   Sturm            4-2 Salzburg         
 May 11
   Wolfsberg        2-0 BW Linz          
   Austria W        1-2 Rapid            
 
-» Championship, Round 31 
+▪ Championship, Round 31 
 May 18
   Rapid            3-1 Sturm            
   BW Linz          1-2 Salzburg         
   Wolfsberg        1-2 Austria W        
 
-» Championship, Round 32 
+▪ Championship, Round 32 
 May 24
   Austria W        2-2 BW Linz          
   Salzburg         4-2 Rapid            
@@ -331,46 +331,46 @@ May 24
 
 # Relegation Playoff
 
-» Relegation, Round 23
+▪ Relegation, Round 23
 Mar 28
   Altach           0-2 LASK             
 Mar 29
   GAK              0-0 Wattens          
   Hartberg         2-3 Austria K        
 
-» Relegation, Round24
+▪ Relegation, Round24
 Apr 5
   Austria K        2-3 Altach           
   Wattens          1-3 Hartberg         
   LASK             1-0 GAK              
 
-» Relegation, Round 25 
+▪ Relegation, Round 25 
 Apr 12
   Wattens          5-3 Austria K        
   Hartberg         0-1 LASK             
   GAK              1-0 Altach           
 
-» Relegation, Round 26 
+▪ Relegation, Round 26 
 Apr 18
   LASK             2-0 Wattens          
 Apr 19
   Austria K        0-0 GAK              
   Altach           1-1 Hartberg         
 
-» Relegation, Round 27 
+▪ Relegation, Round 27 
 Apr 22
   Wattens          1-0 Altach           
   GAK              0-3 Hartberg         
   Austria K        1-4 LASK             
 
-» Relegation, Round 28
+▪ Relegation, Round 28
 Apr 25
   Hartberg         1-1 GAK              
 Apr 26
   Altach           3-0 Wattens          
   LASK             6-0 Austria K        
 
-» Relegation, Round 29
+▪ Relegation, Round 29
 May 2
   GAK              1-1 Austria K        
 May 3
@@ -378,19 +378,19 @@ May 3
 May 4
   Hartberg         2-0 Altach           
 
-» Relegation, Round 30 
+▪ Relegation, Round 30 
 May 10
   Austria K        1-4 Wattens          
 Altach           2-2 GAK              
   LASK             0-0 Hartberg         
 
-» Relegation, Round 31 
+▪ Relegation, Round 31 
 May 17
   Altach           0-0 Austria K        
   GAK              1-0 LASK             
   Hartberg         3-2 Wattens          
 
-» Relegation, Round 32 
+▪ Relegation, Round 32 
 May 23
   Austria K        0-1 Hartberg         
   LASK             0-0 Altach           
@@ -417,15 +417,15 @@ May 23
 # NB: between fifth placed club from the championship playoff and the
 #    top-2 of the relegation playoff
 
-» Conference League, Semifinal 
+▪ Conference League, Semifinal 
 May 26
   LASK             2-0 Hartberg         
 
-» Conference League, Final - First Leg 
+▪ Conference League, Final - First Leg 
 May 29
   LASK             3-1 Rapid            
 
-» Conference League, Final - Second Leg 
+▪ Conference League, Final - Second Leg 
 Jun 1
   Rapid            3-0 LASK             
 

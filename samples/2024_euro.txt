@@ -5,19 +5,21 @@
 # note - (slightly) reformatted (and edited) to fit the football.txt format
 
 
-# Stadiums: Berlin (Olympiastadion, 71.000)
-#          München (Allianz Arena, 66.000)
-#          Dortumund (Westfalenstadion, 62.000)
-#          Stuttgart (Neckarstadion, 51.000)
-#          Gelsenkirchen (Arena AufSchalke, 50.000)
-#          Hamburg (Volksparkstadion, 49.000)
-#          Düsseldorf (Düsseldorf Arena, 47.000)
-#          Frankfurt (Waldstadion, 47.000)
-#          Köln (RheinEnergieStadion, 43.000)
-#          Leipzig (Red Bull Arena, 40.000)    
+# Stadiums:
+# ---------------|-----------------------------
+#  Berlin        | Olympiastadion,      71_000
+#  München       | Allianz Arena,       66_000
+#  Dortumund     | Westfalenstadion,    62_000
+#  Stuttgart     | Neckarstadion,       51_000
+#  Gelsenkirchen | Arena AufSchalke,    50_000
+#  Hamburg       | Volksparkstadion,    49_000
+#  Düsseldorf    | Düsseldorf Arena,    47_000
+#  Frankfurt     | Waldstadion,         47_000
+#  Köln          | RheinEnergieStadion, 43_000
+#  Leipzig       | Red Bull Arena,      40_000   
 
 
-» Group A
+▪ Group A
 
 14-6-24 @ München      Germany            5–1 Scotland   
                          (Wirtz 10, Musiala 19, Havertz 45+1pen, Fullkrug 68, 
@@ -39,7 +41,7 @@
 # 4.Scotland            3  0  1  2   2- 7   1
 
 
-» Group B
+▪ Group B
 
 15-6-24 @ Berlin       Spain              3–0 Croatia    
                          (Morata 29, Fabian Ruiz 32, Dani Carvajal 45+2)
@@ -60,7 +62,7 @@
 # 4.Albania             3  0  1  2   3- 5   1
 
 
-» Group C
+▪ Group C
 
 16-6-24 @ Stuttgart    Slovenia           1–1 Denmark     
                          (Janza 77; Eriksen 17)
@@ -79,7 +81,7 @@
 # 4.Serbia              3  0  2  1   1- 2   2
 
 
-» Group D
+▪ Group D
 
 16-6-24 @ Hamburg       Poland             1–2 Netherlands     
                          (Buksa 16; Gakpo 29, Weghorst 83)
@@ -99,7 +101,7 @@
 # 4.Poland              3  0  1  2   3- 6   1
 
 
-» Group E
+▪ Group E
 
 17-6-24 @ München        Romania            3–0 Ukraine
                           (Stanciu 29, R. Marin 53, Dragus 57)
@@ -119,7 +121,7 @@
 # 4.Ukraine             3  1  1  1   2- 4   4
 
 
-» Group F
+▪ Group F
 
 18-6-24 @ Dortmund       Turkey             3–1 Georgia
                           (Muldur 25, Guler 65, Akturkoglu 90+7; Mikautadze 32)
@@ -140,7 +142,7 @@
 # 4.Czech Republic      3  0  1  2   3- 5   1
 
 
-» 1/8 Finals
+▪ 1/8 Finals
 29-6-24 @ Berlin         Switzerland        2–0 Italy
                           (Freuler 37, Vargas 46)
 29-6-24 @ Dortmund       Germany            2–0 Denmark
@@ -158,7 +160,7 @@
  2-7-24 @ Leipzig        Austria            1–2 Turkey
                           (Gregoritsch 66; Demiral 1, 59)
 
-» Quarterfinals
+▪ Quarterfinals
  5-7-24 @ Stuttgart      Spain              2–1 Germany            [aet]
                            (Dani Olmo 51, Merino 119; Wirtz 89)
  5-7-24 @ Hamburg        Portugal           0–0 France             [aet, 3-5 pen]
@@ -167,13 +169,13 @@
  6-7-24 @ Berlin         Netherlands        2–1 Turkey
                            (De Vrij 70, Muldur 76og; Akaydin 35)
 
-» Semifinals
+▪ Semifinals
  9-7-24 @ München        Spain              2–1 France
                           (Yamal 21, Dani Olmo 25; Kolo Muani 9)
 10-7-24 @ Dortmund       Netherlands        1–2 England
                           (Simons 7; Kane 18pen, Watkins 90)
 
-» Final
+▪ Final
 14-7-24 @ Berlin         Spain              2–1 England
                           (Williams 47, Oyarzabal 86; Palmer 73)
 

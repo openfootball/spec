@@ -5,37 +5,40 @@
 # note - (slightly) reformatted (and edited) to fit the football.txt format
 
 
-# Participants
-# AFC              Al-Hilal (Saudi Arabia), Urawa Red Diamonds (Japan), Al-Ain (UAE),
-#                  Ulsan HD (South Korea)
-# CAF              Al-Ahly (Egypt), Wydad AC Casablanca (Morocco), Espérance Tunis (Tunisia),
-#                  Mamelodi Sundowns (South Africa)
-# CONCACAF         Monterrey (Mexico), Seattle Sounders (United States), Pachuca (Mexico),
-#                  Los Angeles FC (United States), Inter Miami (United States)
-# CONMEBOL         Palmeiras (Brazil), Flamengo (Brazil), Fluminense (Brazil),
-#                  Botafogo (Brazil), River Plate (Argentina), Boca Juniors (Argentina)
-# OFC              Auckland City (New Zealand)
-# UEFA             Chelsea (England), Real Madrid (Spain), Manchester City (England),
-#                  Bayern Munich (Germany), Paris Saint-Germain (France), Internazionale (Italy),
-#                  Porto (Portugal), Benfica (Portugal), Borussia Dortmund (Germany),
-#                  Juventus (Italy), Atlético Madrid (Spain), Red Bull Salzburg (Austria)
+# Participants:
+-----------------|--------------------------------------------------------
+# AFC            |  Al-Hilal (Saudi Arabia), Urawa Red Diamonds (Japan), Al-Ain (UAE),
+#                |  Ulsan HD (South Korea)
+# CAF            |  Al-Ahly (Egypt), Wydad AC Casablanca (Morocco), Espérance Tunis (Tunisia),
+#                |  Mamelodi Sundowns (South Africa)
+# CONCACAF       |  Monterrey (Mexico), Seattle Sounders (United States), Pachuca (Mexico),
+#                |  Los Angeles FC (United States), Inter Miami (United States)
+# CONMEBOL       |  Palmeiras (Brazil), Flamengo (Brazil), Fluminense (Brazil),
+#                |  Botafogo (Brazil), River Plate (Argentina), Boca Juniors (Argentina)
+# OFC            |  Auckland City (New Zealand)
+# UEFA           |  Chelsea (England), Real Madrid (Spain), Manchester City (England),
+#                |  Bayern Munich (Germany), Paris Saint-Germain (France), Internazionale (Italy),
+#                |  Porto (Portugal), Benfica (Portugal), Borussia Dortmund (Germany),
+#                |  Juventus (Italy), Atlético Madrid (Spain), Red Bull Salzburg (Austria)
 #
 # Venues:
-# Pasadena         Rose Bowl                 89.702
-# East Rutherford  MetLife Stadium           82.500
-# Charlotte        Bank of America Stadium   74.867
-# Atlanta          Mercedes-Benz Stadium     71.000
-# Seattle          Lumen Field               68.740
-# Philadelphia     Lincoln Financial Field   67.594
-# Miami Gardens    Hard Rock Stadium         64.767
-# Orlando I        Camping World Stadium     60.219
-# Orlando II       Inter&Co Stadium          25.500
-# Nashville        Geodis Park               30.109
-# Cincinnati       TQL Stadium               26.000
-# Washington D.C.  Audi Field                20.000
+-------------------|---------------------------------
+# Pasadena         | Rose Bowl,                 89_702
+# East Rutherford  | MetLife Stadium,           82_500
+# Charlotte        | Bank of America Stadium,   74_867
+# Atlanta          | Mercedes-Benz Stadium,     71_000
+# Seattle          | Lumen Field,               68_740
+# Philadelphia     | Lincoln Financial Field,   67_594
+# Miami Gardens    | Hard Rock Stadium,         64_767
+# Orlando I        | Camping World Stadium,     60_219
+# Orlando II       | Inter&Co Stadium,          25_500
+# Nashville        | Geodis Park,               30_109
+# Cincinnati       | TQL Stadium,               26_000
+# Washington D.C.  | Audi Field,                20_000
 
 
-» Group A
+
+▪ Group A
 
 14-6-25 @ Miami Gardens     Al-Ahly           0-0 Inter Miami            
 
@@ -56,7 +59,7 @@
 # 4.Al-Ahly             3  0  2  1   4- 6   2
 
 
-» Group B
+▪ Group B
 
 15-6-25 @ Pasadena   Paris Saint-Germain 4-0 Atlético Madrid  
                           (Fabian Ruiz 19, Vitinha 45+1, Mayulu 87, Lee Kang-in 90+7pen)
@@ -77,7 +80,7 @@
 # 4.Seattle Sounders    3  0  0  3   2- 7   0
 
 
-» Group C
+▪ Group C
 
 15-6-25 @ Cincinnati     Bayern München   10-0 Auckland City  
                           (Coman 6, 21, Boey 18, Olise 20, 45+3, Muller 45, 89,
@@ -100,7 +103,7 @@
 # 4.Auckland City       3  0  1  2   1-17   1
 
 
-» Group D
+▪ Group D
 
 16-6-25 @ Atlanta         Chelsea           2-0 Los Angeles FC  
                            (Neto 34, Fernandez 79)
@@ -121,7 +124,7 @@
 # 4.Los Angeles FC      3  0  1  2   1- 4   1
 
 
-» Group E
+▪ Group E
 
 17-6-25 @ Seattle    River Plate       3-1 Urawa Red Diamonds  
                           (Colidio 12, Driussi 48, Meza 73; Matsuo 58pen)
@@ -141,7 +144,7 @@
 # 4.Urawa Red Diamonds  3  0  0  3   2- 9   0
 
 
-» Group F
+▪ Group F
 
 17-6-25 @ East Rutherford     Fluminense        0-0 Borussia Dortmund   
 17-6-25 @ Orlando II          Ulsan HD          0-1 Mamelodi Sundowns   
@@ -162,7 +165,7 @@
 # 4.Ulsan HD            3  0  0  3   2- 6   0
 
 
-» Group G
+▪ Group G
 
 18-6-25 @ Philadelphia     Manchester City   2-0 Wydad AC Casablanca  
                              (Foden 2, Doku 42)
@@ -185,7 +188,7 @@
 # 4.Wydad AC Casablanca 3  0  0  3   2- 8   0
 
 
-» Group H
+▪ Group H
 
 18-6-25 @ Miami Gardens    Real Madrid       1-1 Al-Hilal   
                           (G. Garcia 34; Neves 41pen)
@@ -205,7 +208,7 @@
 # 4.Pachuca             3  0  0  3   2- 7   0
 
 
-» 1/8 Finals
+▪ 1/8 Finals
 28-6-25 @ Philadelphia    Palmeiras         1-0 Botafogo   [aet]                       
                           (Paulinho 100)
 28-6-25 @ Charlotte    Benfica           1-4 Chelsea   [aet]   
@@ -226,7 +229,7 @@
  1-7-25 @ Atlanta    Borussia Dortmund 2-1 Monterrey   
                           (Guirassy 14, 24; Berterame 48)
 
-» Quarterfinals
+▪ Quarterfinals
  4-7-25 @ Orlando I    Fluminense        2-1 Al-Hilal    
                           (Martinelli 40, Hercules 70; Marcos Leonardo 51)
  4-7-25 @ Philadelphia    Palmeiras         1-2 Chelsea     
@@ -237,12 +240,12 @@
                           (G. Garcia 10, F. Garcia 20, Mbappé 90+4; Beier 90+3,
                            Guirassy 90+8pen)
 
-» Semifinals
+▪ Semifinals
  8-7-25 @ East Rutherford    Fluminense        0-2 Chelsea   
                           (Joao Pedro 18, 56)
  9-7-25 @ East Rutherford     Paris Saint-Germain 4-0 Real Madrid   
                           (Fabian Ruiz 6, 24, Dembelé 9, Ramos 87)
 
-» Final
+▪ Final
 13-7-25 @ East Rutherford    Paris Saint-Germain 0-3 Chelsea   
                               (Palmer 22, 30, Joao Pedro 43)

@@ -85,7 +85,7 @@ Match for third place  |  Sat Jul 12
 Final                  |  Sun Jul 13
 
 
-» Group A
+▪ Group A
 
 Thu Jun 12 
   17:00   Brazil - Croatia       @ Arena de São Paulo, São Paulo (UTC-3)
@@ -102,7 +102,7 @@ Mon Jun 23
    17:00   Croatia  - Mexico      @ Recife (UTC-3)
 
 
-» Group B
+▪ Group B
 
 Fri Jun 13 
    16:00   Spain - Netherlands     @ Arena Fonte Nova, Salvador (UTC-3)
@@ -136,7 +136,7 @@ Level 2 supports all of Level 1 plus team line-ups, sent-offs props and more.
 Sample:
 
 ```
-» Quarter-finals - 1st Leg
+▪ Quarter-finals - 1st Leg
 
 Tue Apr/1
   20.45   FC Barcelona        v Atlético Madrid    1-1  @ Camp Nou, Barcelona
@@ -203,12 +203,12 @@ Matchday 1      =>   [:TEXT,"Matchday 1"]
 
 ### Round Lines (Outlines)
 
-Round lines (outlines) MUST start with `»` or `>>` e.g.
+Round lines (outlines) MUST start with `▪` (BLACK SMALL SQUARE) or `»` or `>>` e.g.
 
 ```
-» Quarter-finals - 1st Leg
-» Group A
-» Match for third place
+▪ Quarter-finals - 1st Leg
+▪ Group A
+▪ Match for third place
 ...
 ```
 
@@ -218,28 +218,28 @@ Round lines (outlines) MUST start with `»` or `>>` e.g.
 To add stages in your match schedules and round lines (outlines) use:
 
 ```
-» Matchday 1                  # no stage (assumes regular season)
-» Matchday 2
+▪ Matchday 1                  # no stage (assumes regular season)
+▪ Matchday 2
 ...  
-» Championship, Matchday 1    # Championship stage
-» Championship, Matchday 2
+▪ Championship, Matchday 1    # Championship stage
+▪ Championship, Matchday 2
 ...
-» Europe, Matchday 1          # Europe stage
-» Europe, Matchday 2
+▪ Europe, Matchday 1          # Europe stage
+▪ Europe, Matchday 2
 ...
 
 # -or-
 
-» League, Matchday 1         # League stage
-» League, Matchday 2
+▪ League, Matchday 1         # League stage
+▪ League, Matchday 2
 ...
-» Playoffs, Matchday 1       # Playoffs stage
-» Playoffs, Matchday 2
+▪ Playoffs, Matchday 1       # Playoffs stage
+▪ Playoffs, Matchday 2
 ...
-» Finals, Round of 16        # Finals stage
-» Finals, Quarterfinals
-» Finals, Semifinals
-» Finals, Final
+▪ Finals, Round of 16        # Finals stage
+▪ Finals, Quarterfinals
+▪ Finals, Semifinals
+▪ Finals, Final
 
 ```
 
