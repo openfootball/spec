@@ -35,14 +35,74 @@ and for level 2 in the `/samples-l2` directory.
 ## Intro - Why? Philosophy
 
 Why not use JSON, CSV, XML, YAML, SQL, your ‹format of choice here›?
-Why invent yet another data format?
+Why invent yet another (structured text) data format?
 
 Excercise: Try to write by hand the round-by-round match schedule (with results)
-for the English Premier League, for example?
-Do you enjoy writing the match schedule in JSON? in CSV? in XML? in SQL? in YAML?
+for the English Premier League?
+How do you enjoy writing the match schedule (for 20 teams with 38 rounds with 10 matches each) in JSON? in CSV? in XML? in SQL? in YAML?
 
-Now retry the exercise using the new Football.TXT format / data language designed to make hand-crafting
-as easy as possible. See the difference?  Example - [`england/2019-20/1-premierleague.txt`](https://github.com/openfootball/england/blob/master/2019-20/1-premierleague.txt) in Football.TXT, [`2019-20/en.1.json`](https://github.com/openfootball/football.json/blob/master/2019-20/en.1.json) in Football.JSON.
+Now retry using the new Football.TXT format / data language designed to make hand-crafting
+as easy as possible. See the difference?  
+
+Example - [`england/2025-26/1-premierleague.txt`](https://github.com/openfootball/england/blob/master/2025-26/1-premierleague.txt) in Football.TXT:
+
+```
+▪ Matchday 1
+  Fri Aug 15 
+    20:00  Liverpool FC            v AFC Bournemouth          4-2 (1-0)
+  Sat Aug 16
+    12:30  Aston Villa FC          v Newcastle United FC      0-0
+    15:00  Brighton & Hove Albion FC v Fulham FC              1-1 (0-0)
+           Sunderland AFC          v West Ham United FC       3-0 (0-0)
+           Tottenham Hotspur FC    v Burnley FC               3-0 (1-0)
+    17:30  Wolverhampton Wanderers FC v Manchester City FC    0-4 (0-2)
+  Sun Aug 17
+    14:00  Nottingham Forest FC    v Brentford FC             3-1 (3-0)
+           Chelsea FC              v Crystal Palace FC        0-0
+    16:30  Manchester United FC    v Arsenal FC               0-1 (0-1)
+  Mon Aug 18
+    20:00  Leeds United FC         v Everton FC               1-0 (0-0)
+
+...
+```
+
+vs Example - [`2025-20/en.1.json`](https://github.com/openfootball/football.json/blob/master/2025-26/en.1.json) in Football.JSON:
+
+``` json
+"matches": [
+    { "round": "Matchday 1", "date": "2025-08-15", "time": "20:00",
+      "team1": "Liverpool FC", "team2": "AFC Bournemouth", "score": {"ht": [1,0], "ft": [4,2]}
+    },
+    { "round": "Matchday 1", "date": "2025-08-16", "time": "12:30",
+      "team1": "Aston Villa FC", "team2": "Newcastle United FC", "score": {"ft": [0,0]}
+    },
+    { "round": "Matchday 1", "date": "2025-08-16", "time": "15:00",
+      "team1": "Brighton & Hove Albion FC", "team2": "Fulham FC", "score": {"ht": [0,0], "ft": [1,1]}
+    },
+    { "round": "Matchday 1", "date": "2025-08-16", "time": "15:00",
+      "team1": "Sunderland AFC", "team2": "West Ham United FC", "score": {"ht": [0,0], "ft": [3,0]}
+    },
+    { "round": "Matchday 1", "date": "2025-08-16", "time": "15:00",
+      "team1": "Tottenham Hotspur FC", "team2": "Burnley FC", "score": {"ht": [1,0], "ft": [3,0]}
+    },
+    { "round": "Matchday 1", "date": "2025-08-16", "time": "17:30",
+      "team1": "Wolverhampton Wanderers FC", "team2": "Manchester City FC", "score": {"ht": [0,2], "ft": [0,4]}
+    },
+    { "round": "Matchday 1", "date": "2025-08-17", "time": "14:00",
+      "team1": "Nottingham Forest FC", "team2": "Brentford FC", "score": {"ht": [3,0], "ft": [3,1]}
+    },
+    { "round": "Matchday 1", "date": "2025-08-17", "time": "14:00",
+      "team1": "Chelsea FC", "team2": "Crystal Palace FC", "score": {"ft": [0,0]}
+    },
+    { "round": "Matchday 1", "date": "2025-08-17", "time": "16:30",
+      "team1": "Manchester United FC", "team2": "Arsenal FC", "score": {"ht": [0,1], "ft": [0,1]}
+    },
+    { "round": "Matchday 1", "date": "2025-08-18", "time": "20:00",
+      "team1": "Leeds United FC", "team2": "Everton FC", "score": {"ht": [0,0], "ft": [1,0]}
+    },  ...
+]
+```
+
 
 
 Note: If you auto-generate your datasets and want to focus on
@@ -53,7 +113,7 @@ see the [Football.CSV format »](https://footballcsv.github.io/spec/) :-).
 The new Football.TXT format / data language for football match schedules (results, line-ups & more) using structured text
 offers you the best of both worlds, that is,
 1) looks 'n' feels like free-form plain text - easy-to-read and easy-to-write -
-2) but offers a 100-% data accuracy guarantee (when loading into SQL tables, for example).
+2) but offers a 100-% data accuracy guarantee (when loading into SQL tables or exporting/converting into JSON, CSV, and friends, for example).
 
 The Football.TXT format / data language also includes
 support for groups, matchdays, grounds, and much more. Example:
@@ -517,5 +577,6 @@ For example -  conventions in German (Deutsch) incl.:
 
 Yes, you can. More than welcome.
 See [Help & Support »](https://github.com/openfootball/help)
+
 
 
