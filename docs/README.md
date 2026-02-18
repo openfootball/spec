@@ -222,8 +222,8 @@ To add stages in your match schedules and round lines (outlines) use:
 
 ## Stadiums & Grounds 
 
-Use `@` to start with adding "geo" names - that is, stadiums & grounds 
-and / or cities (plus optional timezone), countries and more.
+Use the geo marker, that is, `@` to start with adding "geo" names - that is, stadiums & grounds 
+and / or cities, countries and more.
 Examples:
 
 ```
@@ -232,10 +232,10 @@ Examples:
   @ Bucuresti, 23 August
   @ Wien, Prater
   @ Buenos Aires
-  @ Brasília (UTC-3)
-  @ Arena Fonte Nova, Salvador (UTC-3)
-  @ Arena Pantanal, Cuiabá (UTC-4)
-  @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
+  @ Brasília 
+  @ Arena Fonte Nova, Salvador
+  @ Arena Pantanal, Cuiabá
+  @ Estádio do Maracanã, Rio de Janeiro
   ...
 ```
 
@@ -254,7 +254,11 @@ Use blank links as you wish to make the text look pretty, that is, easy-to-read 
 You can use `#` for comments. Example:
 
 ```
-# Note - Hugo Lloris saved a penalty from Ricardo Rodríguez at 55'.
+# Date       Fri Aug/15 2025 - Sun May/24 2026 (282d)
+# Teams      20
+# Matches    380
+
+# Hugo Lloris saved a penalty from Ricardo Rodríguez at 55'.
 ```
 
 #### Multi-line comments
@@ -513,4 +517,5 @@ For example -  conventions in German (Deutsch) incl.:
 
 Yes, you can. More than welcome.
 See [Help & Support »](https://github.com/openfootball/help)
+
 
