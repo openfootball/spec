@@ -58,66 +58,42 @@ offers you the best of both worlds, that is,
 The Football.TXT format / data language also includes
 support for groups, matchdays, grounds, and much more. Example:
 
-
-
 ```
-= World Cup 2014
+= World Cup 2022
 
-Group A  |  Brazil       Croatia              Mexico         Cameroon
-Group B  |  Spain        Netherlands          Chile          Australia
-Group C  |  Colombia     Greece               Côte d'Ivoire  Japan
-Group D  |  Uruguay      Costa Rica           England        Italy
-Group E  |  Switzerland  Ecuador              France         Honduras
-Group F  |  Argentina    Bosnia-Herzegovina   Iran           Nigeria
-Group G  |  Germany      Portugal             Ghana          United States
-Group H  |  Belgium      Algeria              Russia         South Korea
+Group A  | Qatar      Ecuador        Senegal        Netherlands
+Group B  | England    Iran           United States  Wales
+Group C  | Argentina  Saudi Arabia   Mexico         Poland
+Group D  | France     Australia      Denmark        Tunisia
+Group E  | Spain     Costa Rica      Germany        Japan
+Group F  | Belgium    Canada   Morocco    Croatia
+Group G  | Brazil    Serbia  Switzerland   Cameroon
+Group H  | Portugal   Ghana   Uruguay    South Korea
 
-
-Matchday 1  |  Thu Jun 12
-Matchday 2  |  Fri Jun 13
-Matchday 3  |  Sat Jun 14
-# ...
-
-Round of 16            |  Sat Jun 28 - Tue Jul 1
-Quarter-finals         |  Fri Jul 4  - Sat Jul 5
-Semi-finals            |  Tue Jul 8  - Wed Jul 9
-Match for third place  |  Sat Jul 12
-Final                  |  Sun Jul 13
-
+Matchday 1  |  Sun Nov 20
+Matchday 2  |  Mon Nov 21
+Matchday 3  |  Tue Nov 22
+...
 
 ▪ Group A
-
-Thu Jun 12 
-  17:00   Brazil - Croatia       @ Arena de São Paulo, São Paulo (UTC-3)
-Fri Jun 13 
-  13:00   Mexico - Cameroon      @ Estádio das Dunas, Natal (UTC-3)
-
-Tue Jun 17 
-   16:00   Brazil - Mexico        @ Estádio Castelão, Fortaleza (UTC-3)
-Wed Jun 18 
-   18:00   Cameroon - Croatia     @ Arena Amazônia, Manaus (UTC-4)
-
-Mon Jun 23 
-   17:00   Cameroon - Brazil      @ Brasília (UTC-3)
-   17:00   Croatia  - Mexico      @ Recife (UTC-3)
-
-
-▪ Group B
-
-Fri Jun 13 
-   16:00   Spain - Netherlands     @ Arena Fonte Nova, Salvador (UTC-3)
-   18:00   Chile - Australia       @ Arena Pantanal, Cuiabá (UTC-4)
-
-Wed Jun 18 
-   13:00   Australia - Netherlands   @ Estádio Beira-Rio, Porto Alegre (UTC-3)
-   16:00   Spain - Chile             @ Estádio do Maracanã, Rio de Janeiro (UTC-3)
-
-Mon Jun 23 
-   13:00   Australia - Spain         @ Curitiba (UTC-3)
-   13:00   Netherlands - Chile       @ São Paulo (UTC-3)
+Sun Nov 20
+  19:00      Qatar   v Ecuador  0-2 (0-2)    @ Al Bayt Stadium, Al Khor
+               (Enner Valencia 16'(p), 31')
+Mon Nov 21
+  19:00     Senegal  v Netherlands   0-2 (0-0)   @ Al Thumama Stadium, Doha
+               (Cody Gakpo 84', Davy Klaassen 90'+9)
 ...
-```
 
+▪ Match for third place
+Sat Dec 17
+  18:00     Croatia  v Morocco    2-1 (2-1)  @ Khalifa International Stadium, Al Rayyan
+              (Joško Gvardiol 7', Mislav Oršić 42'; Achraf Dari 9')
+▪ Final
+Sun Dec 18
+  18:00     Argentina  v France   3-3 a.e.t. (2-2, 2-0) 4-2 pen.  @ Lusail Iconic Stadium, Lusail
+              (Lionel Messi 23'(p), 108', Ángel Di María 36';
+               Kylian Mbappé 80'(p), 81', 118'(p))
+```
 
 
 ## What's News (in 2026)?
@@ -138,15 +114,15 @@ Sample:
 ```
 ▪ Quarter-finals - 1st Leg
 
-Tue Apr/1
-  20.45   FC Barcelona        v Atlético Madrid    1-1  @ Camp Nou, Barcelona
+Tue Apr 1
+  20:45   FC Barcelona        v Atlético Madrid    1-1  @ Camp Nou, Barcelona
             (Neymar 71'; Diego 56')
-  20.45   Manchester United   v Bayern München     1-1  @ Old Trafford, Manchester
+  20:45   Manchester United   v Bayern München     1-1  @ Old Trafford, Manchester
             (Vidić 58'; Schweinsteiger 67')
-Wed Apr/2
-  20.45   Real Madrid         v Borussia Dortmund  3-0  @ Santiago Bernabéu, Madrid
+Wed Apr 2
+  20:45   Real Madrid         v Borussia Dortmund  3-0  @ Santiago Bernabéu, Madrid
             (Bale 3' Isco 27' Ronaldo 57')
-  20.45   Paris Saint-Germain v Chelsea FC         3-1  @ Parc des Princes, Paris
+  20:45   Paris Saint-Germain v Chelsea FC         3-1  @ Parc des Princes, Paris
             (Lavezzi 4' Luiz 61'og Pastore 90+3'; Hazard 27'pen)
 ```
 
@@ -203,7 +179,7 @@ Matchday 1      =>   [:TEXT,"Matchday 1"]
 
 ### Round Lines (Outlines)
 
-Round lines (outlines) MUST start with `▪` (BLACK SMALL SQUARE) or `»` or `>>` e.g.
+Round lines (outlines) MUST start with `▪` (BLACK SMALL SQUARE) or `::` (for ASCII-style)  e.g.
 
 ```
 ▪ Quarter-finals - 1st Leg
@@ -281,6 +257,18 @@ You can use `#` for comments. Example:
 # Note - Hugo Lloris saved a penalty from Ricardo Rodríguez at 55'.
 ```
 
+#### Multi-line comments
+
+You can use HTML-style comments, that is, `<!-- .. -->`. Example:
+
+```
+<!--
+  1.AUSTRIA             3  2  0  1   6- 4   6
+  2.FRANCE              3  1  2  0   2- 1   5
+  3.NETHERLANDS         3  1  1  1   4- 4   4
+  4.Poland              3  0  1  2   3- 6   1
+-->
+```
 
 
 ### Date (Header) Line
@@ -525,3 +513,4 @@ For example -  conventions in German (Deutsch) incl.:
 
 Yes, you can. More than welcome.
 See [Help & Support »](https://github.com/openfootball/help)
+
