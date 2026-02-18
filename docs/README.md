@@ -41,7 +41,7 @@ Excercise: Try to write by hand the round-by-round match schedule (with results)
 for the English Premier League?
 How do you enjoy writing the match schedule (for 20 teams with 38 rounds with 10 matches each) in JSON? in CSV? in XML? in SQL? in YAML?
 
-Now retry using the new Football.TXT format / data language designed to make hand-crafting
+Now retry using the new Football.TXT format / (structured text) data language designed to make hand-crafting
 as easy as possible. See the difference?
 Example - [`england/2025-26/1-premierleague.txt`](https://github.com/openfootball/england/blob/master/2025-26/1-premierleague.txt) in Football.TXT:
 
@@ -576,6 +576,7 @@ For example -  conventions in German (Deutsch) incl.:
 
 Yes, you can. More than welcome.
 See [Help & Support »](https://github.com/openfootball/help)
+
 
 
 
