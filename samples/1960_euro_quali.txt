@@ -88,12 +88,16 @@ Bulgaria          1-1 Yugoslavia
 ▪ QUARTERFINALS
 
 29.05.1960  @ Moskva
+   Soviet Union n/p Spain  [cancelled - Spain withdrew]
+
 ## Soviet Union            w/o Spain
 ##  todo/fix - how to handle w/o ???
 ##   use [w/o Spain] or such?
 
 
 09.06.1960 @ Madrid
+   Spain n/p Soviet Union  [cancelled - Spain withdrew]
+
 ## Spain                   o/w Soviet Union
 ##  todo/fix - how to handle o/w (w/o) ???
 # Spain withdrew. Soviet Union had a walkover.  The entire tie

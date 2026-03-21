@@ -6,7 +6,7 @@
 
 
 # Participants:
------------------|--------------------------------------------------------
+# ---------------|--------------------------------------------------------
 # AFC            |  Al-Hilal (Saudi Arabia), Urawa Red Diamonds (Japan), Al-Ain (UAE),
 #                |  Ulsan HD (South Korea)
 # CAF            |  Al-Ahly (Egypt), Wydad AC Casablanca (Morocco), Espérance Tunis (Tunisia),
@@ -22,7 +22,7 @@
 #                |  Juventus (Italy), Atlético Madrid (Spain), Red Bull Salzburg (Austria)
 #
 # Venues:
--------------------|---------------------------------
+# -----------------|---------------------------------
 # Pasadena         | Rose Bowl,                 89_702
 # East Rutherford  | MetLife Stadium,           82_500
 # Charlotte        | Bank of America Stadium,   74_867
@@ -40,6 +40,12 @@
 
 ▪ Group A
 
+1.Palmeiras           3  1  2  0   4- 2   5  Qualified
+2.Inter Miami         3  1  2  0   4- 3   5  Qualified
+3.Porto               3  0  2  1   5- 6   2
+4.Al-Ahly             3  0  2  1   4- 6   2
+
+
 14.6.25 @ Miami Gardens     Al-Ahly           0-0 Inter Miami            
 
 15.6.25 @ East Rutherford   Palmeiras         0-0 Porto         
@@ -53,13 +59,15 @@
                               (Mora 23, William Gomes 50, Aghehowa 53, Pepe 89; 
                                Abou Ali 15, 45+2pen, 51, Ben Romdhane 64)
 
-# 1.Palmeiras           3  1  2  0   4- 2   5  Qualified
-# 2.Inter Miami         3  1  2  0   4- 3   5  Qualified
-# 3.Porto               3  0  2  1   5- 6   2
-# 4.Al-Ahly             3  0  2  1   4- 6   2
 
 
 ▪ Group B
+
+1.Paris Saint-Germain 3  2  0  1   6- 1   6  Qualified
+2.Botafogo            3  2  0  1   3- 2   6  Qualified
+3.Atlético Madrid     3  2  0  1   4- 5   6
+4.Seattle Sounders    3  0  0  3   2- 7   0
+
 
 15.6.25 @ Pasadena   Paris Saint-Germain 4-0 Atlético Madrid  
                           (Fabian Ruiz 19, Vitinha 45+1, Mayulu 87, Lee Kang-in 90+7pen)
@@ -74,13 +82,15 @@
 23.6.25 @ Pasadena   Atlético Madrid   1-0  Botafogo  
                           (Griezmann 87)
 
-# 1.Paris Saint-Germain 3  2  0  1   6- 1   6  Qualified
-# 2.Botafogo            3  2  0  1   3- 2   6  Qualified
-# 3.Atlético Madrid     3  2  0  1   4- 5   6
-# 4.Seattle Sounders    3  0  0  3   2- 7   0
 
 
 ▪ Group C
+
+1.Benfica             3  2  1  0   9- 2   7  Qualified
+2.Bayern München      3  2  0  1  12- 2   6  Qualified
+3.Boca Juniors        3  0  2  1   4- 5   2
+4.Auckland City       3  0  1  2   1-17   1
+
 
 15.6.25 @ Cincinnati     Bayern München   10-0 Auckland City  
                           (Coman 6, 21, Boey 18, Olise 20, 45+3, Muller 45, 89,
@@ -97,13 +107,15 @@
 24.6.25 @ Charlotte      Benfica           1-0 Bayern München  
                           (Schjelderup 13)
 
-# 1.Benfica             3  2  1  0   9- 2   7  Qualified
-# 2.Bayern München      3  2  0  1  12- 2   6  Qualified
-# 3.Boca Juniors        3  0  2  1   4- 5   2
-# 4.Auckland City       3  0  1  2   1-17   1
 
 
 ▪ Group D
+
+1.Flamengo            3  2  1  0   6- 2   7  Qualified
+2.Chelsea             3  2  0  1   6- 3   6  Qualified
+3.Espérance Tunis     3  1  0  2   1- 5   3
+4.Los Angeles FC      3  0  1  2   1- 4   1
+
 
 16.6.25 @ Atlanta         Chelsea           2-0 Los Angeles FC  
                            (Neto 34, Fernandez 79)
@@ -118,13 +130,15 @@
 24.6.25 @ Philadelphia    Espérance Tunis   0-3 Chelsea  
                            (Adarabioyo 45+3, Delap 45+5, George 90+7)
 
-# 1.Flamengo            3  2  1  0   6- 2   7  Qualified
-# 2.Chelsea             3  2  0  1   6- 3   6  Qualified
-# 3.Espérance Tunis     3  1  0  2   1- 5   3
-# 4.Los Angeles FC      3  0  1  2   1- 4   1
 
 
 ▪ Group E
+
+1.Internazionale      3  2  1  0   5- 2   7  Qualified
+2.Monterrey           3  1  2  0   5- 1   5  Qualified
+3.River Plate         3  1  1  1   3- 3   4
+4.Urawa Red Diamonds  3  0  0  3   2- 9   0
+
 
 17.6.25 @ Seattle    River Plate       3-1 Urawa Red Diamonds  
                           (Colidio 12, Driussi 48, Meza 73; Matsuo 58pen)
@@ -138,13 +152,15 @@
 25.6.25 @ Pasadena    Urawa Red Diamonds   0-4 Monterrey   
                           (Deossa 30, Berterame 34, 90+7, Corona 39)
 
-# 1.Internazionale      3  2  1  0   5- 2   7  Qualified
-# 2.Monterrey           3  1  2  0   5- 1   5  Qualified
-# 3.River Plate         3  1  1  1   3- 3   4
-# 4.Urawa Red Diamonds  3  0  0  3   2- 9   0
 
 
 ▪ Group F
+
+1.Borussia Dortmund   3  2  1  0   5- 3   7  Qualified
+2.Fluminense          3  1  2  0   4- 2   5  Qualified
+3.Mamelodi Sundowns   3  1  1  1   4- 4   4
+4.Ulsan HD            3  0  0  3   2- 6   0
+
 
 17.6.25 @ East Rutherford     Fluminense        0-0 Borussia Dortmund   
 17.6.25 @ Orlando II          Ulsan HD          0-1 Mamelodi Sundowns   
@@ -159,13 +175,15 @@
                                (Svensson 36)
 25.6.25 @ Miami Gardens       Mamelodi Sundowns 0-0 Fluminense   
 
-# 1.Borussia Dortmund   3  2  1  0   5- 3   7  Qualified
-# 2.Fluminense          3  1  2  0   4- 2   5  Qualified
-# 3.Mamelodi Sundowns   3  1  1  1   4- 4   4
-# 4.Ulsan HD            3  0  0  3   2- 6   0
 
 
 ▪ Group G
+
+1.Manchester City     3  3  0  0  13- 2   9  Qualified
+2.Juventus            3  2  0  1  11- 6   6  Qualified
+3.Al-Ain              3  1  0  2   2-12   3
+4.Wydad AC Casablanca 3  0  0  3   2- 8   0
+
 
 18.6.25 @ Philadelphia     Manchester City   2-0 Wydad AC Casablanca  
                              (Foden 2, Doku 42)
@@ -182,13 +200,15 @@
 26.6.25 @ Washington D.C.    Wydad AC Casablanca  1-2 Al-Ain   
                                (Mailula 4; Laba 45+1pen, Kaku 50)
 
-# 1.Manchester City     3  3  0  0  13- 2   9  Qualified
-# 2.Juventus            3  2  0  1  11- 6   6  Qualified
-# 3.Al-Ain              3  1  0  2   2-12   3
-# 4.Wydad AC Casablanca 3  0  0  3   2- 8   0
 
 
 ▪ Group H
+
+1.Real Madrid         3  2  1  0   7- 2   7  Qualified
+2.Al-Hilal            3  1  2  0   3- 1   5  Qualified
+3.Red Bull Salzburg   3  1  1  1   2- 4   4
+4.Pachuca             3  0  0  3   2- 7   0
+
 
 18.6.25 @ Miami Gardens    Real Madrid       1-1 Al-Hilal   
                           (G. Garcia 34; Neves 41pen)
@@ -202,16 +222,12 @@
 26.6.25 @ Philadelphia    Red Bull Salzburg 0-3 Real Madrid   
                           (Vinicius 40, Valverde 45+3, G. Garcia 84)
 
-# 1.Real Madrid         3  2  1  0   7- 2   7  Qualified
-# 2.Al-Hilal            3  1  2  0   3- 1   5  Qualified
-# 3.Red Bull Salzburg   3  1  1  1   2- 4   4
-# 4.Pachuca             3  0  0  3   2- 7   0
 
 
 ▪ 1/8 Finals
-28.6.25 @ Philadelphia    Palmeiras         1-0 Botafogo   [aet]                       
+28.6.25 @ Philadelphia    Palmeiras         1-0 Botafogo   (aet)                       
                           (Paulinho 100)
-28.6.25 @ Charlotte    Benfica           1-4 Chelsea   [aet]   
+28.6.25 @ Charlotte    Benfica           1-4 Chelsea   (aet)   
                           (Di Maria 90+5pen; James 64, Nkunku 108, Neto 114,
                            Dewsbury-Hall 117)
 29.6.25 @ Atlanta    Paris Saint-Germain 4-0 Inter Miami   
@@ -221,7 +237,7 @@
                            Goretzka 41)
 30.6.25 @ Charlotte    Internazionale    0-2 Fluminense   
                           (Cano 3, Hercules 90+3)
-30.6.25 @ Orlando I    Manchester City   3-4 Al-Hilal   [aet]   
+30.6.25 @ Orlando I    Manchester City   3-4 Al-Hilal   (aet)   
                           (Silva 9, Haaland 55, Foden 104; Marcos Leonardo 46, 112,
                            Malcom 52, Koulibaly 94)
  1.7.25 @ Miami Gardens    Real Madrid       1-0 Juventus   

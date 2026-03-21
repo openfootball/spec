@@ -9,8 +9,8 @@ Oct 22   Atlético Mineiro (Bra) v River Plate (Arg)        3-0
 Oct 23   Botafogo (Bra)         v Peñarol (Uru)            5-0
 
 ▪ Semifinals - 2nd Leg
-Oct 29   River Plate (Arg)      v Atlético Mineiro (Bra)   0-0  [agg 3-0]
-Oct 30   Peñarol (Uru)          v Botafogo (Bra)           3-1  [agg 3-6]
+Oct 29   River Plate (Arg)      v Atlético Mineiro (Bra)   0-0  (agg 3-0)
+Oct 30   Peñarol (Uru)          v Botafogo (Bra)           3-1  (agg 3-6)
 
 ## add support for
 ##   Final  @ Buenos Aires     -- why? why not?
