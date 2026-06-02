@@ -15,7 +15,5 @@ Oct 30   Peñarol (Uru)          v Botafogo (Bra)           3-1  (agg 3-6)
 ## add support for
 ##   Final  @ Buenos Aires     -- why? why not?
 
-▪ Final  
-Nov 30   Atlético Mineiro (Bra) v Botafogo (Bra)           1-3   @ Buenos Aires   
-
-
+▪ Final
+Nov 30   Atlético Mineiro (Bra) v Botafogo (Bra)           1-3   @ Buenos Aires

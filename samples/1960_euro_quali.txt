@@ -11,7 +11,7 @@ Ireland           2-0 Czechoslovakia
 10.05.1959 @ Bratislava, Tehelné Pole
 Czechoslovakia    4-0 Ireland
       (Stacho 4' (pen) Bubernik 52' Pavlovic 66' Dolinsky 75')
-  
+
 
 ▪ 1/8 FINALS
 
@@ -33,7 +33,7 @@ Spain             3-0 Poland
 
 ## name of stadium 23 August!!!
 ##  todo/check - how to handle geoname possible matching date?
-02.11.1958 @ Bucuresti, 23 August   
+02.11.1958 @ Bucuresti, 23 August
 Romania           3-0 Turkey
     (Oaida 62' Constantin 77' Dinulescu 81')
 26.04.1959 @ Istanbul, Inönü
@@ -64,7 +64,7 @@ Norway            0-1 Austria
 
 23.09.1959 @ Wien, Prater
 Austria           5-2 Norway
-    (Nemec 2' 21' Hof 25' (pen) 75' Skerlan 59'; Řdegaard 55')   ## ??
+    (Nemec 2' 21' Hof 25' (pen) 75' Skerlan 59'; Řdegaard 55')
 
 
 21.06.1959  @ Ost-Berlin, Walter-Ulbricht
@@ -77,7 +77,7 @@ Portugal          3-2 East Germany
 
 31.05.1959  @ Beograd, FK Partizan
 Yugoslavia        2-0 Bulgaria
-   ## (Gali ??  Tasic ??)      ## or use Goals:  Gali, Tasic   - note: minute missing, n/a!!
+    (Gali ??' Tasic ??')
 
 25.10.1959  @ Sofia, Vassil Levski
 Bulgaria          1-1 Yugoslavia
@@ -120,12 +120,10 @@ France            5-2 Austria
 Austria           2-4 France
     (Nemec 26' Probst 64';  Marcel 46' Rahis 59' Heutte 77' Kopa 83' (pen))
 
-08.05.1960  @ Oeiras/Lisboa, Nacional Do Jamor 
+08.05.1960  @ Oeiras/Lisboa, Nacional Do Jamor
 Portugal          2-1 Yugoslavia
      (Santana 30' Matateu 70'; Kostic 89')
 
 22.05.1960  @ Beograd, FK Partizan
 Yugoslavia        5-1 Portugal
     (Sekularac 8' Cebinac 44' Kostic 50' 88' Galic 79'; Cavém 29')
-
-
