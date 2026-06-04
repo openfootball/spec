@@ -486,7 +486,7 @@ The "generic" score format is simply:
 
 #### Score Formats for Half-Time, After-Extra-Time, Penalty-Shootout, & More 
 
-For adding half-time, after-extra-time, penalty-shootouts, & more you have to format options - named (i) full & (i) fuller.
+For adding half-time, after-extra-time, penalty-shootouts, & more you have two format options - named (i) full & (ii) fuller.
 
 (i) Full-style samples:
 
