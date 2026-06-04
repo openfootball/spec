@@ -129,12 +129,8 @@ Group F  | Belgium    Canada   Morocco    Croatia
 Group G  | Brazil    Serbia  Switzerland   Cameroon
 Group H  | Portugal   Ghana   Uruguay    South Korea
 
-Matchday 1  |  Sun Nov 20
-Matchday 2  |  Mon Nov 21
-Matchday 3  |  Tue Nov 22
-...
 
-▪ Group A
+▪ Group A, Matchday 1
 Sun Nov 20
   19:00      Qatar   v Ecuador  0-2 (0-2)    @ Al Bayt Stadium, Al Khor
                (Enner Valencia 16'(p), 31')
@@ -223,7 +219,7 @@ Note - The "atomic" text unit in Football.TXT is NOT the classic word or identif
 a text run.  If you want to break text runs use two (or more) spaces.
 
 ```
-ARG  BOL  BRA   =>   [:TEXT,"ARG"], [:TEXT,"BOL"], [:TEXT,"BRA"]
+ARG  BOL  BRA   =>   [:TEXT,"ARG"], [:TEXt,"BOL"], [:TEXT,"BRA"]
 ARG BOL BRA     =>   [:TEXT,"ARG BOL BRA"]
 
 Fri  Liverpool  =>   [:TEXT,"Fri"], [:TEXT,"Liverpool"]     
@@ -339,25 +335,266 @@ You can use HTML-style comments, that is, `<!-- .. -->`. Example:
 
 #### Date Formats
 
+Many date formats supported incl. abbrevations for weekday and month names. Example:
+
+```
+## with month abbrev & day  (and year - yyyy only)
+July 10
+Jul 10
+July 10 2026
+Fri July 10
+Fri July 10 2026
+Friday July 10 2026
+Fr July 10
+
+Fr,     July 10 2026
+Friday, July 10 2026
+Fr,     July 10
+        July 10, 2026
+Fr,     July 10, 2026
+Friday, July 10, 2026
+
+## more max style
+Monday, December 22, 2025
+Wednesday, May 11, 2022
+Tuesday, February 6, 2024
+
+Monday,    December 22, 2025
+Wednesday, May 11, 2022
+Tuesday,   February 6, 2024
+
+
+Sat, May 2
+Sat, May 02
+Sat, May 9
+Sat, May 09
+Sun, May 17
+Sun, May 24
+
+
+### with day and month_abbrev (and year  - yyyy or yy)
+10 July
+10 Jul
+10 July 2026
+10 July 26
+Fri 10 July
+Fri 10 July 2026
+Fri 10 July 26
+Friday 10 July 2026
+Friday 10 July 26
+Fr 10 July
+Fr 10 July 2026
+Fri     10 July 2026
+Friday  10 July 2026
+Fr      10 July
+Fri,     10 July 2026
+Friday, 10 July 2026
+Fr,      10 July
+Fri, 10 July 2026
+Fri, 10 July 26
+Friday, 10 July 2026
+Friday, 10 July 26
+Fr, 10 July
+
+Sun  1 Mar
+Sun 01 Mar
+
+Wed  4 Mar
+Wed 04 Mar
+Sat 14 Mar
+Sat 11 Apr
+
+
+
+###############
+## all numbers
+10.07.2026
+10.7.2026
+10.07.26
+10.7.26
+10.07.
+10.7.
+Fri 10.07.2026
+Fr 10.7.2026
+Fr 10.07.26
+Fr 10.7.26
+Fr 10.07.
+Fr 10.7.
+Fri  10.07.2026
+Fr   10.7.2026
+Fri, 10.07.2026
+Fr, 10.7.2026
+Friday,  10.07.2026
+Fr,  10.7.2026
+
+
+###
+# iso style
+2026-07-10
+2026-7-10
+
+##  starting with day-month-year
+07-10-2026
+7-10-2026
+Fri 07-10-2026
+Fr 7-10-2026
+Fri  07-10-2026
+Fr    7-10-2026
+Friday, 07-10-2026
+Fri,  07-10-2026
+Fr,    7-10-2026
+
+###
+#  use slash (/)
+07/10/2026
+7/10/2026
+Fri 07/10/2026
+Fr 7/10/2026
+Fri  07/10/2026
+Fr    7/10/2026
+Friday, 07/10/2026
+Fr,    7/10/2026
+
+1/3/26
+1/03/26
+01/03/26
+1/3
+1/03
+01/03
+Su  1/3
+Su 1/03
+Su 01/03
+
+We  4/3
+Sa 14/3
+Sa 11/4
+Sa 11/04
+```
 
 
 ### Score Formats
 
 #### Basic (Final Result Only) Score Format
 
+The "generic" score format is simply:
+
+```
+0-0
+1-4
+3-4
+```
+
 #### Score Formats for Half-Time, After-Extra-Time, Penalty-Shootout, & More 
 
+For adding half-time, after-extra-time, penalty-shootouts, & more you have to format options - named (i) full & (i) fuller.
 
+(i) Full-style samples:
+
+```
+Bayern München v Chelsea  1-1 aet, 3-4 pen
+Bayern München v Chelsea  1-1 aet (1-1, 0-0) 3-4 pen
+Bayern München v Chelsea  3-4 pen (1-1, 1-1, 0-0)
+Bayern München v Chelsea  3-4 pen 1-1 aet (1-1, 0-0)
+Bayern München v Chelsea  3-4 pen 1-1 aet
+
+Bayern München  1-1 aet (1-1, 0-0) 3-4 pen  Chelsea
+Bayern München  1-1 aet, 3-4 pen  Chelsea
+Bayern München  3-4 pen (1-1, 1-1, 0-0)  Chelsea
+Bayern München   3-4 pen 1-1 aet (1-1, 0-0)  Chelsea
+Bayern München   3-4 pen. 1-1 a.e.t.   Chelsea
+
+France  2-1 aet/gg Italy
+France  2-1aet/gg Italy
+France  2-1 a.e.t./g.g. Italy
+France  2-1 agget Italy
+France  2-1 asdet Italy
+
+France  2-1 aet/gg (1-1, 1-0) Italy
+France  2-1 aet/gg (1-1,) Italy
+France  2-1 aet/gg (1-1) Italy
+```
+
+(ii) Fuller-style samples:
+
+```
+Bayern München 1-1 Chelsea (aet, win 3-4 on pens)
+Bayern München 1-1 Chelsea (HT 0-0, FT 1-1, AET, PEN 3-4)
+
+Barcelona 2-2 Chelsea  (win 2-3 on aggregate)
+Real Madrid 2-1 Bayern München  (aet, agg 3-3, win 1-3 on pens)
+
+Bayern München 2-1 Real Madrid  (HT 1-0)
+Chelsea 1-0 Barcelona  (HT 1-0)
+Barcelona 2-2 Chelsea  (HT 2-1, AGG 2-3)
+Real Madrid 2-1 Bayern München  (HT 2-1, FT 2-1, AET, AGG 3-3, PEN 1-3)
+
+Barcelona 4-1 Arsenal   (6-3 on agg)
+Barcelona 4-1 Arsenal  (HT 3-1, AGG 6-3)
+
+Manchester United 3-2 Bayern München  (agg 4-4, win 1-2 on away goals)
+Manchester United 3-2 Bayern München  (HT 3-1, AGG 4-4, AWAY 1-2)
+
+Bayern München 2-1 Manchester United  (HT 0-1)
+Arsenal 2-2 Barcelona  (HT 0-0)
+
+Germany  2-1 Czech Republic   (aet)
+Germany  2-1 Czech Republic   (aet/gg)
+Germany  2-1 Czech Republic   (a.e.t./g.g.)
+Germany  2-1 Czech Republic   (a.e.t/g.g)
+Germany  2-1 Czech Republic   (agget)
+Germany  2-1 Czech Republic   (asdet)
+
+Germany  v Czech Republic   2-1 (aet/gg)
+Germany  v Czech Republic   2-1 (a.e.t./g.g.)
+Germany  v Czech Republic   2-1 (a.e.t/g.g)
+Germany  v Czech Republic   2-1 (agget)
+Germany  v Czech Republic   2-1 (asdet)
+
+France  2-1 Italy           (aet)
+France  2-1 Italy           (aet/gg)
+
+
+Greece  1-0 Czech Republic   (aet/sg)
+Greece  1-0 Czech Republic   (a.e.t./s.g.)
+Greece  1-0 Czech Republic   (asget)
+```
 
 
 ### Goal (Scorer) Line
 
-Goal (scorer) lines MUST be enclosed with `()` and, thus, start with `(` e.g.
+Goal (scorer) lines MUST be enclosed with parenthesis `()` AND start with `(`.
+Note - the minute marker (`'`) is optional and you can split the 
+goal (scorers) over multiple-lines 
+and the commas (`,`) between players and/or minutes are optional 
+e.g.
 
 ```
 (Neymar 71'; Diego 56')
 (Lavezzi 4' Luiz 61'og Pastore 90+3'; Hazard 27'pen)
-...
+
+   (Franck Ribéry 77, Ivica Olić 90+2;
+             Wayne Rooney 2)
+  (Franck Ribéry 77 Ivica Olić 90+2;
+             Wayne Rooney 2)
+  (Franck Ribéry 77
+   Ivica Olić 90+2;
+   Wayne Rooney 2)
+
+        (Darron Gibson 3, Nani 7,41;
+           Ivica Olić 43, Arjen Robben 74)
+
+        (Darron Gibson 3
+         Nani 7 41;
+         Ivica Olić 43
+         Arjen Robben 74)
+
+
+        (Theo Walcott 69, Cesc Fàbregas 85pen;
+               Zlatan Ibrahimović 46,59)
+
+    (Lionel Messi 21,37,42,88; Nicklas Bendtner 18)
+
+    (Diego Milito 35,70)
 ```
 
 
