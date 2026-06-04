@@ -564,7 +564,7 @@ Greece  1-0 Czech Republic   (asget)
 
 Goal (scorer) lines MUST be enclosed with parenthesis `()` AND start with `(`.
 Note - the minute marker (`'`) is optional and you can split the 
-goal (scorers) over multiple-lines 
+goal (scorers) over multiple lines 
 and the commas (`,`) between players and/or minutes are optional 
 e.g.
 
@@ -640,26 +640,26 @@ Group B  |  Spain        Netherlands          Chile          Australia
 ### Round (& Matchday Definition)  
 
 ```
-<ROUND>   |  <DATE>            OR
-<ROUND>   |  <DATE_PERIOD>
+▪ <ROUND>   |  <DATE>            OR
+▪ <ROUND>   |  <DATE_PERIOD>
 ```
 
-Note - `<ROUND>` is a text run (`<TEXT>`) that MUST match the round matching formula that
+Note - `<ROUND>` is a text run (`<TEXT>`) that MUST match the round outline formula that
 incl. Matchday 1, Matchday 2, Round 1, Round 2, Final, and many more.
 
 Examples:
 
 ```
-Matchday 1  |  Thu Jun 12
-Matchday 2  |  Fri Jun 13
-Matchday 3  |  Sat Jun 14
+▪ Matchday 1  |  Thu Jun 12
+▪ Matchday 2  |  Fri Jun 13
+▪ Matchday 3  |  Sat Jun 14
 ...
 
-Round of 16            |  Sat Jun 28 - Tue Jul 1
-Quarter-finals         |  Fri Jul 4  - Sat Jul 5
-Semi-finals            |  Tue Jul 8  - Wed Jul 9
-Match for third place  |  Sat Jul 12
-Final                  |  Sun Jul 13
+▪ Round of 16            |  Sat Jun 28 - Tue Jul 1
+▪ Quarter-finals         |  Fri Jul 4  - Sat Jul 5
+▪ Semi-finals            |  Tue Jul 8  - Wed Jul 9
+▪ Match for third place  |  Sat Jul 12
+▪ Final                  |  Sun Jul 13
 ```
 
 What's the point?  If a match has no round header (in scope) than tools can use
