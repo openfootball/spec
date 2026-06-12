@@ -45,9 +45,9 @@ See [fbtok @ rubygems.org »](https://rubygems.org/gems/fbtok).
 
 You are welcome to comment on the default/standard Football.TXT format.
 You can find samples 
-(i) for the Football.TXT format, level 1 in the `/samples` directory and 
-(ii) for level 2 in the `/samples-l2` directory and 
-(iii) more upcoming experimental format extensions in the `/samples-lx` directory.
+(i) for the Football.TXT format, level 1 in the [`/samples`](https://github.com/openfootball/spec/tree/master/samples) directory and 
+(ii) for level 2 in the [`/samples-l2`](https://github.com/openfootball/spec/tree/master/samples-l2) directory and 
+(iii) more upcoming experimental format extensions in the `/samples-lx` directory.  For more (read-world) samples, simply browse the [/openfootball](https://github.com/openfootball) org that incl. all World Cups from 1930 to 2026 (classic, min, & max versions), all European Championships, the English Premier League, German Bundesliga, Spanish La Liga,  Brasileiro Série A, Mexican Liga MX, and much more!
 
 Tip - you can find the (work-in-progress) context-free LALR(1) grammar 
 for the Football.TXT format in the [`/grammar`](https://github.com/sportdb/sport.db.v2/tree/master/parser/fbtxt/grammar) directory.
