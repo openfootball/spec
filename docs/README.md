@@ -44,9 +44,10 @@ See [fbtok @ rubygems.org »](https://rubygems.org/gems/fbtok).
 ###  Request for Comments
 
 You are welcome to comment on the default/standard Football.TXT format.
-You can find samples for the Football.TXT format, level 1 in the `/samples` directory
-and for level 2 in the `/samples-l2` directory
-and more upcoming experimental format extensions in the `/samples-lx` directory.
+You can find samples 
+(i) for the Football.TXT format, level 1 in the `/samples` directory and 
+(ii) for level 2 in the `/samples-l2` directory and 
+(iii) more upcoming experimental format extensions in the `/samples-lx` directory.
 
 Tip - you can find the (work-in-progress) context-free LALR(1) grammar 
 for the Football.TXT format in the [`/grammar`](https://github.com/sportdb/sport.db.v2/tree/master/parser/fbtxt/grammar) directory.
