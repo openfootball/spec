@@ -1,34 +1,55 @@
 # Football.TXT Format Spec (& Tests)
 
+## What's News (in 2026)?
+
+### Team-based match schedules with home/away/neutral markers/shorthands
+
+The football.txt format now supports team-based match schedules with home `(h)`, away `(a)`, neutral `(n)` markers / shorthands. 
+Example:
+
+```
+= Regionalliga Ost | Kremser SC
+
+Fri 10.04.2026 19:30  ▪26  (h) Wiener Viktoria  1-0 (0-0)
+Fri 01.05.2026 19:30  ▪29  (h) SR Donaufeld     2-0 (1-0)
+Fri 15.05.2026 19:30  ▪31  (h) TWL Elektra      5-1 (2-1)
+Fri 29.05.2026 19:30  ▪33  (h) SV Donau         5-1 (2-0)
+```
+
 
 ## What's News (in 2025)?
 
 ###  fbtok & fbtree
 
-Note - you can try the default/standard parser (& tokenizer) for the
+Note - you can try the default/standard parser (& tokenizer/lexer) for the
 Football.TXT (match schedule, results, line-ups & more) 
 format as (standalone) command-line tools.
 
-For the tokenizer (lexer) try:
+For the tokenizer/lexer try:
 
-     $ fbtok england/2019-20/1-premierleague.txt
+     $ fbtok england/2025-26/1-premierleague.txt
 
 and for the parser - outputing the (abstract) parse tree - try:
 
-     $ fbtree england/2019-20/1-premierleague.txt
+     $ fbtree england/2025-26/1-premierleague.txt
 
 
 Tip - to install the tools use:
 
      $ gem install fbtok     # (incl. fbtree and others)
 
+See [fbtok @ rubygems.org »](https://rubygems.org/gems/fbtok).     
+
 
 ###  Request for Comments
 
 You are welcome to comment on the default/standard Football.TXT format.
 You can find samples for the Football.TXT format, level 1 in the `/samples` directory
-and for level 2 in the `/samples-l2` directory.
+and for level 2 in the `/samples-l2` directory
+and more upcoming experimental format extensions in the `/samples-lx` directory.
 
+Tip - you can find the (work-in-progress) context-free LALR(1) grammar 
+for the Football.TXT format in the [`/grammar`](https://github.com/sportdb/sport.db.v2/tree/master/parser/fbtxt/grammar) directory.
 
 
 
