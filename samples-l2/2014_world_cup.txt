@@ -10,16 +10,16 @@ Group G  |  Germany      Portugal             Ghana          United States
 Group H  |  Belgium      Algeria              Russia         South Korea
 
 
-Matchday 1  |  Thu Jun 12
-Matchday 2  |  Fri Jun 13
-Matchday 3  |  Sat Jun 14
+▪ Matchday 1  |  Thu Jun 12
+▪ Matchday 2  |  Fri Jun 13
+▪ Matchday 3  |  Sat Jun 14
 # ...
 
-Round of 16            |  Sat Jun 28 - Tue Jul 1
-Quarter-finals         |  Fri Jul 4  - Sat Jul 5
-Semi-finals            |  Tue Jul 8  - Wed Jul 9
-Match for third place  |  Sat Jul 12
-Final                  |  Sun Jul 13
+▪ Round of 16            |  Sat Jun 28 - Tue Jul 1
+▪ Quarter-finals         |  Fri Jul 4  - Sat Jul 5
+▪ Semi-finals            |  Tue Jul 8  - Wed Jul 9
+▪ Match for third place  |  Sat Jul 12
+▪ Final                  |  Sun Jul 13
 
 
 ▪ Group A
@@ -46,5 +46,3 @@ Mon Jun 23 13:00   Australia - Spain         @ Curitiba (UTC-3)
 Mon Jun 23 13:00   Netherlands - Chile       @ São Paulo (UTC-3)
 
 # ...
-
-
