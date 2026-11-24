@@ -2,9 +2,22 @@
 
 ## What's News (in 2026)?
 
+
+### The Nano Edition ("Nano Football TXT")
+
+Want a football.TXT lexer & parser in your own preferred (programming) language?
+Yes, you can!  Try out the
+new "Football.TXT, The Nano Edition" spec(ification) - using a subset of the full format -
+with your a.i. coding agent of your choice.
+
+For more, see [Football.TXT Format, The Nano Edition »](nano)
+
+
+
+
 ### Team-based match schedules with home/away/neutral markers/shorthands
 
-The football.txt format now supports team-based match schedules with home `(h)`, away `(a)`, neutral `(n)` markers / shorthands. 
+The football.txt format now supports team-based match schedules with home `(h)`, away `(a)`, neutral `(n)` markers / shorthands.
 Example:
 
 ```
@@ -22,7 +35,7 @@ Fri 29.05.2026 19:30  ▪33  (h) SV Donau         5-1 (2-0)
 ###  fbtok & fbtree
 
 Note - you can try the default/standard parser (& tokenizer/lexer) for the
-Football.TXT (match schedule, results, line-ups & more) 
+Football.TXT (match schedule, results, line-ups & more)
 format as (standalone) command-line tools.
 
 For the tokenizer/lexer try:
@@ -38,18 +51,18 @@ Tip - to install the tools use:
 
      $ gem install fbtok     # (incl. fbtree and others)
 
-See [fbtok @ rubygems.org »](https://rubygems.org/gems/fbtok).     
+See [fbtok @ rubygems.org »](https://rubygems.org/gems/fbtok).
 
 
 ###  Request for Comments
 
 You are welcome to comment on the default/standard Football.TXT format.
-You can find samples 
-(i) for the Football.TXT format, level 1 in the [`/samples`](https://github.com/openfootball/spec/tree/master/samples) directory and 
-(ii) for level 2 in the [`/samples-l2`](https://github.com/openfootball/spec/tree/master/samples-l2) directory and 
+You can find samples
+(i) for the Football.TXT format, level 1 in the [`/samples`](https://github.com/openfootball/spec/tree/master/samples) directory and
+(ii) for level 2 in the [`/samples-l2`](https://github.com/openfootball/spec/tree/master/samples-l2) directory and
 (iii) more upcoming experimental format extensions in the `/samples-lx` directory.  For more (read-world) samples, simply browse the [/openfootball](https://github.com/openfootball) org that incl. all World Cups from 1930 to 2026 (classic, min, & max versions), all European Championships, the English Premier League, German Bundesliga, Spanish La Liga,  Brasileiro Série A, Mexican Liga MX, and much more!
 
-Tip - you can find the (work-in-progress) context-free LALR(1) grammar 
+Tip - you can find the (work-in-progress) context-free LALR(1) grammar
 for the Football.TXT format in the [`/grammar`](https://github.com/sportdb/sport.db.v2/tree/master/parser/fbtxt/grammar) directory.
 
 
@@ -69,7 +82,7 @@ Example - [`england/2025-26/1-premierleague.txt`](https://github.com/openfootbal
 
 ```
 ▪ Matchday 1
-  Fri Aug 15 
+  Fri Aug 15
     20:00  Liverpool FC            v AFC Bournemouth          4-2 (1-0)
   Sat Aug 16
     12:30  Aston Villa FC          v Newcastle United FC      0-0
@@ -127,7 +140,7 @@ vs Example - [`2025-26/en.1.json`](https://github.com/openfootball/football.json
 
 
 Note: If you auto-generate your datasets and want to focus on
-easy machine-writing and machine-reading, 
+easy machine-writing and machine-reading,
 see the [Football.CSV format »](https://footballcsv.github.io/spec/) :-).
 
 
@@ -175,8 +188,8 @@ Sun Dec 18
 
 ## What's News (in 2026)?
 
-Note - starting in 2026 the Football.TXT format 
-is now split-up into levels. 
+Note - starting in 2026 the Football.TXT format
+is now split-up into levels.
 
 Level 1 supports and includes match schedules with goal scorer lines
  BUT no team line-ups, sent-offs props and more.
@@ -206,14 +219,14 @@ Wed Apr 2
 
 ### Match Results & Fixtures
 
-For match fixtures (without results) you MUST separate two team names by `-` or `v`. 
+For match fixtures (without results) you MUST separate two team names by `-` or `v`.
 Examples:
 
 ```
 Brazil   - Mexico
 Cameroon - Croatia
 
-Cameroon v Brazil 
+Cameroon v Brazil
 Croatia  v Mexico
 ```
 
@@ -228,7 +241,7 @@ Atlético Mineiro - River Plate    3-0
 Botafogo         - Peñarol        5-0
 
 River Plate   0-0  Atlético Mineiro
-Peñarol       3-1  Botafogo 
+Peñarol       3-1  Botafogo
 ```
 
 For the after extra-time (aet) score or penalties formats, see the score format section.
@@ -244,13 +257,13 @@ a text run.  If you want to break text runs use two (or more) spaces.
 ARG  BOL  BRA   =>   [:TEXT,"ARG"], [:TEXt,"BOL"], [:TEXT,"BRA"]
 ARG BOL BRA     =>   [:TEXT,"ARG BOL BRA"]
 
-Fri  Liverpool  =>   [:TEXT,"Fri"], [:TEXT,"Liverpool"]     
+Fri  Liverpool  =>   [:TEXT,"Fri"], [:TEXT,"Liverpool"]
 Fri Liverpool   =>   [:TEXT,"Fri Liverpool"]
 
-Matchday 1      =>   [:TEXT,"Matchday 1"] 
+Matchday 1      =>   [:TEXT,"Matchday 1"]
 1860 München    =>   [:TEXT,"1860 München"]
 ...
-```     
+```
 
 
 
@@ -273,7 +286,7 @@ To add stages in your match schedules and round lines (outlines) use:
 ```
 ▪ Matchday 1                  # no stage (assumes regular season)
 ▪ Matchday 2
-...  
+...
 ▪ Championship, Matchday 1    # Championship stage
 ▪ Championship, Matchday 2
 ...
@@ -297,9 +310,9 @@ To add stages in your match schedules and round lines (outlines) use:
 ```
 
 
-## Stadiums & Grounds 
+## Stadiums & Grounds
 
-Use the geo marker, that is, `@` to start with adding "geo" names - that is, stadiums & grounds 
+Use the geo marker, that is, `@` to start with adding "geo" names - that is, stadiums & grounds
 and / or cities, countries and more.
 Examples:
 
@@ -309,7 +322,7 @@ Examples:
   @ Bucuresti, 23 August
   @ Wien, Prater
   @ Buenos Aires
-  @ Brasília 
+  @ Brasília
   @ Arena Fonte Nova, Salvador
   @ Arena Pantanal, Cuiabá
   @ Estádio do Maracanã, Rio de Janeiro
@@ -317,7 +330,7 @@ Examples:
 ```
 
 Note - Geo names have their own (lexer) mode and, thus, you can (even) use dates
-(e.g. `23 August`) or more. 
+(e.g. `23 August`) or more.
 
 
 ### Comments & Blank Lines
@@ -326,7 +339,7 @@ Note - Geo names have their own (lexer) mode and, thus, you can (even) use dates
 
 Use blank links as you wish to make the text look pretty, that is, easy-to-read and easy-to-write.
 
-#### Single-line comments 
+#### Single-line comments
 
 You can use `#` for comments. Example:
 
@@ -506,7 +519,7 @@ The "generic" score format is simply:
 3-4
 ```
 
-#### Score Formats for Half-Time, After-Extra-Time, Penalty-Shootout, & More 
+#### Score Formats for Half-Time, After-Extra-Time, Penalty-Shootout, & More
 
 For adding half-time, after-extra-time, penalty-shootouts, & more you have two format options - named (i) full & (ii) fuller.
 
@@ -585,9 +598,9 @@ Greece  1-0 Czech Republic   (asget)
 ### Goal (Scorer) Line
 
 Goal (scorer) lines MUST be enclosed with parenthesis `()` AND start with `(`.
-Note - the minute marker (`'`) is optional and you can split the 
-goal (scorers) over multiple lines 
-and the commas (`,`) between players and/or minutes are optional 
+Note - the minute marker (`'`) is optional and you can split the
+goal (scorers) over multiple lines
+and the commas (`,`) between players and/or minutes are optional
 e.g.
 
 ```
@@ -625,29 +638,29 @@ e.g.
 
 ---
 
-## Football.TXT Format Level 2  
+## Football.TXT Format Level 2
 
 The Football.TXT Format Level 2 supports all of Level 1
 plus adds:
 
 - Definitions
-  - Groups 
+  - Groups
   - Rounds (& Matchdays)
 - Match Properties
   - Team Line-ups (incl. Trainer, Substitutions, etc.)
   - Yellow Cards, Red Cards, Sent-off
   - Penalty Shootouts
-  - Referees 
+  - Referees
   - (Stadium) Attendence
 
 
-### Group Definition  
+### Group Definition
 
 ```
 <GROUP>   |  <TEAM>  <TEAM> ...
 ```
 
-Note - `<GROUP>`is a text run (`<TEXT>`) that MUST match the group matching formula that 
+Note - `<GROUP>`is a text run (`<TEXT>`) that MUST match the group matching formula that
 incl. Group 1, Group 2, Group A, Group B, Group A1, Group A2, Group B1, Group B2, etc.
 
 Examples:
@@ -659,7 +672,7 @@ Group B  |  Spain        Netherlands          Chile          Australia
 ```
 
 
-### Round (& Matchday Definition)  
+### Round (& Matchday Definition)
 
 ```
 ▪ <ROUND>   |  <DATE>            OR
@@ -685,7 +698,7 @@ Examples:
 ```
 
 What's the point?  If a match has no round header (in scope) than tools can use
-the round & match definitions to find a match by date lookup. 
+the round & match definitions to find a match by date lookup.
 
 
 ### Prop(erty) Lines
@@ -701,27 +714,27 @@ Examples:
 ```
 Yugoslavia: Soskic, Durkovic, Jusufi, Zanetic, Zebec, Perusic, Knez,
             Jerkovic, Galic, Sekularac, Kostic
-France: Lamia, Wendling, Rodzik, Marcel, Herbin, Ferrier, Heutte, Müller, 
+France: Lamia, Wendling, Rodzik, Marcel, Herbin, Ferrier, Heutte, Müller,
         Wiesnieski, Stievenard, Vincent
 
 Italy:              Gianluigi Donnarumma - Alessandro Florenzi (Giovanni Di Lorenzo),
                     Leonardo Bonucci, Giorgio Chiellini, Leonardo Spinazzola -
-                    Nicolò Barella, Jorge Frello Filho, Manuel Locatelli (Bryan Cristante) - 
-                    Domenico Berardi (Federico Bernardeschi), Ciro Immobile (Andrea Belotti), 
+                    Nicolò Barella, Jorge Frello Filho, Manuel Locatelli (Bryan Cristante) -
+                    Domenico Berardi (Federico Bernardeschi), Ciro Immobile (Andrea Belotti),
                     Lorenzo Insigne (Federico Chiesa); Coach: Roberto Mancini
 Turkey:             Uğurcan Çakır - Mehmet Zeki Çelik, Merih Demiral, Çağlar Söyüncü,
-                    Umut Meraş - Okay Yokuşlu (İrfan Can Kahveci) - 
-                    Kenan Karaman (Halil Dervişoğlu), Yusuf Yazıcı (Cengiz Ünder), 
+                    Umut Meraş - Okay Yokuşlu (İrfan Can Kahveci) -
+                    Kenan Karaman (Halil Dervişoğlu), Yusuf Yazıcı (Cengiz Ünder),
                     Ozan Tufan (Kaan Ayhan), Hakan Çalhanoğlu - Burak Yılmaz;
                     Coach: Şenol Güneş
 
-Switzerland:        Yann Sommer -  Nico Elvedi, Manuel Akanji, 
-                    Ricardo Rodríguez (Admir Mehmedi 87') - Silvan Widmer (Kevin Mbabu 73'), 
+Switzerland:        Yann Sommer -  Nico Elvedi, Manuel Akanji,
+                    Ricardo Rodríguez (Admir Mehmedi 87') - Silvan Widmer (Kevin Mbabu 73'),
                     Remo Freuler, Granit Xhaka, Steven Zuber (Christian Fassnacht 79') -
-                    Breel Embolo (Ruben Vargas 79'), Xherdan Shaqiri (Mario Gavranović 73'), 
-                    Haris Seferović (Fabian Schär 97'); Coach: Vladimir Petković 
-France:             Hugo Lloris - Benjamin Pavard, Raphaël Varane, 
-                    Clément Lenglet (Kingsley Coman 46' (Marcus Thuram 111')), 
+                    Breel Embolo (Ruben Vargas 79'), Xherdan Shaqiri (Mario Gavranović 73'),
+                    Haris Seferović (Fabian Schär 97'); Coach: Vladimir Petković
+France:             Hugo Lloris - Benjamin Pavard, Raphaël Varane,
+                    Clément Lenglet (Kingsley Coman 46' (Marcus Thuram 111')),
                     Presnel Kimpembe, Adrien Rabiot -
                     Paul Pogba, N'Golo Kanté, Antoine Griezmann (Moussa Sissoko 88') -
                     Karim Benzema (Olivier Giroud 94'), Kylian Mbappé;
@@ -730,14 +743,14 @@ France:             Hugo Lloris - Benjamin Pavard, Raphaël Varane,
 Palmeiras: Marcos - Francisco Javier Arce (Evair 57'), Júnior Baiano,
            Roque Júnior, Rogério, César Sampaio, Alex (75' Euller), Zinho,
            Oséas, Paulo Nunes; trainer: Luiz Felipe Scolari
-Deportivo Cali: Rafael Dudamel - John Wilmer Pérez (Herman Gaviria 84'), 
+Deportivo Cali: Rafael Dudamel - John Wilmer Pérez (Herman Gaviria 84'),
                 Andrés Mosquera, Mario Yepez, Gerardo Bedoya, Martín Zapata,
-                Alexander Viveros, Arley Betancourt, Mayer Candelo (Freddy Hurtado 62'), 
-                Geovanny Córdoba (Manuel Valencia 81'), 
+                Alexander Viveros, Arley Betancourt, Mayer Candelo (Freddy Hurtado 62'),
+                Geovanny Córdoba (Manuel Valencia 81'),
                 Victor Bonilla; trainer: José Hernández
 ```
 
-Note - you can use multiple lines for the lineup; to continue the lineup 
+Note - you can use multiple lines for the lineup; to continue the lineup
 the line MUST end with `,;-`, that is, comma (`,`), semicolon (`;`) or dash (`-`).
 
 
@@ -751,14 +764,14 @@ Penalties:       1-0  Mario Gavranović, 1-1 Paul Pogba, 2-1  Fabian Schär, 2-2
                  3-2  Manuel Akanji, 3-3 Marcus Thuram, 4-3 Ruben Vargas,
                   4-4  Presnel Kimpembe, 5-4 Admir Mehmedi,  Kylian Mbappé (save)
 
-Penalty shootout: 0-0 Zinho (held), 0-1 Dudamel; 
+Penalty shootout: 0-0 Zinho (held), 0-1 Dudamel;
                   1-1 Júnior Baiano, 1-2 Gaviria;
-                  2-2 Roque Júnior, 2-3 Yepes; 
+                  2-2 Roque Júnior, 2-3 Yepes;
                   3-3 Rogério, 3-3 Bedoya (post);
-                  4-3 Euller, 4-3 Zapata (wide) 
+                  4-3 Euller, 4-3 Zapata (wide)
 ```
 
-Note - you can use multiple lines for the penalties; to continue the penalties 
+Note - you can use multiple lines for the penalties; to continue the penalties
 the line MUST end with `,;`, that is, comma (`,`) or semicolon (`;`).
 
 
@@ -773,7 +786,7 @@ Yellow Cards:      Çağlar Söyüncü 88',  Halil Dervişoğlu 90'
 Yellow Cards:     Nico Elvedi 32',  Ricardo Rodríguez 62', Granit Xhaka 76',  Manuel Akanji 108';
                   Raphaël Varane 30',  Kingsley Coman 88', Benjamin Pavard 91'
 
-Yellow cards: Sampaio 54', Argel 77';  Barros Schelotto 65',  Bermúdez 76' 
+Yellow cards: Sampaio 54', Argel 77';  Barros Schelotto 65',  Bermúdez 76'
 
 Red cards: Mosquera, Evair
 
@@ -791,7 +804,7 @@ Referee:            Fernando Rapallini (Argentina)
 
 Referee: Aquino (Paraguay)
 
-ref: Jionni (Italy)   
+ref: Jionni (Italy)
 ```
 
 ### Attendance / Att / Attn
@@ -816,7 +829,7 @@ Note - You CANNOT use commas in number e.g. `45,000` use underscore e.g. `45_000
 
 ## Language (English, Deutsch, Español, etc.)
 
-Note - The focus for the Football.TXT format v1 is on English.   
+Note - The focus for the Football.TXT format v1 is on English.
 More formats with conventions used in German (Deutsch)
 or Spanish (Español) are planned for later.
 
@@ -835,8 +848,3 @@ For example -  conventions in German (Deutsch) incl.:
 
 Yes, you can. More than welcome.
 See [Help & Support »](https://github.com/openfootball/help)
-
-
-
-
-
